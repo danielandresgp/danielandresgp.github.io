@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Daniel Andrés Díaz-Pachón / Aleatoriedades"
+title                    : "Gracia y aleatoriedades"
 title_separator          : "-"
 name                     : &name "Daniel Andrés Díaz-Pachón"
 description              : &description "personal description"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Daniel Andrés Díaz-Pachón"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  bio              : "I am Research Assistant Professor in the Division of Biostatistics at the University of Miami. "
+  location         : "Miami Fl"
+  employer         : "University of Miami"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=UzMl4TYAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "danielandresgp"
   google_plus      :
   keybase          :
   instagram        :
