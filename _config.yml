@@ -82,7 +82,10 @@ analytics:
 author:
   name             : "Daniel Andrés Díaz-Pachón"
   avatar           : "profile.png"
-  bio              : "I am Research Assistant Professor in the Division of Biostatistics at the University of Miami. My research interests lie at the intersection, or maybe the union, of probability, statistics theory, information theory, and machine learning. If you are interested on collaborations or partnerships, you can reach me at ***@miami.edu (replace *** by Ddiaz3)."
+  bio              : "Research Assistant Professor, 
+                      Division of Biostatistics, 
+                      Department of Public Health Sciences, 
+                      University of Miami." 
   location         : 
   employer         : 
   pubmed           : 
