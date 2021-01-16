@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Research Assistant Professor in the [Division of Biostatistics](https://www.publichealth.med.miami.edu/divisions/biostatistics/) at the [University of Miami](https://miami.edu/). I received my PhD in Probability at the [Instituto de Matemática e Estatística](https://www.ime.usp.br/) at [Universidade de São Paulo](https://www5.usp.br/), and my B.S. in Statistics at [Universidad Nacional de Colombia](https://unal.edu.co/). 
+I am Research Assistant Professor in the Division of Biostatistics at the University of Miami. I received my PhD in Probability at the Institute of Mathematics and Statistics at the University of São Paulo, and my B.S. in Statistics at National University of Colombia. 
 
 Research interests
 ======
