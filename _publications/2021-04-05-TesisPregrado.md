@@ -1,7 +1,7 @@
 ---
 title: "Hipótesis lineales sobre medias para experimentos de franjas en parcelas divididas"
 collection: publications
-permalink: http://danielandresgp.github.io/files/TesisPregrado.pdf
+permalink: files/TesisPregrado.pdf
 excerpt: 'Undergraduate dissertation (Spanish).'
 date: 2004-02-01
 venue: 'Departamento de Estadística, Universidad Nacional de Colombia'
