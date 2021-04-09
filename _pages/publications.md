@@ -14,6 +14,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
 **1. Hipótesis lineales sobre medias para experimentos de franjas en parcelas divididas.**
 
 D. A. Díaz-Pachón
