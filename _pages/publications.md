@@ -1,5 +1,4 @@
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-
+You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=UzMl4TYAAAAJ&hl=en).
 
 ### 2. Algumas propriedades de alocações para o processo pontual de Poisson
 &nbsp;&nbsp;&nbsp;&nbsp; **D. A. Díaz-Pachón**. Advisor: **[S. Popov](https://www.fc.up.pt/pessoas/serguei.popov/)**.
