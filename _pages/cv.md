@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV [here.pdf](https://github.com/danielandresgp/danielandresgp.github.io/files/6286613/Diaz-Pachon.CV.pdf)
+You can download my CV [here](https://github.com/danielandresgp/danielandresgp.github.io/files/6286613/Diaz-Pachon.CV.pdf)
 
 Education
 ======
