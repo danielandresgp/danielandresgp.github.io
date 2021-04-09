@@ -5,12 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=UzMl4TYAAAAJ&hl=en).
 
 ### 3. A note on large deviations for the stable marriage of Poisson and Lebesgue with random appetites
 &nbsp;&nbsp;&nbsp;&nbsp; **D. A. Díaz-Pachón**.
 
-&nbsp;&nbsp;&nbsp;&nbsp; _Journal of Theoretical Probability_, **25**(1):77–91, 2012. [Preprint](https://arxiv.org/pdf/0911.1429.pdf).
+&nbsp;&nbsp;&nbsp;&nbsp; _Journal of Theoretical Probability_, **25**(1):77–91, 2012. [Preprint](https://danielandresgp.github.io/files/ldsmplra.pdf).
 
 
 ### 2. Algumas propriedades de alocações para o processo pontual de Poisson
