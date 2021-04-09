@@ -1,3 +1,9 @@
+---
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=UzMl4TYAAAAJ&hl=en).
 
 ### 3. A note on large deviations for the stable marriage of Poisson and Lebesgue with random appetites
