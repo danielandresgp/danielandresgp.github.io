@@ -20,4 +20,4 @@ author_profile: true
 ### 1. Hipótesis lineales sobre medias para experimentos de franjas en parcelas divididas
 &nbsp;&nbsp;&nbsp;&nbsp; **D. A. Díaz-Pachón**. Advisors: **L. A. López-Pérez, [F. J. P. Zimmermann](https://independent.academia.edu/FranciscoZimmermann)**.
 
-&nbsp;&nbsp;&nbsp;&nbsp; Undergraduate dissertation (Spanish). Departamento de Estadística, Universidad Nacional de Colombia, Bogotá, 2004. [pdf](https://danielandresgp.github.io/files/TesisPregrado.pdf).
+&nbsp;&nbsp;&nbsp;&nbsp; Undergraduate dissertation (Spanish). Departamento de Estadística, Universidad Nacional de Colombia, 2004. [pdf](https://danielandresgp.github.io/files/TesisPregrado.pdf).
