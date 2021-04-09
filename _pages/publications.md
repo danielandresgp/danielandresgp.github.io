@@ -8,7 +8,7 @@ author_profile: true
 ### 4. Percolation for the stable marriage of Poisson and Lebesgue with random appetites
 &nbsp;&nbsp;&nbsp;&nbsp; **D. A. Díaz-Pachón**.
 
-&nbsp;&nbsp;&nbsp;&nbsp; _Stochastics_, **85**(2):252–261, 2013. [Preprint](https://danielandresgp.github.io/files/6287986/psmra.pdf). 
+&nbsp;&nbsp;&nbsp;&nbsp; _Stochastics_, **85**(2):252–261, 2013. [Preprint](https://danielandresgp.github.io/files/psmra.pdf). 
 
 
 ### 3. A note on large deviations for the stable marriage of Poisson and Lebesgue with random appetites
