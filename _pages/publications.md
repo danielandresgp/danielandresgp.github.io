@@ -14,6 +14,8 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-1. [Hipótesis lineales sobre medias para experimentos de franjas en parcelas divididas](https://danielandresgp.github.io/files/TesisPregrado.pdf). 
+###### 1. Hipótesis lineales sobre medias para experimentos de franjas en parcelas divididas. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Departamento de Estadística, Universidad Nacional de Colombia, Bogotá, 2004. Undergraduate dissertation (Spanish).
+**Daniel Andrés Díaz-Pachón**
+
+Departamento de Estadística, Universidad Nacional de Colombia, Bogotá, 2004. Undergraduate dissertation (Spanish). [pdf](https://danielandresgp.github.io/files/TesisPregrado.pdf)
