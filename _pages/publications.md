@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+### 5. Is Cosmological Tuning Fine or Coarse?
+&nbsp;&nbsp;&nbsp;&nbsp; **D. A. Díaz-Pachón, Ola Hössjer, Robert J. Marks II**.
+
+&nbsp;&nbsp;&nbsp;&nbsp; [Preprint](https://danielandresgp.github.io/files/FineTuning.pdf). 
+
 ### 4. Percolation for the stable marriage of Poisson and Lebesgue with random appetites
 &nbsp;&nbsp;&nbsp;&nbsp; **D. A. Díaz-Pachón**.
 
