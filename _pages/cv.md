@@ -9,14 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+[My CV.pdf](https://github.com/danielandresgp/danielandresgp.github.io/files/6286613/Diaz-Pachon.CV.pdf)
+
 Education
 ======
-* B.S. in Statistics (Minors in Mathematics and Biostatistics), Universidad Nacional de Colombia, Bogotá, Colombia, 2005
-* Ph.D in Probability, Instituto de Matemática e Estatística - Universidade de São Paulo, São Paulo, Brazil, 2009
+* B.S. in Statistics (Minors in Mathematics and Biostatistics), Universidad Nacional de Colombia, Bogotá, 2005
+* Ph.D in Probability, Instituto de Matemática e Estatística - Universidade de São Paulo, Brazil, 2009
 
 Work experience
 ======
-* 2011-2015: Postdoctoral Associate[Diaz-Pachon CV.pdf](https://github.com/danielandresgp/danielandresgp.github.io/files/6286613/Diaz-Pachon.CV.pdf)
+* 2011-2015: Postdoctoral Associate
 
   * Division of Biostatistics - University of Miami, Florida, USA.
 
