@@ -15,4 +15,5 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 1. [Hipótesis lineales sobre medias para experimentos de franjas en parcelas divididas](https://danielandresgp.github.io/files/TesisPregrado.pdf). 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Departamento de Estadística, Universidad Nacional de Colombia, Bogotá, 2004. Undergraduate dissertation (Spanish).
