@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 
 ### 2. Algumas propriedades de alocações para o processo pontual de Poisson
-&nbsp;&nbsp;&nbsp;&nbsp; **D. A. Díaz-Pachón**. Advisor: **Serguei Popov**
+&nbsp;&nbsp;&nbsp;&nbsp; **D. A. Díaz-Pachón**. Advisor: **[S. Popov](https://www.fc.up.pt/pessoas/serguei.popov/)**.
 
 &nbsp;&nbsp;&nbsp;&nbsp; Instituto de Matemática e Estatística, Universidad de São Paulo, Brazil, 2009. Doctoral dissertation (Portugues). [pdf](https://danielandresgp.github.io/files/TesisDoutorado.pdf)
 
