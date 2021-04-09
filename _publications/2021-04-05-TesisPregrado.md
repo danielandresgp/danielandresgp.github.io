@@ -8,5 +8,4 @@ venue: 'Departamento de Estadística, Universidad Nacional de Colombia'
 paperurl: 'http://danielandresgp.github.io/files/TesisPregrado.pdf'
 ---
 
-[Download here](http://danielandresgp.github.io/files/TesisPregrado.pdf)
-
+%[Download here](http://danielandresgp.github.io/files/TesisPregrado.pdf)
