@@ -18,9 +18,11 @@ Education
 
 Work experience
 ======
+
+* 2015- current: Research Assistant Professor
+  * Division of Biostatistics - University of Miami, Florida, USA.
 * 2011-2015: Postdoctoral Associate
   * Division of Biostatistics - University of Miami, Florida, USA.
 
-* 2015- current: Research Assistant Professor
-  * Division of Biostatistics - University of Miami, Florida, USA
+
   
