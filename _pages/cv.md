@@ -11,21 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Statistics (Minors in Mathematics and Biostatistics), Universidad Nacional de Colombia, Bogotá, Colombia 2005
+* Ph.D in Probability, Instituto de Matemática e Estatística - Universidade de São Paulo, São Paulo, Brazil 2009
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2011-2015: Postdoctoral Associate 2011-2015
+  * Division of Biostatistics - University of Miami, Florida, USA.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2015- current: Research Assistant Professor
+  * Division of Biostatistics - University of Miami, Florida, USA
   
 Skills
 ======
