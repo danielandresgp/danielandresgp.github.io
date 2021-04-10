@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### 8. Is Cosmological Tuning Fine or Coarse?
-&nbsp;&nbsp;&nbsp;&nbsp; **Daniel Andrés Díaz-Pachón, Ola Hössjer, Robert J. Marks II**.
+&nbsp;&nbsp;&nbsp;&nbsp; **Daniel Andrés Díaz-Pachón, [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541), [Robert J. Marks II](https://robertmarks.org/)**.
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Preprint](https://danielandresgp.github.io/files/FineTuning.pdf). 
 
