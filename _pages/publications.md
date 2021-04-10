@@ -5,23 +5,35 @@ permalink: /publications/
 author_profile: true
 ---
 
-### 11. Is Cosmological Tuning Fine or Coarse?
+### 13. Is Cosmological Tuning Fine or Coarse?
 &nbsp;&nbsp;&nbsp;&nbsp; **Daniel Andrés Díaz-Pachón, [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541), and [Robert J. Marks II](https://robertmarks.org)**.
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Preprint](https://danielandresgp.github.io/files/FineTuning.pdf). 
 
 
+### 12. Mode hunting using pettiest component analysis
+&nbsp;&nbsp;&nbsp;&nbsp; **Tianhao Liu, Daniel Andrés Díaz-Pachón, [J. Sunil Rao](https://www.jsunilrao.com/), and [Jean-Eudes Dazard](https://case.academia.edu/JED)**.
+
+&nbsp;&nbsp;&nbsp;&nbsp; Under review. [Preprint](https://danielandresgp.github.io/files/Pettiest-components-analysis.pdf). 
+
+
+### 11. A simple correction for COVID-19 sampling bias
+&nbsp;&nbsp;&nbsp;&nbsp; **Daniel Andrés Díaz-Pachón, and [J. Sunil Rao](https://www.jsunilrao.com/)**.
+
+&nbsp;&nbsp;&nbsp;&nbsp; _J Theoretical Biol_, 512:110556, 2021. [Preprint](https://danielandresgp.github.io/files/SamplingBias.pdf). 
+
+
 ### 10. Active Information Requirements for Fixation on the Wright-Fisher Model of Population Genetics
 &nbsp;&nbsp;&nbsp;&nbsp; **Daniel Andrés Díaz-Pachón, and [Robert J. Marks II](https://robertmarks.org)**.
 
-&nbsp;&nbsp;&nbsp;&nbsp; BIO-Complexity, 2020(4):1–6, 2020. [Preprint](https://danielandresgp.github.io/files/PopGenActInfo.pdf). 
+&nbsp;&nbsp;&nbsp;&nbsp; _BIO-Complexity_, 2020(4):1–6, 2020. [Preprint](https://danielandresgp.github.io/files/PopGenActInfo.pdf). 
 
 
 
 ### 9. Generalized active information: Extensions to unbounded domains
 &nbsp;&nbsp;&nbsp;&nbsp; **Daniel Andrés Díaz-Pachón, and [Robert J. Marks II](https://robertmarks.org)**.
 
-&nbsp;&nbsp;&nbsp;&nbsp; BIO-Complexity, 2020(3):1–6, 2020. [Preprint](https://danielandresgp.github.io/files/GenActInfo.pdf). 
+&nbsp;&nbsp;&nbsp;&nbsp; _BIO-Complexity_, 2020(3):1–6, 2020. [Preprint](https://danielandresgp.github.io/files/GenActInfo.pdf). 
 
 
 ### 8. Hypothesis testing with active information
