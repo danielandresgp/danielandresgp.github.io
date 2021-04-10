@@ -14,7 +14,7 @@ author_profile: true
 ### 7. Mode hunting through active information
 &nbsp;&nbsp;&nbsp;&nbsp; **Daniel Andrés Díaz-Pachón, Juan P. Sáenz, [J. Sunil Rao](https://www.jsunilrao.com/), and [Jean-Eudes Dazard](https://case.academia.edu/JED)**.
 
-&nbsp;&nbsp;&nbsp;&nbsp; Applied Stochastic Models in Business and Industry, **35**(2):376–393, 2019 [Preprint](https://danielandresgp.github.io/files/ModeHuntingThroughAI.pdf).
+&nbsp;&nbsp;&nbsp;&nbsp; _Applied Stochastic Models in Business and Industry_, **35**(2):376–393, 2019 [Preprint](https://danielandresgp.github.io/files/ModeHuntingThroughAI.pdf).
 
 
 
