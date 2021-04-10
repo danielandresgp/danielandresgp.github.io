@@ -8,7 +8,7 @@ author_profile: true
 ### 13. Is Cosmological Tuning Fine or Coarse?
 &nbsp;&nbsp;&nbsp;&nbsp; **Daniel Andrés Díaz-Pachón, [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541), and [Robert J. Marks II](https://robertmarks.org)**.
 
-&nbsp;&nbsp;&nbsp;&nbsp; [Preprint](https://danielandresgp.github.io/files/FineTuning.pdf). 
+&nbsp;&nbsp;&nbsp;&nbsp; Under review. [Preprint](https://danielandresgp.github.io/files/FineTuning.pdf). 
 
 
 ### 12. Mode hunting using pettiest component analysis
