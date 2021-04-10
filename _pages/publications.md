@@ -5,15 +5,23 @@ permalink: /publications/
 author_profile: true
 ---
 
-### 10. Is Cosmological Tuning Fine or Coarse?
+### 11. Is Cosmological Tuning Fine or Coarse?
 &nbsp;&nbsp;&nbsp;&nbsp; **Daniel Andrés Díaz-Pachón, [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541), and [Robert J. Marks II](https://robertmarks.org)**.
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Preprint](https://danielandresgp.github.io/files/FineTuning.pdf). 
 
+
+### 10. Active Information Requirements for Fixation on the Wright-Fisher Model of Population Genetics
+&nbsp;&nbsp;&nbsp;&nbsp; **Daniel Andrés Díaz-Pachón, and [Robert J. Marks II](https://robertmarks.org)**.
+
+&nbsp;&nbsp;&nbsp;&nbsp; BIO-Complexity, 2020(4):1–6, 2020 [Preprint](https://danielandresgp.github.io/files/PopGenActInfo.pdf). 
+
+
+
 ### 9. Generalized active information: Extensions to unbounded domains
 &nbsp;&nbsp;&nbsp;&nbsp; **Daniel Andrés Díaz-Pachón, and [Robert J. Marks II](https://robertmarks.org)**.
 
-&nbsp;&nbsp;&nbsp;&nbsp; BIO-Complexity, 2020(3):1–6, 2020 [Article](https://danielandresgp.github.io/files/GenActInfo.pdf). 
+&nbsp;&nbsp;&nbsp;&nbsp; BIO-Complexity, 2020(3):1–6, 2020 [Preprint](https://danielandresgp.github.io/files/GenActInfo.pdf). 
 
 
 ### 8. Hypothesis testing with active information
