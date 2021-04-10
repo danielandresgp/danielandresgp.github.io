@@ -5,10 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-### 8. Is Cosmological Tuning Fine or Coarse?
+### 9. Is Cosmological Tuning Fine or Coarse?
 &nbsp;&nbsp;&nbsp;&nbsp; **Daniel Andrés Díaz-Pachón, [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541), [Robert J. Marks II](https://robertmarks.org/)**.
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Preprint](https://danielandresgp.github.io/files/FineTuning.pdf). 
+
+
+### 8. Hypothesis testing with active information
+&nbsp;&nbsp;&nbsp;&nbsp; **Daniel Andrés Díaz-Pachón, Juan P. Sáenz, and [J. Sunil Rao](https://www.jsunilrao.com/)**.
+
+&nbsp;&nbsp;&nbsp;&nbsp; _Stat. & Probab. Letters_, **161**:108742, 2020. [Preprint](https://danielandresgp.github.io/files/HypTestAI.pdf).
 
 
 ### 7. Mode hunting through active information
