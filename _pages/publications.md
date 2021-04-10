@@ -12,15 +12,10 @@ author_profile: true
 
 
 ### 7. Mode hunting through active information
-&nbsp;&nbsp;&nbsp;&nbsp; **Daniel Andrés Díaz-Pachón, Juan P. Sáenz, and [J. Sunil Rao](https://www.jsunilrao.com/), and [Jean-Eudes Dazard](https://case.academia.edu/JED)**.
+&nbsp;&nbsp;&nbsp;&nbsp; **Daniel Andrés Díaz-Pachón, Juan P. Sáenz, [J. Sunil Rao](https://www.jsunilrao.com/), and [Jean-Eudes Dazard](https://case.academia.edu/JED)**.
 
 &nbsp;&nbsp;&nbsp;&nbsp; Applied Stochastic Models in Business and Industry, **35**(2):376–393, 2019 [Preprint](https://danielandresgp.github.io/files/ModeHuntingThroughAI.pdf).
 
-
-### 6. Unsupervised Bump Hunting Using Principal Components
-&nbsp;&nbsp;&nbsp;&nbsp; **Daniel Andrés Díaz-Pachón, [Jean-Eudes Dazard](https://case.academia.edu/JED), and [J. Sunil Rao](https://www.jsunilrao.com/)**.
-
-&nbsp;&nbsp;&nbsp;&nbsp; In S. Ejaz Ahmed, editor, _Big and Complex Data Analysis: Methodologies and Applications_, pp. 325–345. Springer, 2017. [Preprint](https://danielandresgp.github.io/files/BumpHuntingPC.pdf).
 
 
 ### 6. Unsupervised Bump Hunting Using Principal Components
