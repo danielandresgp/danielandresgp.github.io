@@ -5,10 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-### 9. Is Cosmological Tuning Fine or Coarse?
-&nbsp;&nbsp;&nbsp;&nbsp; **Daniel Andrés Díaz-Pachón, [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541), [Robert J. Marks II](https://robertmarks.org)**.
+### 10. Is Cosmological Tuning Fine or Coarse?
+&nbsp;&nbsp;&nbsp;&nbsp; **Daniel Andrés Díaz-Pachón, [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541), and [Robert J. Marks II](https://robertmarks.org)**.
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Preprint](https://danielandresgp.github.io/files/FineTuning.pdf). 
+
+### 9. Generalized active information: Extensions to unbounded domains
+&nbsp;&nbsp;&nbsp;&nbsp; **Daniel Andrés Díaz-Pachón, and [Robert J. Marks II](https://robertmarks.org)**.
+
+&nbsp;&nbsp;&nbsp;&nbsp; BIO-Complexity, 2020(3):1–6, 2020 [Article](https://danielandresgp.github.io/files/GenActInfo.pdf). 
 
 
 ### 8. Hypothesis testing with active information
