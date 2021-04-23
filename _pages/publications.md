@@ -20,7 +20,7 @@ author_profile: true
 ### 11. A simple correction for COVID-19 sampling bias
 &nbsp;&nbsp;&nbsp;&nbsp; **Daniel Andrés Díaz-Pachón, and [J. Sunil Rao](https://www.jsunilrao.com/)**.
 
-&nbsp;&nbsp;&nbsp;&nbsp; _J Theoretical Biol_, 512:110556, 2021. [Preprint](https://danielandresgp.github.io/files/SamplingBias.pdf). 
+&nbsp;&nbsp;&nbsp;&nbsp; _J Theor Biol_, 512:110556, 2021. [Preprint](https://danielandresgp.github.io/files/SamplingBias.pdf). 
 
 
 ### 10. Active Information Requirements for Fixation on the Wright-Fisher Model of Population Genetics
@@ -39,13 +39,13 @@ author_profile: true
 ### 8. Hypothesis testing with active information
 &nbsp;&nbsp;&nbsp;&nbsp; **Daniel Andrés Díaz-Pachón, Juan P. Sáenz, and [J. Sunil Rao](https://www.jsunilrao.com/)**.
 
-&nbsp;&nbsp;&nbsp;&nbsp; _Stat. & Probab. Letters_, **161**:108742, 2020. [Preprint](https://danielandresgp.github.io/files/HypTestAI.pdf).
+&nbsp;&nbsp;&nbsp;&nbsp; _Stat & Probab Letters_, **161**:108742, 2020. [Preprint](https://danielandresgp.github.io/files/HypTestAI.pdf).
 
 
 ### 7. Mode hunting through active information
 &nbsp;&nbsp;&nbsp;&nbsp; **Daniel Andrés Díaz-Pachón, Juan P. Sáenz, [J. Sunil Rao](https://www.jsunilrao.com/), and [Jean-Eudes Dazard](https://case.academia.edu/JED)**.
 
-&nbsp;&nbsp;&nbsp;&nbsp; _Applied Stochastic Models in Business and Industry_, **35**(2):376–393, 2019. [Preprint](https://danielandresgp.github.io/files/ModeHuntingThroughAI.pdf).
+&nbsp;&nbsp;&nbsp;&nbsp; _Appl Stochastic Models Bus Ind_, **35**(2):376–393, 2019. [Preprint](https://danielandresgp.github.io/files/ModeHuntingThroughAI.pdf).
 
 
 
@@ -70,13 +70,13 @@ author_profile: true
 ### 3. A note on large deviations for the stable marriage of Poisson and Lebesgue with random appetites
 &nbsp;&nbsp;&nbsp;&nbsp; **Daniel Andrés Díaz-Pachón**.
 
-&nbsp;&nbsp;&nbsp;&nbsp; _Journal of Theoretical Probability_, **25**(1):77–91, 2012. [Preprint](https://danielandresgp.github.io/files/ldsmplra.pdf).
+&nbsp;&nbsp;&nbsp;&nbsp; _J Theor Probab_, **25**(1):77–91, 2012. [Preprint](https://danielandresgp.github.io/files/ldsmplra.pdf).
 
 
 ### 2. Algumas propriedades de alocações para o processo pontual de Poisson
 &nbsp;&nbsp;&nbsp;&nbsp; **Daniel Andrés Díaz-Pachón**. Advisor: **[Serguei Popov](https://www.fc.up.pt/pessoas/serguei.popov/)**.
 
-&nbsp;&nbsp;&nbsp;&nbsp; Doctoral dissertation (Portuguese). Instituto de Matemática e Estatística, Universidad de São Paulo, Brazil, 2009. [pdf](https://danielandresgp.github.io/files/TesisDoutorado.pdf).
+&nbsp;&nbsp;&nbsp;&nbsp; Doctoral dissertation (Portuguese). Instituto de Matemática e Estatística, Universidade de São Paulo, Brazil, 2009. [pdf](https://danielandresgp.github.io/files/TesisDoutorado.pdf).
 
 
 ### 1. Hipótesis lineales sobre medias para experimentos de franjas en parcelas divididas
