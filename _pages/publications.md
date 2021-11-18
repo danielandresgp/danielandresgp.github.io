@@ -11,7 +11,7 @@ author_profile: true
 ### 6. Some curious new results on orthogonal transformations
 &nbsp;&nbsp;&nbsp;&nbsp; With Hao Ying, Juan P. Sáenz, [Jean-Eudes Dazard](https://case.academia.edu/JED), and [J. Sunil Rao](https://www.jsunilrao.com/)
 
-### 5. Spatial $\Lambda$-Fleming-Viot process in discrete time
+### 5. Spatial Λ-Fleming-Viot process in discrete time
 &nbsp;&nbsp;&nbsp;&nbsp; With [Alison Etheridge](https://www.stats.ox.ac.uk/all-people/alison-etheridge/).
 
 ### 4. Active information, learning, and knowledge acquisition
