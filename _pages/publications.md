@@ -8,7 +8,7 @@ author_profile: true
 ## WORKING PAPERS
 
 ### 9. Size does not matter... sometimes: A solution to the normalization objection to cosmological fine-tuning
-With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [Robert J. Marks II](https://robertmarks.org).
+&nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [Robert J. Marks II](https://robertmarks.org).
 
 ### 8. Some curious new results on orthogonal transformations
 &nbsp;&nbsp;&nbsp;&nbsp; With Hao Ying, Juan P. Sáenz, [Jean-Eudes Dazard](https://case.academia.edu/JED), and [J. Sunil Rao](https://www.jsunilrao.com/).
