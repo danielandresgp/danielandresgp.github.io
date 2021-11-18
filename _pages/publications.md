@@ -7,7 +7,7 @@ author_profile: true
 
 ## WORKING PAPERS
 
-### 9. Size does not matter... sometimes: A mathematical approach to solve the normalization objection to cosmological fine-tuning
+### 9. Size does not matter... sometimes: A solution to the normalization objection to cosmological fine-tuning
 With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [Robert J. Marks II](https://robertmarks.org).
 
 ### 8. Poisson multi-matchings
