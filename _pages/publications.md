@@ -5,6 +5,28 @@ permalink: /publications/
 author_profile: true
 ---
 
+## WORKING PAPERS
+
+
+### 6. Some curious new results on orthogonal transformations
+&nbsp;&nbsp;&nbsp;&nbsp; With Hao Ying, Juan P. Sáenz, [Jean-Eudes Dazard](https://case.academia.edu/JED), and [J. Sunil Rao](https://www.jsunilrao.com/)
+
+### 5. Spatial $\Lambda$-Fleming-Viot process in discrete time
+&nbsp;&nbsp;&nbsp;&nbsp; With [Alison Etheridge](https://www.stats.ox.ac.uk/all-people/alison-etheridge/).
+
+### 4. Active information, learning, and knowledge acquisition
+&nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [J. Sunil Rao](https://www.jsunilrao.com/).
+
+### 3. COVID-19 prevalence with not-missing-at-random data
+&nbsp;&nbsp;&nbsp;&nbsp; With Lili Zhou, [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541), [J. Sunil Rao](https://www.jsunilrao.com/), Danny Pfeffermann, and Michail Sverchkov.
+
+### 2. Active information, missing data, and prevalence estimation
+&nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [J. Sunil Rao](https://www.jsunilrao.com/).
+
+### 1. Back-to-the-future projections for COVID-19 surges
+&nbsp;&nbsp;&nbsp;&nbsp; With Tianhao Liu and [J. Sunil Rao](https://www.jsunilrao.com/).
+
+
 ## ARTICLES
 
 
