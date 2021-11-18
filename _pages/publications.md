@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 ### 15. Revisiting the estimation of Covid-19 prevalence: Implications for rapid testing
-&nbsp;&nbsp;&nbsp;&nbsp; Submitted. [medRxiv](https://www.medrxiv.org/content/10.1101/2021.11.12.21266254v1.full.pdf). 
+&nbsp;&nbsp;&nbsp;&nbsp; Submitted. [[medRxiv]](https://www.medrxiv.org/content/10.1101/2021.11.12.21266254v1.full.pdf). 
+
 &nbsp;&nbsp;&nbsp;&nbsp; With Lili Zhou and [J. Sunil Rao](https://www.jsunilrao.com/).
 
 ### 14. Assessing and Testing Fine-Tuning by Means of Active Information
