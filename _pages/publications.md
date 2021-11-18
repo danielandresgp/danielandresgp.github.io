@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-### ARTICLES
+***ARTICLES***
 
 
 ### 13. Revisiting the estimation of Covid-19 prevalence: Implications for rapid testing
@@ -83,7 +83,7 @@ author_profile: true
 
 
 
-### DISSERATATIONS
+***DISSERATATIONS***
 
 
 ### 2. Algumas propriedades de alocações para o processo pontual de Poisson
