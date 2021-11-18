@@ -5,72 +5,74 @@ permalink: /publications/
 author_profile: true
 ---
 
-### 13. Is Cosmological Tuning Fine or Coarse?
-&nbsp;&nbsp;&nbsp;&nbsp; **Daniel Andrés Díaz-Pachón, [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541), and [Robert J. Marks II](https://robertmarks.org)**.
+### 15. Revisiting the estimation of Covid-19 prevalence: Implications for rapid testing
+&nbsp;&nbsp;&nbsp;&nbsp; Submitted. [medRxiv](https://www.medrxiv.org/content/10.1101/2021.11.12.21266254v1.full.pdf). 
+&nbsp;&nbsp;&nbsp;&nbsp; With Lili Zhou and [J. Sunil Rao](https://www.jsunilrao.com/).
 
-&nbsp;&nbsp;&nbsp;&nbsp; Under review. [Preprint](https://danielandresgp.github.io/files/FineTuning.pdf). 
+### 14. Assessing and Testing Fine-Tuning by Means of Active Information
+&nbsp;&nbsp;&nbsp;&nbsp; Submitted. [Preprint](https://github.com/danielandresgp/danielandresgp.github.io/blob/master/files/FTByActinfo.pdf). &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541).
+
+### 13. Is Cosmological Tuning Fine or Coarse?
+&nbsp;&nbsp;&nbsp;&nbsp; _Journal of Cosmology and Astroparticle Physics_, JCAP07(2021)020, 2021. [arXiv](https://arxiv.org/pdf/2104.05400.pdf). 
+
+&nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541), and [Robert J. Marks II](https://robertmarks.org).
 
 
 ### 12. Mode hunting using pettiest component analysis
-&nbsp;&nbsp;&nbsp;&nbsp; **Tianhao Liu, Daniel Andrés Díaz-Pachón, [J. Sunil Rao](https://www.jsunilrao.com/), and [Jean-Eudes Dazard](https://case.academia.edu/JED)**.
+&nbsp;&nbsp;&nbsp;&nbsp; Submitted. [arXiv](https://arxiv.org/pdf/2101.04288.pdf). 
 
-&nbsp;&nbsp;&nbsp;&nbsp; Under review. [Preprint](https://danielandresgp.github.io/files/Pettiest-components-analysis.pdf). 
+&nbsp;&nbsp;&nbsp;&nbsp; With Tianhao Liu, [J. Sunil Rao](https://www.jsunilrao.com/), and [Jean-Eudes Dazard](https://case.academia.edu/JED).
 
 
 ### 11. A simple correction for COVID-19 sampling bias
-&nbsp;&nbsp;&nbsp;&nbsp; **Daniel Andrés Díaz-Pachón, and [J. Sunil Rao](https://www.jsunilrao.com/)**.
+&nbsp;&nbsp;&nbsp;&nbsp; _Journal of Theoretical Biology_, 512:110556, 2021. [arXiv](https://arxiv.org/pdf/2007.07426.pdf). 
 
-&nbsp;&nbsp;&nbsp;&nbsp; _J Theor Biol_, 512:110556, 2021. [Preprint](https://danielandresgp.github.io/files/SamplingBias.pdf). 
+&nbsp;&nbsp;&nbsp;&nbsp; With [J. Sunil Rao](https://www.jsunilrao.com/).
 
 
 ### 10. Active Information Requirements for Fixation on the Wright-Fisher Model of Population Genetics
-&nbsp;&nbsp;&nbsp;&nbsp; **Daniel Andrés Díaz-Pachón, and [Robert J. Marks II](https://robertmarks.org)**.
+&nbsp;&nbsp;&nbsp;&nbsp; _BIO-Complexity_, 2020(4):1–6, 2020. [arXiv](https://arxiv.org/pdf/2111.06909.pdf). 
 
-&nbsp;&nbsp;&nbsp;&nbsp; _BIO-Complexity_, 2020(4):1–6, 2020. [Preprint](https://danielandresgp.github.io/files/PopGenActInfo.pdf). 
-
+&nbsp;&nbsp;&nbsp;&nbsp; With [Robert J. Marks II](https://robertmarks.org).
 
 
 ### 9. Generalized active information: Extensions to unbounded domains
-&nbsp;&nbsp;&nbsp;&nbsp; **Daniel Andrés Díaz-Pachón, and [Robert J. Marks II](https://robertmarks.org)**.
+&nbsp;&nbsp;&nbsp;&nbsp; _BIO-Complexity_, 2020(3):1–6, 2020. [arXiv](https://arxiv.org/pdf/2111.06865.pdf). 
 
-&nbsp;&nbsp;&nbsp;&nbsp; _BIO-Complexity_, 2020(3):1–6, 2020. [Preprint](https://danielandresgp.github.io/files/GenActInfo.pdf). 
+&nbsp;&nbsp;&nbsp;&nbsp; With [Robert J. Marks II](https://robertmarks.org).
 
 
 ### 8. Hypothesis testing with active information
-&nbsp;&nbsp;&nbsp;&nbsp; **Daniel Andrés Díaz-Pachón, Juan P. Sáenz, and [J. Sunil Rao](https://www.jsunilrao.com/)**.
+&nbsp;&nbsp;&nbsp;&nbsp; _Statistics & Probability Letters_, **161**:108742, 2020. [arXiv](https://arxiv.org/pdf/2011.04834.pdf).
 
-&nbsp;&nbsp;&nbsp;&nbsp; _Stat & Probab Letters_, **161**:108742, 2020. [Preprint](https://danielandresgp.github.io/files/HypTestAI.pdf).
+&nbsp;&nbsp;&nbsp;&nbsp; With Juan P. Sáenz and [J. Sunil Rao](https://www.jsunilrao.com/).
 
 
 ### 7. Mode hunting through active information
-&nbsp;&nbsp;&nbsp;&nbsp; **Daniel Andrés Díaz-Pachón, Juan P. Sáenz, [J. Sunil Rao](https://www.jsunilrao.com/), and [Jean-Eudes Dazard](https://case.academia.edu/JED)**.
+&nbsp;&nbsp;&nbsp;&nbsp; _Applied Stochastic Models in Business & Industry_, **35**(2):376–393, 2019. [arXiv](https://arxiv.org/pdf/2011.05794.pdf).
 
-&nbsp;&nbsp;&nbsp;&nbsp; _Appl Stochastic Models Bus Ind_, **35**(2):376–393, 2019. [Preprint](https://danielandresgp.github.io/files/ModeHuntingThroughAI.pdf).
-
+&nbsp;&nbsp;&nbsp;&nbsp; With Juan P. Sáenz, [J. Sunil Rao](https://www.jsunilrao.com/), and [Jean-Eudes Dazard](https://case.academia.edu/JED).
 
 
 ### 6. Unsupervised Bump Hunting Using Principal Components
-&nbsp;&nbsp;&nbsp;&nbsp; **Daniel Andrés Díaz-Pachón, [Jean-Eudes Dazard](https://case.academia.edu/JED), and [J. Sunil Rao](https://www.jsunilrao.com/)**.
+&nbsp;&nbsp;&nbsp;&nbsp; In S. Ejaz Ahmed, editor, _Big and Complex Data Analysis: Methodologies and Applications_, pp. 325–345. Springer, 2017. [arXiv](https://arxiv.org/pdf/1409.8630.pdf).
 
-&nbsp;&nbsp;&nbsp;&nbsp; In S. Ejaz Ahmed, editor, _Big and Complex Data Analysis: Methodologies and Applications_, pp. 325–345. Springer, 2017. [Preprint](https://danielandresgp.github.io/files/BumpHuntingPC.pdf).
+&nbsp;&nbsp;&nbsp;&nbsp; With [Jean-Eudes Dazard](https://case.academia.edu/JED) and [J. Sunil Rao](https://www.jsunilrao.com/).
 
 
 ### 5. F tests for the strip-split plot design
-&nbsp;&nbsp;&nbsp;&nbsp; **Daniel Andrés Díaz-Pachón, [Francisco J. P. Zimmermann](https://independent.academia.edu/FranciscoZimmermann), Luis Alberto López-Pérez**.
+&nbsp;&nbsp;&nbsp;&nbsp; _Revista Brasileira de Biometria_, **34**(2):279–303, 2016. [arXiv](https://arxiv.org/pdf/1507.07466.pdf).
 
-&nbsp;&nbsp;&nbsp;&nbsp; _Revista Brasileira de Biometria_, **34**(2):279–303, 2016. [Preprint](https://danielandresgp.github.io/files/FtSSP.pdf). 
+&nbsp;&nbsp;&nbsp;&nbsp; With [Francisco J. P. Zimmermann](https://independent.academia.edu/FranciscoZimmermann) and Luis Alberto López-Pérez**.
 
 
 ### 4. Percolation for the stable marriage of Poisson and Lebesgue with random appetites
-&nbsp;&nbsp;&nbsp;&nbsp; **Daniel Andrés Díaz-Pachón**.
-
-&nbsp;&nbsp;&nbsp;&nbsp; _Stochastics_, **85**(2):252–261, 2013. [Preprint](https://danielandresgp.github.io/files/psmra.pdf). 
+&nbsp;&nbsp;&nbsp;&nbsp; _Stochastics_, **85**(2):252–261, 2013. [arXiv](https://arxiv.org/pdf/0909.5325.pdf). 
 
 
 ### 3. A note on large deviations for the stable marriage of Poisson and Lebesgue with random appetites
-&nbsp;&nbsp;&nbsp;&nbsp; **Daniel Andrés Díaz-Pachón**.
+&nbsp;&nbsp;&nbsp;&nbsp; _Journal of Theoretical Probability_, **25**(1):77–91, 2012. [arXiv](https://arxiv.org/pdf/0911.1429.pdf).
 
-&nbsp;&nbsp;&nbsp;&nbsp; _J Theor Probab_, **25**(1):77–91, 2012. [Preprint](https://danielandresgp.github.io/files/ldsmplra.pdf).
 
 
 ### 2. Algumas propriedades de alocações para o processo pontual de Poisson
