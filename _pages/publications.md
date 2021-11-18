@@ -83,7 +83,7 @@ author_profile: true
 
 
 
-## DISSERATATIONS
+## DISSERTATIONS
 
 
 ### 2. Algumas propriedades de alocações para o processo pontual de Poisson [[pdf]](https://danielandresgp.github.io/files/TesisDoutorado.pdf)
@@ -94,6 +94,6 @@ author_profile: true
 
 ### 1. Hipótesis lineales sobre medias para experimentos de franjas en parcelas divididas [[pdf]](https://danielandresgp.github.io/files/TesisPregrado.pdf)
 
-&nbsp;&nbsp;&nbsp;&nbsp; **Daniel Andrés Díaz-Pachón**. Advisors: **Luis Alberto López-Pérez, [Francisco J. P. Zimmermann](https://independent.academia.edu/FranciscoZimmermann)**.
+&nbsp;&nbsp;&nbsp;&nbsp; Advisors: **Luis Alberto López-Pérez** and **[Francisco J. P. Zimmermann](https://independent.academia.edu/FranciscoZimmermann)**.
 
 &nbsp;&nbsp;&nbsp;&nbsp; Undergraduate dissertation (Spanish). Departamento de Estadística, Universidad Nacional de Colombia, 2004. 
