@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## WORKING PAPERS
+## Working papers
 
 ### 9. Size does not matter... sometimes: A solution to the normalization objection to cosmological fine-tuning
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [Robert J. Marks II](https://robertmarks.org).
@@ -33,7 +33,7 @@ author_profile: true
 ### 1. Continuum percolation in high dimensions with random radii
 
 
-## ARTICLES
+## Articles
 
 
 ### 13. Revisiting the estimation of Covid-19 prevalence: Implications for rapid testing [[medRχiv]](https://www.medrxiv.org/content/10.1101/2021.11.12.21266254v1.full.pdf)
@@ -111,7 +111,7 @@ author_profile: true
 
 
 
-## DISSERTATIONS
+## Dissertations
 
 
 ### 2. Algumas propriedades de alocações para o processo pontual de Poisson [[pdf]](https://danielandresgp.github.io/files/TesisDoutorado.pdf)
