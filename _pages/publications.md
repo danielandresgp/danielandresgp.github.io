@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-***ARTICLES***
+## ARTICLES
 
 
 ### 13. Revisiting the estimation of Covid-19 prevalence: Implications for rapid testing [[medRxiv]](https://www.medrxiv.org/content/10.1101/2021.11.12.21266254v1.full.pdf)
@@ -83,7 +83,7 @@ author_profile: true
 
 
 
-***DISSERATATIONS***
+## DISSERATATIONS
 
 
 ### 2. Algumas propriedades de alocações para o processo pontual de Poisson [[pdf]](https://danielandresgp.github.io/files/TesisDoutorado.pdf)
