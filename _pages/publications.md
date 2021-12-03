@@ -7,17 +7,11 @@ author_profile: true
 
 ## Working papers
 
-### 9. Size does not matter... sometimes: A solution to the normalization objection to cosmological fine-tuning
+### 7. Size does not matter... sometimes: A solution to the normalization objection to cosmological fine-tuning
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [Robert J. Marks II](https://robertmarks.org).
 
-### 8. Some curious new results on orthogonal transformations
-&nbsp;&nbsp;&nbsp;&nbsp; With Hao Ying, Juan P. Sáenz, [Jean-Eudes Dazard](https://case.academia.edu/JED), and [J. Sunil Rao](https://www.jsunilrao.com/).
-
-### 7. Spatial Λ-Fleming-Viot process in discrete time
+### 6. Spatial Λ-Fleming-Viot process in discrete time
 &nbsp;&nbsp;&nbsp;&nbsp; With [Alison Etheridge](https://www.stats.ox.ac.uk/all-people/alison-etheridge/).
-
-### 6. Active information, learning, and knowledge acquisition
-&nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [J. Sunil Rao](https://www.jsunilrao.com/).
 
 ### 5. COVID-19 prevalence with not-missing-at-random data
 &nbsp;&nbsp;&nbsp;&nbsp; With Lili Zhou, [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541), [J. Sunil Rao](https://www.jsunilrao.com/), Danny Pfeffermann, and Michail Sverchkov.
@@ -34,6 +28,11 @@ author_profile: true
 
 
 ## Articles
+
+### 14. Active information, learning, and knowledge acquisition [[PsyArXiv]](https://psyarxiv.com/qt5kw/)
+&nbsp;&nbsp;&nbsp;&nbsp; Submitted.
+
+&nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [J. Sunil Rao](https://www.jsunilrao.com/).
 
 
 ### 13. Revisiting the estimation of Covid-19 prevalence: Implications for rapid testing [[medRχiv]](https://www.medrxiv.org/content/10.1101/2021.11.12.21266254v1.full.pdf)
