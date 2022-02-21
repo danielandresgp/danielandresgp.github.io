@@ -27,7 +27,10 @@ author_profile: true
 ## Articles
 
 ### 15. Back-to-the-future projections for COVID-19 surges [[arχiv]](https://arxiv.org/pdf/2202.08928.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp; Submitted.
+
 &nbsp;&nbsp;&nbsp;&nbsp; With Tianhao Liu and [J. Sunil Rao](https://www.jsunilrao.com/).
+
 
 ### 14. Active information, learning, and knowledge acquisition [[PsyArXiv]](https://psyarxiv.com/qt5kw/)
 &nbsp;&nbsp;&nbsp;&nbsp; Submitted.
