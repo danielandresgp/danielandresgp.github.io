@@ -50,65 +50,65 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541).
 
 
-### 11. Mode hunting using pettiest component analysis [[arXiv]](https://arxiv.org/pdf/2101.04288.pdf)
+### 11. Mode hunting using pettiest component analysis [[arχiv]](https://arxiv.org/pdf/2101.04288.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; _IEEE Transactions on Pattern Analysis and Machine Intelligence_. Resubmitted. 
 
 &nbsp;&nbsp;&nbsp;&nbsp; With Tianhao Liu, [J. Sunil Rao](https://www.jsunilrao.com/), and [Jean-Eudes Dazard](https://case.academia.edu/JED).
 
 
-### 10. Is Cosmological Tuning Fine or Coarse? [[arXiv]](https://arxiv.org/pdf/2104.05400.pdf)
+### 10. Is Cosmological Tuning Fine or Coarse? [[arχiv]](https://arxiv.org/pdf/2104.05400.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; _Journal of Cosmology and Astroparticle Physics_, JCAP07(2021)020, 2021. 
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [Robert J. Marks II](https://robertmarks.org).
 
 
-### 9. A simple correction for COVID-19 sampling bias [[arXiv]](https://arxiv.org/pdf/2007.07426.pdf)
+### 9. A simple correction for COVID-19 sampling bias [[arχiv]](https://arxiv.org/pdf/2007.07426.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; _Journal of Theoretical Biology_, 512:110556, 2021. 
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [J. Sunil Rao](https://www.jsunilrao.com/).
 
 
-### 8. Active Information Requirements for Fixation on the Wright-Fisher Model of Population Genetics [[arXiv]](https://arxiv.org/pdf/2111.06909.pdf)
+### 8. Active Information Requirements for Fixation on the Wright-Fisher Model of Population Genetics [[arχiv]](https://arxiv.org/pdf/2111.06909.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; _BIO-Complexity_, 2020(4):1–6, 2020. 
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Robert J. Marks II](https://robertmarks.org).
 
 
-### 7. Generalized active information: Extensions to unbounded domains [[arXiv]](https://arxiv.org/pdf/2111.06865.pdf)
+### 7. Generalized active information: Extensions to unbounded domains [[arχiv]](https://arxiv.org/pdf/2111.06865.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; _BIO-Complexity_, 2020(3):1–6, 2020. 
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Robert J. Marks II](https://robertmarks.org).
 
 
-### 6. Hypothesis testing with active information [[arXiv]](https://arxiv.org/pdf/2011.04834.pdf)
+### 6. Hypothesis testing with active information [[arχiv]](https://arxiv.org/pdf/2011.04834.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; _Statistics & Probability Letters_, **161**:108742, 2020.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With Juan P. Sáenz and [J. Sunil Rao](https://www.jsunilrao.com/).
 
 
-### 5. Mode hunting through active information [[arXiv]](https://arxiv.org/pdf/2011.05794.pdf)
+### 5. Mode hunting through active information [[arχiv]](https://arxiv.org/pdf/2011.05794.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; _Applied Stochastic Models in Business & Industry_, **35**(2):376–393, 2019.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With Juan P. Sáenz, [J. Sunil Rao](https://www.jsunilrao.com/), and [Jean-Eudes Dazard](https://case.academia.edu/JED).
 
 
-### 4. Unsupervised Bump Hunting Using Principal Components [[arXiv]](https://arxiv.org/pdf/1409.8630.pdf)
+### 4. Unsupervised Bump Hunting Using Principal Components [[arχiv]](https://arxiv.org/pdf/1409.8630.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; In S. Ejaz Ahmed, editor, _Big and Complex Data Analysis: Methodologies and Applications_, pp. 325–345. Springer, 2017.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Jean-Eudes Dazard](https://case.academia.edu/JED) and [J. Sunil Rao](https://www.jsunilrao.com/).
 
 
-### 3. F tests for the strip-split plot design [[arXiv]](https://arxiv.org/pdf/1507.07466.pdf)
+### 3. F tests for the strip-split plot design [[arχiv]](https://arxiv.org/pdf/1507.07466.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; _Revista Brasileira de Biometria_, **34**(2):279–303, 2016.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Francisco J. P. Zimmermann](https://independent.academia.edu/FranciscoZimmermann) and Luis Alberto López-Pérez.
 
 
-### 2. Percolation for the stable marriage of Poisson and Lebesgue with random appetites [[arXiv]](https://arxiv.org/pdf/0909.5325.pdf)
+### 2. Percolation for the stable marriage of Poisson and Lebesgue with random appetites [[arχiv]](https://arxiv.org/pdf/0909.5325.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; _Stochastics_, **85**(2):252–261, 2013. 
 
 
-### 1. A note on large deviations for the stable marriage of Poisson and Lebesgue with random appetites [[arXiv]](https://arxiv.org/pdf/0911.1429.pdf)
+### 1. A note on large deviations for the stable marriage of Poisson and Lebesgue with random appetites [[arχiv]](https://arxiv.org/pdf/0911.1429.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; _Journal of Theoretical Probability_, **25**(1):77–91, 2012.
 
 
