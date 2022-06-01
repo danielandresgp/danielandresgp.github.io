@@ -7,8 +7,6 @@ author_profile: true
 
 ## Working papers
 
-### 6. Size does not matter... sometimes: A solution to the normalization objection to cosmological fine-tuning
-&nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [Robert J. Marks II](https://robertmarks.org).
 
 ### 5. Spatial Λ-Fleming-Viot process in discrete time
 &nbsp;&nbsp;&nbsp;&nbsp; With [Alison Etheridge](https://www.stats.ox.ac.uk/all-people/alison-etheridge/).
@@ -25,6 +23,11 @@ author_profile: true
 
 
 ## Articles
+
+### 16. Sometimes size does not matter [[arχiv]](https://arxiv.org/pdf/2204.11780.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp; Submitted.
+
+&nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [Robert J. Marks II](https://robertmarks.org).
 
 ### 15. Back-to-the-future projections for COVID-19 surges [[arχiv]](https://arxiv.org/pdf/2202.08928.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; Submitted.
@@ -51,7 +54,7 @@ author_profile: true
 
 
 ### 11. Mode hunting using pettiest component analysis [[arχiv]](https://arxiv.org/pdf/2101.04288.pdf)
-&nbsp;&nbsp;&nbsp;&nbsp; _IEEE Transactions on Pattern Analysis and Machine Intelligence_. Resubmitted. 
+&nbsp;&nbsp;&nbsp;&nbsp; Submitted. 
 
 &nbsp;&nbsp;&nbsp;&nbsp; With Tianhao Liu, [J. Sunil Rao](https://www.jsunilrao.com/), and [Jean-Eudes Dazard](https://case.academia.edu/JED).
 
