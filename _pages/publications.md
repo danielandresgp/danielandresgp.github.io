@@ -8,14 +8,11 @@ author_profile: true
 ## Working papers
 
 
-### 5. Spatial Λ-Fleming-Viot process in discrete time
+### 4. Spatial Λ-Fleming-Viot process in discrete time
 &nbsp;&nbsp;&nbsp;&nbsp; With [Alison Etheridge](https://www.stats.ox.ac.uk/all-people/alison-etheridge/).
 
-### 4. COVID-19 prevalence with not-missing-at-random data
+### 3. COVID-19 prevalence with not-missing-at-random data
 &nbsp;&nbsp;&nbsp;&nbsp; With Lili Zhou, [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541), [J. Sunil Rao](https://www.jsunilrao.com/), Danny Pfeffermann, and Michail Sverchkov.
-
-### 3. Active information, missing data, and prevalence estimation
-&nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [J. Sunil Rao](https://www.jsunilrao.com/).
 
 ### 2. Poisson multi-matchings
 
@@ -24,10 +21,17 @@ author_profile: true
 
 ## Articles
 
+### 17. Active information, missing data, and prevalence estimation [[arχiv]](https://arxiv.org/pdf/2206.05120.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp; Submitted.
+
+&nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [J. Sunil Rao](https://www.jsunilrao.com/).
+
+
 ### 16. Sometimes size does not matter [[arχiv]](https://arxiv.org/pdf/2204.11780.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; Submitted.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [Robert J. Marks II](https://robertmarks.org).
+
 
 ### 15. Back-to-the-future projections for COVID-19 surges [[arχiv]](https://arxiv.org/pdf/2202.08928.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; Submitted.
