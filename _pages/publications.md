@@ -57,8 +57,8 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541).
 
 
-### 11. Mode hunting using pettiest component analysis [[arχiv]](https://arxiv.org/pdf/2101.04288.pdf)
-&nbsp;&nbsp;&nbsp;&nbsp; Submitted. 
+### 11. High Dimensional Mode Hunting Using Pettiest Components Analysis [[arχiv]](https://arxiv.org/pdf/2101.04288.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp; _IEEE Transactions on Pattern Analysis and Machine Intelligence_. Accepted, 2022. 
 
 &nbsp;&nbsp;&nbsp;&nbsp; With Tianhao Liu, [J. Sunil Rao](https://www.jsunilrao.com/), and [Jean-Eudes Dazard](https://case.academia.edu/JED).
 
