@@ -24,7 +24,7 @@ author_profile: true
 ### 17. Active information, missing data, and prevalence estimation [[arχiv]](https://arxiv.org/pdf/2206.05120.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; Submitted.
 
-&nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [J. Sunil Rao](https://www.jsunilrao.com/).
+&nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541), Chen Zhao, and [J. Sunil Rao](https://www.jsunilrao.com/).
 
 
 ### 16. Sometimes size does not matter [[arχiv]](https://arxiv.org/pdf/2204.11780.pdf)
@@ -48,7 +48,7 @@ author_profile: true
 ### 13. Correcting prevalence estimation for biased sampling with testing errors [[medRχiv]](https://www.medrxiv.org/content/10.1101/2021.11.12.21266254v2.full.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; Submitted. 
 
-&nbsp;&nbsp;&nbsp;&nbsp; With Lili Zhou and [J. Sunil Rao](https://www.jsunilrao.com/).
+&nbsp;&nbsp;&nbsp;&nbsp; With Lili Zhou, Chen Zhao, and [J. Sunil Rao](https://www.jsunilrao.com/).
 
 
 ### 12. Assessing and Testing Fine-Tuning by Means of Active Information [[Preprint]](https://github.com/danielandresgp/danielandresgp.github.io/blob/master/files/FTByActinfo.pdf)
