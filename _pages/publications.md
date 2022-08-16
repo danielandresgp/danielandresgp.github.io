@@ -45,7 +45,7 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [J. Sunil Rao](https://www.jsunilrao.com/).
 
 
-### 13. Revisiting the estimation of Covid-19 prevalence: Implications for rapid testing [[medRχiv]](https://www.medrxiv.org/content/10.1101/2021.11.12.21266254v1.full.pdf)
+### 13. Correcting prevalence estimation for biased sampling with testing errors [[medRχiv]](https://www.medrxiv.org/content/10.1101/2021.11.12.21266254v2.full.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; Submitted. 
 
 &nbsp;&nbsp;&nbsp;&nbsp; With Lili Zhou and [J. Sunil Rao](https://www.jsunilrao.com/).
