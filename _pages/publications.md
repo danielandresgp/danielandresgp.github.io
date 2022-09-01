@@ -39,7 +39,7 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp; With Tianhao Liu and [J. Sunil Rao](https://www.jsunilrao.com/).
 
 
-### 14. Active information, learning, and knowledge acquisition [[PsyArXiv]](https://psyarxiv.com/qt5kw/)
+### 14. A Formal Framework for Knowledge Acquisition: Going Beyond Machine Learning [[PsyArXiv]](https://psyarxiv.com/qt5kw/)
 &nbsp;&nbsp;&nbsp;&nbsp; Submitted.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [J. Sunil Rao](https://www.jsunilrao.com/).
@@ -51,7 +51,7 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp; With Lili Zhou, Chen Zhao, and [J. Sunil Rao](https://www.jsunilrao.com/).
 
 
-### 12. Assessing and Testing Fine-Tuning by Means of Active Information [[Preprint]](https://github.com/danielandresgp/danielandresgp.github.io/blob/master/files/FTByActinfo.pdf)
+### 12. Assessing and Testing Fine-Tuning by Means of Active Information [[arχiv]](https://arxiv.org/pdf/2208.13828.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; Submitted. 
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541).
