@@ -52,7 +52,7 @@ author_profile: true
 
 
 ### 12. Assessing, testing and estimating the amount of fine-tuning by means of active information [[arχiv]](https://arxiv.org/pdf/2208.13828.pdf)
-&nbsp;&nbsp;&nbsp;&nbsp; Submitted. 
+&nbsp;&nbsp;&nbsp;&nbsp; _Entropy_, 24(10):1323, 2022. 
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541).
 
