@@ -7,6 +7,9 @@ author_profile: true
 
 ## Working papers
 
+### 4. Forecast ergodicity by means of algorithmic information
+&nbsp;&nbsp;&nbsp;&nbsp; With Glauco Amigo and [Robert J. Marks II](https://robertmarks.org).
+
 
 ### 4. Spatial Λ-Fleming-Viot process in discrete time
 &nbsp;&nbsp;&nbsp;&nbsp; With [Alison Etheridge](https://www.stats.ox.ac.uk/all-people/alison-etheridge/).
