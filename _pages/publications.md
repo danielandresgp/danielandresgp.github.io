@@ -7,7 +7,11 @@ author_profile: true
 
 ## Working papers
 
-### 4. Forecast ergodicity by means of algorithmic information
+### 6. Bias
+&nbsp;&nbsp;&nbsp;&nbsp; With [Pablo Rivas](https://www.rivas.ai/), [Jorge Ortiz](http://jorgeortizphd.info), and [J. Sunil Rao](https://www.jsunilrao.com/).
+
+
+### 5. Forecast ergodicity by means of algorithmic information
 &nbsp;&nbsp;&nbsp;&nbsp; With Glauco Amigo and [Robert J. Marks II](https://robertmarks.org).
 
 
