@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working papers
 
-### 6. Bias
+### 6. Bias is relative
 &nbsp;&nbsp;&nbsp;&nbsp; With [Pablo Rivas](https://www.rivas.ai/), [Jorge Ortiz](http://jorgeortizphd.info), and [J. Sunil Rao](https://www.jsunilrao.com/).
 
 
