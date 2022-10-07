@@ -46,16 +46,16 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp; With Tianhao Liu and [J. Sunil Rao](https://www.jsunilrao.com/).
 
 
-### 14. A Formal Framework for Knowledge Acquisition: Going Beyond Machine Learning [[PsyArXiv]](https://psyarxiv.com/qt5kw/)
-&nbsp;&nbsp;&nbsp;&nbsp; Submitted.
-
-&nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [J. Sunil Rao](https://www.jsunilrao.com/).
-
-
-### 13. Correcting prevalence estimation for biased sampling with testing errors [[medRχiv]](https://www.medrxiv.org/content/10.1101/2021.11.12.21266254v2.full.pdf)
+### 14. Correcting prevalence estimation for biased sampling with testing errors [[medRχiv]](https://www.medrxiv.org/content/10.1101/2021.11.12.21266254v2.full.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; Submitted. 
 
 &nbsp;&nbsp;&nbsp;&nbsp; With Lili Zhou, Chen Zhao, and [J. Sunil Rao](https://www.jsunilrao.com/).
+
+
+### 13. A Formal Framework for Knowledge Acquisition: Going Beyond Machine Learning [[PsyArXiv]](https://psyarxiv.com/qt5kw/)
+&nbsp;&nbsp;&nbsp;&nbsp; _Entropy_, Accepted, 2022.
+
+&nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [J. Sunil Rao](https://www.jsunilrao.com/).
 
 
 ### 12. Assessing, testing and estimating the amount of fine-tuning by means of active information [[arχiv]](https://arxiv.org/pdf/2208.13828.pdf)
