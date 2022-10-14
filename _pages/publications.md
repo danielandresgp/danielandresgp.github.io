@@ -53,7 +53,7 @@ author_profile: true
 
 
 ### 13. A Formal Framework for Knowledge Acquisition: Going Beyond Machine Learning [[PsyArXiv]](https://psyarxiv.com/qt5kw/)
-&nbsp;&nbsp;&nbsp;&nbsp; _Entropy_, Accepted, 2022.
+&nbsp;&nbsp;&nbsp;&nbsp; _Entropy_, 24(10):1469, 2022.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [J. Sunil Rao](https://www.jsunilrao.com/).
 
