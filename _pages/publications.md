@@ -35,7 +35,7 @@ author_profile: true
 
 
 ### 16. Sometimes size does not matter [[arχiv]](https://arxiv.org/pdf/2204.11780.pdf)
-&nbsp;&nbsp;&nbsp;&nbsp; Submitted to _Foundations of Physics_, 2022.
+&nbsp;&nbsp;&nbsp;&nbsp; Second review at _Foundations of Physics_, 2022.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [Robert J. Marks II](https://robertmarks.org).
 
