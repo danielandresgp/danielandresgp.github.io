@@ -29,27 +29,27 @@ author_profile: true
 ## Articles
 
 ### 17. Active information, missing data, and prevalence estimation [[arχiv]](https://arxiv.org/pdf/2206.05120.pdf)
-&nbsp;&nbsp;&nbsp;&nbsp; Submitted.
+&nbsp;&nbsp;&nbsp;&nbsp; Submitted to _Statistical Science_, 2022.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541), Chen Zhao, and [J. Sunil Rao](https://www.jsunilrao.com/).
 
 
 ### 16. Sometimes size does not matter [[arχiv]](https://arxiv.org/pdf/2204.11780.pdf)
-&nbsp;&nbsp;&nbsp;&nbsp; Submitted.
+&nbsp;&nbsp;&nbsp;&nbsp; Submitted to _Foundations of Physics_, 2022.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [Robert J. Marks II](https://robertmarks.org).
 
 
 ### 15. Back-to-the-future projections for COVID-19 surges [[arχiv]](https://arxiv.org/pdf/2202.08928.pdf)
-&nbsp;&nbsp;&nbsp;&nbsp; Submitted.
+&nbsp;&nbsp;&nbsp;&nbsp; Submitted to _Journal of Data Science_, 2022.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With Tianhao Liu and [J. Sunil Rao](https://www.jsunilrao.com/).
 
 
 ### 14. Correcting prevalence estimation for biased sampling with testing errors [[medRχiv]](https://www.medrxiv.org/content/10.1101/2021.11.12.21266254v2.full.pdf)
-&nbsp;&nbsp;&nbsp;&nbsp; Submitted. 
+&nbsp;&nbsp;&nbsp;&nbsp; Submitted to _Statistics in Medicine_, 2022. 
 
-&nbsp;&nbsp;&nbsp;&nbsp; With Lili Zhou, Chen Zhao, and [J. Sunil Rao](https://www.jsunilrao.com/).
+&nbsp;&nbsp;&nbsp;&nbsp; With Lili Zhou, Chen Zhao, and [J. Sunil Rao](https://www.jsunilrao.com/). 
 
 
 ### 13. A Formal Framework for Knowledge Acquisition: Going Beyond Machine Learning [[PsyArXiv]](https://psyarxiv.com/qt5kw/)
