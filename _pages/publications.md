@@ -34,7 +34,7 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541), Chen Zhao, and [J. Sunil Rao](https://www.jsunilrao.com/).
 
 
-### 16. Sometimes size does not matter [[arχiv]](https://arxiv.org/pdf/2204.11780.pdf)
+### 16. Sometimes size does not matter [[arχiv]](https://arxiv.org/pdf/2204.11780.pdf) [[Poster]](https://github.com/danielandresgp/danielandresgp.github.io/blob/master/files/Poster.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; Second review at _Foundations of Physics_, 2022.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [Robert J. Marks II](https://robertmarks.org).
