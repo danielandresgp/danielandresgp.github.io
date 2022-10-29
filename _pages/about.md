@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-## Hi!
+## Welcome!
 
-I work as Research Assistant Professor in the [Division of Biostatistics](https://www.publichealth.med.miami.edu/divisions/biostatistics/) at the University of Miami. 
+I live in beaufitufl Sout FLorida, where I work as Research Assistant Professor in the [Division of Biostatistics](https://www.publichealth.med.miami.edu/divisions/biostatistics/) at the University of Miami. 
 
 Theoretically, my current research can be divided into two areas: First, **information theory**, as applied to statistics and machine learning. Second, more recently I became very interested **high-dimensional probability**, as the mathematical foundation for data science and statistical learning.
 
@@ -25,5 +25,8 @@ A more detailed description of these items can be found in the Research tab.
 
 ---
 
+Aside of research, my hobbies are crossfit, reading and writing.
 
-I love Jesus, but not as much as [He loves me](https://www.biblegateway.com/passage/?search=John%203%3A16&version=NIV)! If you are interested, we can talk about it!
+I am happily married to Lis, she is much more than I could ever deserved! We have a beautiful baby called Juan Pablo, our [mustard seed](https://www.biblegateway.com/passage/?search=Mateo+13%3A31-32&version=NIV).
+
+The most significant aspect of my life is that I love Jesus, but not as much as [He loves me](https://www.biblegateway.com/passage/?search=John%203%3A16&version=NIV)! If you are interested, we can talk about it!
