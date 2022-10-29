@@ -25,8 +25,8 @@ A more detailed description of these items can be found in the Research tab.
 
 ---
 
-Aside of research, my hobbies are crossfit, reading and writing.
+Aside of research, my hobbies are crossfit, reading, and writing.
 
-I am happily married to Lis, she is much more than I could ever deserved! We have a beautiful baby called Juan Pablo, our [mustard seed](https://www.biblegateway.com/passage/?search=Mateo+13%3A31-32&version=NIV).
+I am happily married to Lis. She is much more than I could ever deserved! We have a beautiful baby boy called Juan Pablo, our [mustard seed](https://www.biblegateway.com/passage/?search=Mateo+13%3A31-32&version=NIV).
 
 The most significant aspect of my life is that I love Jesus, but not as much as [He loves me](https://www.biblegateway.com/passage/?search=John%203%3A16&version=NIV)! If you are interested, we can talk about it!
