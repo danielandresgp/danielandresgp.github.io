@@ -18,7 +18,7 @@ I have applied my research to the following areas:
 
 1. **Population genetics**: Measuring the effect of "forces" like selection and mutations in non-neutral models, relative to neutral ones.
 2. **Infectious diseases**: Correcting estimators of prevalence, inspired by Covid-19 mostly.
-3. **Bump hunting**: Finding maxima in machine learning settings, both supervised and unsupervised.
+3. **Bump hunting**: Finding maxima for supervised and unsupervised. machine learning.
 4. **Fine tuning**: Determining probabilities for life to exist, from planetary conditions to cosmological ones. 
 
 A more detailed description of these items can be found in the Research tab.
