@@ -14,4 +14,4 @@ My research started as an undergraduate student at Universidad Nacional de Colom
 
 Since 2019, my theoretical research became an eclectic mix of probability, information theory, machine learning and statistics; and I have applied it to biology, public health, cosmology, and philosophy, among others.
 
-The most significant aspect of my life is that I am a follower of Jesus. If you are interested, we can talk about it.
+I love Jesus, but not as much as [He loves me](https://www.biblegateway.com/passage/?search=John%203%3A16&version=NIV). If you are interested, we can talk about it!
