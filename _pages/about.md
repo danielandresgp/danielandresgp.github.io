@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+##Hi!
 
 I work as Research Assistant Professor in the [Division of Biostatistics](https://www.publichealth.med.miami.edu/divisions/biostatistics/) at the University of Miami. 
 
@@ -20,6 +21,7 @@ I have applied my research to the following areas:
 3. **Bump hunting**: Finding maxima in machine learning settings, both supervised and unsupervised.
 4. **Fine tuning**: Determining probabilities for life to exist, from planetary conditions to cosmological ones. 
 
+A more detailed description can be found in the Research tab.
 
 ---
 
