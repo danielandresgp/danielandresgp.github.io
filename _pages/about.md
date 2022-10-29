@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-##Hi!
+## Hi!
 
 I work as Research Assistant Professor in the [Division of Biostatistics](https://www.publichealth.med.miami.edu/divisions/biostatistics/) at the University of Miami. 
 
