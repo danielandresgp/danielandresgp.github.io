@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I work as Research Assistant Professor in the [Division of Biostatistics](https://www.publichealth.med.miami.edu/divisions/biostatistics/) at the University of Miami, where I was also a Postdoctoral Associate. 
+I work as Research Assistant Professor in the [Division of Biostatistics](https://www.publichealth.med.miami.edu/divisions/biostatistics/) at the University of Miami. 
 
 Theoretically, my current research can be divided into two areas: First, **information theory**, as applied to statistics and machine learning. Second, more recently I became very interested **high-dimensional probability**, as the mathematical foundation for data science and statistical learning.
 
