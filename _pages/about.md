@@ -21,7 +21,7 @@ I have applied my research to the following areas:
 3. **Bump hunting**: Finding maxima in machine learning settings, both supervised and unsupervised.
 4. **Fine tuning**: Determining probabilities for life to exist, from planetary conditions to cosmological ones. 
 
-A more detailed description can be found in the Research tab.
+A more detailed description of these items can be found in the Research tab.
 
 ---
 
