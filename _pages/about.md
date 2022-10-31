@@ -25,7 +25,7 @@ A more detailed description of these items can be found in the Research tab.
 
 ---
 
-Aside of research, my hobbies are crossfit, reading, and writing.
+Besides research, my hobbies are crossfit, reading, and writing.
 
 I am happily married to Lis. She is much more than I could ever deserve! We have a beautiful baby boy called Juan Pablo, our [mustard seed](https://www.biblegateway.com/passage/?search=Mateo+13%3A31-32&version=NIV).
 
