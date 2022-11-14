@@ -39,34 +39,34 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp; With Tianhao Liu and [J. Sunil Rao](https://www.jsunilrao.com/).
 
 
-### 15. Sometimes size does not matter [[arχiv]](https://arxiv.org/pdf/2204.11780.pdf) [[Poster]](https://github.com/danielandresgp/danielandresgp.github.io/blob/master/files/Poster.pdf)
-&nbsp;&nbsp;&nbsp;&nbsp; Second review at _Foundations of Physics_, 2022.
-
-&nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [Robert J. Marks II](https://robertmarks.org).
-
-
-### 14. Correcting prevalence estimation for biased sampling with testing errors [[medRχiv]](https://www.medrxiv.org/content/10.1101/2021.11.12.21266254v2.full.pdf)
+### 15. Correcting prevalence estimation for biased sampling with testing errors [[medRχiv]](https://www.medrxiv.org/content/10.1101/2021.11.12.21266254v2.full.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; Second review at _Statistics in Medicine_, 2022. 
 
 &nbsp;&nbsp;&nbsp;&nbsp; With Lili Zhou, Chen Zhao, and [J. Sunil Rao](https://www.jsunilrao.com/). 
 
 
-### 13. A Formal Framework for Knowledge Acquisition: Going Beyond Machine Learning [[PsyArXiv]](https://psyarxiv.com/qt5kw/)
+### 14. Sometimes size does not matter [[arχiv]](https://arxiv.org/pdf/2204.11780.pdf) [[Poster]](https://github.com/danielandresgp/danielandresgp.github.io/blob/master/files/Poster.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp; _Foundations of Physics_. Accepted, 2022.
+
+&nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [Robert J. Marks II](https://robertmarks.org).
+
+
+### 13. High Dimensional Mode Hunting Using Pettiest Components Analysis [[arχiv]](https://arxiv.org/pdf/2101.04288.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp; _IEEE Transactions on Pattern Analysis and Machine Intelligence_. Accepted, 2022. 
+
+&nbsp;&nbsp;&nbsp;&nbsp; With Tianhao Liu, [J. Sunil Rao](https://www.jsunilrao.com/), and [Jean-Eudes Dazard](https://case.academia.edu/JED).
+
+
+### 12. A Formal Framework for Knowledge Acquisition: Going Beyond Machine Learning [[PsyArXiv]](https://psyarxiv.com/qt5kw/)
 &nbsp;&nbsp;&nbsp;&nbsp; _Entropy_, 24(10):1469, 2022.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [J. Sunil Rao](https://www.jsunilrao.com/).
 
 
-### 12. Assessing, testing and estimating the amount of fine-tuning by means of active information [[arχiv]](https://arxiv.org/pdf/2208.13828.pdf)
+### 11. Assessing, testing and estimating the amount of fine-tuning by means of active information [[arχiv]](https://arxiv.org/pdf/2208.13828.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; _Entropy_, 24(10):1323, 2022. 
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541).
-
-
-### 11. High Dimensional Mode Hunting Using Pettiest Components Analysis [[arχiv]](https://arxiv.org/pdf/2101.04288.pdf)
-&nbsp;&nbsp;&nbsp;&nbsp; _IEEE Transactions on Pattern Analysis and Machine Intelligence_. Accepted, 2022. 
-
-&nbsp;&nbsp;&nbsp;&nbsp; With Tianhao Liu, [J. Sunil Rao](https://www.jsunilrao.com/), and [Jean-Eudes Dazard](https://case.academia.edu/JED).
 
 
 ### 10. Is Cosmological Tuning Fine or Coarse? [[arχiv]](https://arxiv.org/pdf/2104.05400.pdf)
