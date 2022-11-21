@@ -45,7 +45,7 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp; With Lili Zhou, Chen Zhao, and [J. Sunil Rao](https://www.jsunilrao.com/). 
 
 
-### 14. Sometimes size does not matter [[Accepted manuscript]](https://github.com/danielandresgp/danielandresgp.github.io/blob/master/files/Size%20does%20not%20matter.pdf) [[Poster]](https://github.com/danielandresgp/danielandresgp.github.io/blob/master/files/Poster.pdf)
+### 14. Sometimes size does not matter [[Manuscript]](https://github.com/danielandresgp/danielandresgp.github.io/blob/master/files/Size%20does%20not%20matter.pdf) [[Poster]](https://github.com/danielandresgp/danielandresgp.github.io/blob/master/files/Poster.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; _Foundations of Physics_. Accepted, 2022.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [Robert J. Marks II](https://robertmarks.org).
