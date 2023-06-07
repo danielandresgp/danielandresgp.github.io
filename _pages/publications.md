@@ -7,13 +7,8 @@ author_profile: true
 
 ## Working papers
 
-### 6. Bias is relative
+### 5. Bias is relative
 &nbsp;&nbsp;&nbsp;&nbsp; With [Pablo Rivas](https://www.rivas.ai/), [Jorge Ortiz](http://jorgeortizphd.info), and [J. Sunil Rao](https://www.jsunilrao.com/).
-
-
-### 5. Forecast ergodicity by means of algorithmic information
-&nbsp;&nbsp;&nbsp;&nbsp; With Glauco Amigo and [Robert J. Marks II](https://robertmarks.org).
-
 
 ### 4. Spatial Λ-Fleming-Viot process in discrete time
 &nbsp;&nbsp;&nbsp;&nbsp; With [Alison Etheridge](https://www.stats.ox.ac.uk/all-people/alison-etheridge/).
@@ -27,6 +22,11 @@ author_profile: true
 
 
 ## Articles
+
+### 18. Prediction modeling using algorithmic information theory [[arχiv]](https://arxiv.org/abs/2304.10752)
+&nbsp;&nbsp;&nbsp;&nbsp; Submitted, 2023.
+
+&nbsp;&nbsp;&nbsp;&nbsp; With Glauco Amigo Galán and [Robert J. Marks II](https://robertmarks.org).
 
 ### 17. Active information, missing data, and prevalence estimation [[arχiv]](https://arxiv.org/pdf/2206.05120.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; Submitted, 2023.
