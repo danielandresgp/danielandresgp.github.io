@@ -29,12 +29,12 @@ author_profile: true
 ## Articles
 
 ### 17. Active information, missing data, and prevalence estimation [[arχiv]](https://arxiv.org/pdf/2206.05120.pdf)
-&nbsp;&nbsp;&nbsp;&nbsp; Submitted, 2022.
+&nbsp;&nbsp;&nbsp;&nbsp; Submitted, 2023.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541), Chen Zhao, and [J. Sunil Rao](https://www.jsunilrao.com/).
 
 ### 16. Back-to-the-future projections for COVID-19 surges [[arχiv]](https://arxiv.org/pdf/2202.08928.pdf)
-&nbsp;&nbsp;&nbsp;&nbsp; Submitted, 2022.
+&nbsp;&nbsp;&nbsp;&nbsp; Second review at _PLOS One_, 2023.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With Tianhao Liu and [J. Sunil Rao](https://www.jsunilrao.com/).
 
@@ -46,13 +46,13 @@ author_profile: true
 
 
 ### 14. Sometimes size does not matter [[Manuscript]](https://github.com/danielandresgp/danielandresgp.github.io/blob/master/files/Size%20does%20not%20matter.pdf) [[Poster]](https://github.com/danielandresgp/danielandresgp.github.io/blob/master/files/Poster.pdf)
-&nbsp;&nbsp;&nbsp;&nbsp; _Foundations of Physics_. Accepted, 2022.
+&nbsp;&nbsp;&nbsp;&nbsp; _Foundations of Physics_, 53:1, 2023.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [Robert J. Marks II](https://robertmarks.org).
 
 
 ### 13. High Dimensional Mode Hunting Using Pettiest Components Analysis [[arχiv]](https://arxiv.org/pdf/2101.04288.pdf)
-&nbsp;&nbsp;&nbsp;&nbsp; _IEEE Transactions on Pattern Analysis and Machine Intelligence_. Accepted, 2022. 
+&nbsp;&nbsp;&nbsp;&nbsp; _IEEE Transactions on Pattern Analysis and Machine Intelligence_, 45(4):4637-4649, 2023. 
 
 &nbsp;&nbsp;&nbsp;&nbsp; With Tianhao Liu, [J. Sunil Rao](https://www.jsunilrao.com/), and [Jean-Eudes Dazard](https://case.academia.edu/JED).
 
