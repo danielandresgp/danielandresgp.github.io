@@ -26,7 +26,7 @@ author_profile: true
 ### 18. Prediction modeling using algorithmic information theory [[arχiv]](https://arxiv.org/abs/2304.10752)
 &nbsp;&nbsp;&nbsp;&nbsp; Submitted, 2023.
 
-&nbsp;&nbsp;&nbsp;&nbsp; With Glauco Amigo Galán and [Robert J. Marks II](https://robertmarks.org).
+&nbsp;&nbsp;&nbsp;&nbsp; With Glauco Amigo-Galán and [Robert J. Marks II](https://robertmarks.org).
 
 ### 17. Active information, missing data, and prevalence estimation [[arχiv]](https://arxiv.org/pdf/2206.05120.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; Submitted, 2023.
