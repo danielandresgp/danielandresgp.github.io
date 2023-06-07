@@ -40,7 +40,7 @@ author_profile: true
 
 
 ### 15. Correcting prevalence estimation for biased sampling with testing errors [[medRχiv]](https://www.medrxiv.org/content/10.1101/2021.11.12.21266254v2.full.pdf)
-&nbsp;&nbsp;&nbsp;&nbsp; Second review at _Statistics in Medicine_, 2022. 
+&nbsp;&nbsp;&nbsp;&nbsp; Second review at _Statistics in Medicine_, 2023. 
 
 &nbsp;&nbsp;&nbsp;&nbsp; With Lili Zhou, Chen Zhao, and [J. Sunil Rao](https://www.jsunilrao.com/). 
 
