@@ -59,6 +59,9 @@ author_profile: true
 ### 13. Planning a Center for Standards and Ethics in Artificial Intelligence. [[pdf]](https://www.rivas.ai/pdfs/rivas2022planning.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; _Proceedings of the International Conference on Machine Learning Research_, 1-22. 2022.
 
+&nbsp;&nbsp;&nbsp;&nbsp; With [Pablo Rivas](https://www.rivas.ai/), [Laura Montoya](https://www.lauranmontoya.com/), and [Jorge Ortiz](http://jorgeortizphd.info/).
+
+
 
 ### 12. A Formal Framework for Knowledge Acquisition: Going Beyond Machine Learning [[PsyArXiv]](https://psyarxiv.com/qt5kw/)
 &nbsp;&nbsp;&nbsp;&nbsp; _Entropy_, 24(10):1469, 2022.
