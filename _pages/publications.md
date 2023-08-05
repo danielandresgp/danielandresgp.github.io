@@ -42,7 +42,7 @@ author_profile: true
 ### 16. Correcting prevalence estimation for biased sampling with testing errors [[medRχiv]](https://www.medrxiv.org/content/10.1101/2021.11.12.21266254v2.full.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; Second review at _Statistics in Medicine_, 2023. 
 
-&nbsp;&nbsp;&nbsp;&nbsp; With Lili Zhou, Chen Zhao, and [J. Sunil Rao](https://www.jsunilrao.com/). 
+&nbsp;&nbsp;&nbsp;&nbsp; With Lili Zhou, Chen Zhao, [J. Sunil Rao](https://www.jsunilrao.com/), and [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541). 
 
 
 ### 15. Sometimes size does not matter [[Manuscript]](https://github.com/danielandresgp/danielandresgp.github.io/blob/master/files/Size%20does%20not%20matter.pdf) [[Poster]](https://github.com/danielandresgp/danielandresgp.github.io/blob/master/files/Poster.pdf)
