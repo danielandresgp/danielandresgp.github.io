@@ -23,26 +23,32 @@ author_profile: true
 
 ## Articles
 
-### 19. Prediction modeling using algorithmic information theory [[arχiv]](https://arxiv.org/abs/2304.10752)
+### 20. Prediction modeling using algorithmic information theory [[arχiv]](https://arxiv.org/abs/2304.10752)
 &nbsp;&nbsp;&nbsp;&nbsp; Submitted, 2023.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With Glauco Amigo-Galán and [Robert J. Marks II](https://robertmarks.org).
 
-### 18. Active information, missing data, and prevalence estimation [[arχiv]](https://arxiv.org/pdf/2206.05120.pdf)
+### 19. Active information, missing data, and prevalence estimation [[arχiv]](https://arxiv.org/pdf/2206.05120.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; Second review at _IEEE Transactions on Information Theory_, 2023.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541), Chen Zhao, and [J. Sunil Rao](https://www.jsunilrao.com/).
 
-### 17. Back-to-the-future projections for COVID-19 surges [[arχiv]](https://arxiv.org/pdf/2202.08928.pdf)
+### 18. Back-to-the-future projections for COVID-19 surges [[arχiv]](https://arxiv.org/pdf/2202.08928.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; Second review at _PLOS One_, 2023.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With Tianhao Liu and [J. Sunil Rao](https://www.jsunilrao.com/).
 
 
-### 16. Correcting prevalence estimation for biased sampling with testing errors [[medRχiv]](https://www.medrxiv.org/content/10.1101/2021.11.12.21266254v2.full.pdf)
+### 17. Correcting prevalence estimation for biased sampling with testing errors [[medRχiv]](https://www.medrxiv.org/content/10.1101/2021.11.12.21266254v2.full.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; Second review at _Statistics in Medicine_, 2023. 
 
 &nbsp;&nbsp;&nbsp;&nbsp; With Lili Zhou, Chen Zhao, [J. Sunil Rao](https://www.jsunilrao.com/), and [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541). 
+
+
+### 16. Bridging Industry, Government, and Academia for Socially Responsible AI: The CSEAI Initiative.
+&nbsp;&nbsp;&nbsp;&nbsp; _2023 IEEE International Symposium on Ethics in Engineering, Science, and Technology (ETHICS)_, 1-1, 2023.
+
+&nbsp;&nbsp;&nbsp;&nbsp; With [Pablo Rivas](https://www.rivas.ai/), [Laura Montoya](https://www.lauranmontoya.com/), and [Jorge Ortiz](http://jorgeortizphd.info/).
 
 
 ### 15. Sometimes size does not matter [[Manuscript]](https://github.com/danielandresgp/danielandresgp.github.io/blob/master/files/Size%20does%20not%20matter.pdf) [[Poster]](https://github.com/danielandresgp/danielandresgp.github.io/blob/master/files/Poster.pdf)
