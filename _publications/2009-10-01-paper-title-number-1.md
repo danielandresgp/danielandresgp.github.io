@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "A note on large deviations for the stable marriage of Poisson and Lebesgue with random appetites"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/ldsmplra
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'Journal of Theoretical Probability'
+paperurl: 'http://academicpages.github.io/files/ldsmplra.pdf'
+citation: 'Díaz-Pachón D. A. A Note on Large Deviations for the Stable Marriage of Poisson and Lebesgue with Random Appetites. <i>Journal of Theoretical Probability</i>. 25,77-91 (2012).' [https://doi.org/10.1007/s10959-010-0304-9](https://doi.org/10.1007/s10959-010-0304-9)
 ---
-This paper is about the number 1. The number 2 is left for future work.
+
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
