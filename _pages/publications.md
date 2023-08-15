@@ -7,14 +7,11 @@ author_profile: true
 
 ## Working papers
 
-### 5. Bias is relative
-&nbsp;&nbsp;&nbsp;&nbsp; With [Pablo Rivas](https://www.rivas.ai/), [Jorge Ortiz](http://jorgeortizphd.info), and [J. Sunil Rao](https://www.jsunilrao.com/).
+### 4. Cosmological fine-tuning can be learned but not known.
+&nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and Calvin Mathew.
 
-### 4. Spatial Λ-Fleming-Viot process in discrete time
+### 3. Spatial Λ-Fleming-Viot process in discrete time
 &nbsp;&nbsp;&nbsp;&nbsp; With [Alison Etheridge](https://www.stats.ox.ac.uk/all-people/alison-etheridge/).
-
-### 3. COVID-19 prevalence with not-missing-at-random data
-&nbsp;&nbsp;&nbsp;&nbsp; With Lili Zhou, [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541), [J. Sunil Rao](https://www.jsunilrao.com/), Danny Pfeffermann, and Michail Sverchkov.
 
 ### 2. Poisson multi-matchings
 
@@ -40,7 +37,7 @@ author_profile: true
 
 
 ### 17. Correcting prevalence estimation for biased sampling with testing errors [[medRχiv]](https://www.medrxiv.org/content/10.1101/2021.11.12.21266254v2.full.pdf)
-&nbsp;&nbsp;&nbsp;&nbsp; Second review at _Statistics in Medicine_, 2023. 
+&nbsp;&nbsp;&nbsp;&nbsp; _Statistics in Medicine_, Accepted, 2023. 
 
 &nbsp;&nbsp;&nbsp;&nbsp; With Lili Zhou, Chen Zhao, [J. Sunil Rao](https://www.jsunilrao.com/), and [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541). 
 
