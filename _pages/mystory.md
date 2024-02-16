@@ -16,7 +16,8 @@ When I came to the United States, loneliness hit even harder. When I started my 
 
 2017 was a turning point in my life. The lowest point I touched and the point from which my God rescued me. After my most sincere prayer of repentance, I had a personal encounter with Christ that transcended everything I previously believed and understood. I used to talk a lot about religion. I gave lectures throughout the Spanish-speaking world on the existence of God, some of them for thousands of people, but I had never had an encounter with Christ in my adult life. Like Job, I can say:
 
-```I uttered what I did not understand, 
+```
+I uttered what I did not understand, 
 things too wonderful for me which I did not know… 
 I had heard of you by the hearing of the ear, 
 but now my eye sees you.
