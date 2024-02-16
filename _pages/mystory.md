@@ -1,5 +1,5 @@
 ---
-title: 'Plenitude'
+title: 'The years of silence'
 date: 2024-02-15
 permalink: /mystory/
 tags:
