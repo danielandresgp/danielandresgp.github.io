@@ -12,7 +12,7 @@ redirect_from:
 
 I live in beautiful South Florida, where I work as Research Assistant Professor in the [Division of Biostatistics](https://www.publichealth.med.miami.edu/divisions/biostatistics/) at the University of Miami. 
 
-My current research is in the mathematical foundations of data science, using tools from **information theory** and **probability**. I have applied my research to the following areas:
+My current research is in the mathematical foundations of data science, using tools from **information theory** and **probability**. Some areas in which I have applied my research are:
 
 1. **Population genetics**: Measuring the effect of "forces" like selection and mutations in non-neutral models, relative to neutral ones.
 2. **Infectious diseases**: Correcting estimators of prevalence, inspired by Covid-19 mostly.
