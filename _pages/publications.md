@@ -13,7 +13,7 @@ author_profile: true
 ### 4. Mode hunting for multimodal data
 &nbsp;&nbsp;&nbsp;&nbsp; With Tianhao Liu and [J. Sunil Rao](https://www.jsunilrao.com/).
 
-### 3. Spatial Λ-Fleming-Viot process in discrete time
+### 3. Spatial Ξ-Fleming-Viot processes
 &nbsp;&nbsp;&nbsp;&nbsp; With [Alison Etheridge](https://www.stats.ox.ac.uk/all-people/alison-etheridge/).
 
 ### 2. Poisson multi-matchings
