@@ -7,8 +7,11 @@ author_profile: true
 
 ## Working papers
 
-### 4. Cosmological fine-tuning can be learned but not known.
-&nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and Calvin Mathew.
+### 5. Information measures of human microbiota diversity
+&nbsp;&nbsp;&nbsp;&nbsp; With Renata Gallegos.
+
+### 4. Mode hunting for multimodal data
+&nbsp;&nbsp;&nbsp;&nbsp; With Tianhao Liu and [J. Sunil Rao](https://www.jsunilrao.com/).
 
 ### 3. Spatial Λ-Fleming-Viot process in discrete time
 &nbsp;&nbsp;&nbsp;&nbsp; With [Alison Etheridge](https://www.stats.ox.ac.uk/all-people/alison-etheridge/).
@@ -20,24 +23,32 @@ author_profile: true
 
 ## Articles
 
-### 20. Algorithmic information forcastability [[arχiv]](https://arxiv.org/abs/2304.10752)
-&nbsp;&nbsp;&nbsp;&nbsp; Submitted, 2023.
+### 21. Is it possible to know cosmological fine-tuning? [[arχiv]](https://arxiv.org/pdf/2401.04190.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp; Submitted, 2024.
 
-&nbsp;&nbsp;&nbsp;&nbsp; With Glauco Amigo-Galán and [Robert J. Marks II](https://robertmarks.org).
+&nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and Calvin Mathew.
 
-### 19. Active information, missing data, and prevalence estimation [[arχiv]](https://arxiv.org/pdf/2206.05120.pdf)
-&nbsp;&nbsp;&nbsp;&nbsp; Second review at _IEEE Transactions on Information Theory_, 2023.
 
-&nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541), Chen Zhao, and [J. Sunil Rao](https://www.jsunilrao.com/).
-
-### 18. Back-to-the-future projections for COVID-19 surges [[arχiv]](https://arxiv.org/pdf/2202.08928.pdf)
-&nbsp;&nbsp;&nbsp;&nbsp; Second review at _PLOS One_, 2023.
+### 20. Back-to-the-future projections for COVID-19 surges [[arχiv]](https://arxiv.org/pdf/2202.08928.pdf) [[Journal]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296964)
+&nbsp;&nbsp;&nbsp;&nbsp; _PLOS One_, 19(1):e0296964 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With Tianhao Liu and [J. Sunil Rao](https://www.jsunilrao.com/).
 
 
-### 17. Correcting prevalence estimation for biased sampling with testing errors [[Journal]](https://onlinelibrary.wiley.com/doi/epdf/10.1002/sim.9885) (Open access)
-&nbsp;&nbsp;&nbsp;&nbsp; _Statistics in Medicine_, 42(26):4713-4737, 2023. 
+### 19. An Information Theoretic Approach to Prevalence Estimation and Missing Data [[arχiv]](https://arxiv.org/pdf/2206.05120.pdf) [[Journal]](https://ieeexplore.ieee.org/abstract/document/10295527)
+&nbsp;&nbsp;&nbsp;&nbsp; _IEEE Transactions on Information Theory_, Accepted, 2023.
+
+&nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541), Chen Zhao, and [J. Sunil Rao](https://www.jsunilrao.com/).
+
+
+### 18. Algorithmic information forcastability [[arχiv]](https://arxiv.org/abs/2304.10752)
+&nbsp;&nbsp;&nbsp;&nbsp; Submitted, 2023.
+
+&nbsp;&nbsp;&nbsp;&nbsp; With Glauco Amigo-Galán and [Robert J. Marks II](https://robertmarks.org).
+
+
+### 17. Correcting prevalence estimation for biased sampling with testing errors [[Journal]](https://onlinelibrary.wiley.com/doi/epdf/10.1002/sim.9885) 
+&nbsp;&nbsp;&nbsp;&nbsp; _Statistics in Medicine_, 42(26):4713-4737, 2023 (Open access). 
 
 &nbsp;&nbsp;&nbsp;&nbsp; With Lili Zhou, Chen Zhao, [J. Sunil Rao](https://www.jsunilrao.com/), and [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541). 
 
