@@ -24,7 +24,7 @@ author_profile: true
 ## Articles
 
 ### 21. Is it possible to know cosmological fine-tuning? [[arχiv]](https://arxiv.org/pdf/2401.04190.pdf)
-&nbsp;&nbsp;&nbsp;&nbsp; Submitted, 2024.
+&nbsp;&nbsp;&nbsp;&nbsp; _The Astrophysical Journal Supplement Series_, Accepted, 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and Calvin Mathew.
 
