@@ -108,7 +108,7 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp; With [Robert J. Marks II](https://robertmarks.org).
 
 
-### 7. Generalized active information: Extensions to unbounded domains [[Journal]]([https://arxiv.org/pdf/2111.06865.pdf](https://bio-complexity.org/ojs/index.php/main/article/view/BIO-C.2020.3/BIO-C.2020.3)
+### 7. Generalized active information: Extensions to unbounded domains [[Journal]](https://bio-complexity.org/ojs/index.php/main/article/view/BIO-C.2020.3/BIO-C.2020.3)
 &nbsp;&nbsp;&nbsp;&nbsp; _BIO-Complexity_, 2020(3):1–6, 2020 (Open access). 
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Robert J. Marks II](https://robertmarks.org).
