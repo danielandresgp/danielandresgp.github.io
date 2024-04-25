@@ -23,22 +23,23 @@ author_profile: true
 
 ## Articles
 
-### 21. Is it possible to know cosmological fine-tuning? [[arχiv]](https://arxiv.org/pdf/2401.04190.pdf)
-&nbsp;&nbsp;&nbsp;&nbsp; _The Astrophysical Journal Supplement Series_, Accepted, 2024.
+
+### 21. An Information Theoretic Approach to Prevalence Estimation and Missing Data [[arχiv]](https://arxiv.org/pdf/2206.05120.pdf) [[Journal]](https://ieeexplore.ieee.org/abstract/document/10295527)
+&nbsp;&nbsp;&nbsp;&nbsp; _IEEE Transactions on Information Theory_, 70(5):3567-3582, 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541), Chen Zhao, and [J. Sunil Rao](https://www.jsunilrao.com/).
+
+
+### 20. Is it possible to know cosmological fine-tuning? [[arχiv]](https://arxiv.org/pdf/2401.04190.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp; _The Astrophysical Journal Supplement Series_, 271(2):56, 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and Calvin Mathew.
 
 
-### 20. Back-to-the-future projections for COVID-19 surges [[arχiv]](https://arxiv.org/pdf/2202.08928.pdf) [[Journal]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296964)
+### 19. Back-to-the-future projections for COVID-19 surges [[arχiv]](https://arxiv.org/pdf/2202.08928.pdf) [[Journal]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296964)
 &nbsp;&nbsp;&nbsp;&nbsp; _PLOS One_, 19(1):e0296964 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With Tianhao Liu and [J. Sunil Rao](https://www.jsunilrao.com/).
-
-
-### 19. An Information Theoretic Approach to Prevalence Estimation and Missing Data [[arχiv]](https://arxiv.org/pdf/2206.05120.pdf) [[Journal]](https://ieeexplore.ieee.org/abstract/document/10295527)
-&nbsp;&nbsp;&nbsp;&nbsp; _IEEE Transactions on Information Theory_, Accepted, 2023.
-
-&nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541), Chen Zhao, and [J. Sunil Rao](https://www.jsunilrao.com/).
 
 
 ### 18. Algorithmic information forcastability [[arχiv]](https://arxiv.org/abs/2304.10752)
