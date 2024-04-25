@@ -25,19 +25,19 @@ author_profile: true
 
 
 ### 21. An Information Theoretic Approach to Prevalence Estimation and Missing Data [[Journal]](https://ieeexplore.ieee.org/abstract/document/10295527) [[arχiv]](https://arxiv.org/pdf/2206.05120.pdf) 
-&nbsp;&nbsp;&nbsp;&nbsp; _IEEE Transactions on Information Theory_, 70(5):3567-3582, 2024.
+&nbsp;&nbsp;&nbsp;&nbsp; _IEEE Transactions on Information Theory_, **70**(5):3567-3582, 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541), Chen Zhao, and [J. Sunil Rao](https://www.jsunilrao.com/).
 
 
 ### 20. Is it possible to know cosmological fine-tuning? [[Journal]](https://iopscience.iop.org/article/10.3847/1538-4365/ad2c88) [[arχiv]](https://arxiv.org/pdf/2401.04190.pdf) 
-&nbsp;&nbsp;&nbsp;&nbsp; _The Astrophysical Journal Supplement Series_, 271(2):56, 2024 (Open access).
+&nbsp;&nbsp;&nbsp;&nbsp; _The Astrophysical Journal Supplement Series_, **271**(2):56, 2024 (Open access).
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and Calvin Mathew.
 
 
 ### 19. "Back-to-the-future" projections for COVID-19 surges [[Journal]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296964) 
-&nbsp;&nbsp;&nbsp;&nbsp; _PLOS One_, 19(1):e0296964 2024 (Open access).
+&nbsp;&nbsp;&nbsp;&nbsp; _PLOS One_, **19**(1):e0296964 2024 (Open access).
 
 &nbsp;&nbsp;&nbsp;&nbsp; With Tianhao Liu and [J. Sunil Rao](https://www.jsunilrao.com/).
 
@@ -49,7 +49,7 @@ author_profile: true
 
 
 ### 17. Correcting prevalence estimation for biased sampling with testing errors [[Journal]](https://onlinelibrary.wiley.com/doi/epdf/10.1002/sim.9885) 
-&nbsp;&nbsp;&nbsp;&nbsp; _Statistics in Medicine_, 42(26):4713-4737, 2023 (Open access). 
+&nbsp;&nbsp;&nbsp;&nbsp; _Statistics in Medicine_, **42**(26):4713-4737, 2023 (Open access). 
 
 &nbsp;&nbsp;&nbsp;&nbsp; With Lili Zhou, Chen Zhao, [J. Sunil Rao](https://www.jsunilrao.com/), and [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541). 
 
@@ -61,13 +61,13 @@ author_profile: true
 
 
 ### 15. Sometimes size does not matter [[Journal]](https://link.springer.com/article/10.1007/s10701-022-00650-1) [[Manuscript]](https://github.com/danielandresgp/danielandresgp.github.io/blob/master/files/Size%20does%20not%20matter.pdf) [[Poster]](https://github.com/danielandresgp/danielandresgp.github.io/blob/master/files/Poster.pdf)
-&nbsp;&nbsp;&nbsp;&nbsp; _Foundations of Physics_, 53:1, 2023.
+&nbsp;&nbsp;&nbsp;&nbsp; _Foundations of Physics_, **53**:1, 2023.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [Robert J. Marks II](https://robertmarks.org).
 
 
 ### 14. High-Dimensional Mode Hunting Using Pettiest Components Analysis [[Journal]](https://ieeexplore.ieee.org/document/9847087) [[arχiv]](https://arxiv.org/pdf/2101.04288.pdf)
-&nbsp;&nbsp;&nbsp;&nbsp; _IEEE Transactions on Pattern Analysis and Machine Intelligence_, 45(4):4637-4649, 2023. 
+&nbsp;&nbsp;&nbsp;&nbsp; _IEEE Transactions on Pattern Analysis and Machine Intelligence_, **45**(4):4637-4649, 2023. 
 
 &nbsp;&nbsp;&nbsp;&nbsp; With Tianhao Liu, [J. Sunil Rao](https://www.jsunilrao.com/), and [Jean-Eudes Dazard](https://case.academia.edu/JED).
 
@@ -79,13 +79,13 @@ author_profile: true
 
 
 ### 12. A Formal Framework for Knowledge Acquisition: Going Beyond Machine Learning [[Journal]](https://www.mdpi.com/1099-4300/24/10/1469)  
-&nbsp;&nbsp;&nbsp;&nbsp; _Entropy_, 24(10):1469, 2022 (Open access).
+&nbsp;&nbsp;&nbsp;&nbsp; _Entropy_, **24**(10):1469, 2022 (Open access).
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [J. Sunil Rao](https://www.jsunilrao.com/).
 
 
 ### 11. Assessing, testing and estimating the amount of fine-tuning by means of active information [[Journal]](https://www.mdpi.com/1099-4300/24/10/1323) 
-&nbsp;&nbsp;&nbsp;&nbsp; _Entropy_, 24(10):1323, 2022 (Open access). Editor's choice 
+&nbsp;&nbsp;&nbsp;&nbsp; _Entropy_, **24**(10):1323, 2022 (Open access). **Editor's choice article**.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541).
 
@@ -97,19 +97,19 @@ author_profile: true
 
 
 ### 9. A simple correction for COVID-19 sampling bias [[Journal]](https://www.sciencedirect.com/science/article/pii/S0022519320304112) [[arχiv]](https://arxiv.org/pdf/2007.07426.pdf)
-&nbsp;&nbsp;&nbsp;&nbsp; _Journal of Theoretical Biology_, 512:110556, 2021. 
+&nbsp;&nbsp;&nbsp;&nbsp; _Journal of Theoretical Biology_, **512**:110556, 2021. 
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [J. Sunil Rao](https://www.jsunilrao.com/).
 
 
 ### 8. Active Information Requirements for Fixation on the Wright-Fisher Model of Population Genetics [[Journal]](https://bio-complexity.org/ojs/index.php/main/article/view/BIO-C.2020.4/BIO-C.2020.4)
-&nbsp;&nbsp;&nbsp;&nbsp; _BIO-Complexity_, 2020(4):1–6, 2020 (Open access). 
+&nbsp;&nbsp;&nbsp;&nbsp; _BIO-Complexity_, **2020**(4):1–6, 2020 (Open access). 
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Robert J. Marks II](https://robertmarks.org).
 
 
 ### 7. Generalized active information: Extensions to unbounded domains [[Journal]](https://bio-complexity.org/ojs/index.php/main/article/view/BIO-C.2020.3/BIO-C.2020.3)
-&nbsp;&nbsp;&nbsp;&nbsp; _BIO-Complexity_, 2020(3):1–6, 2020 (Open access). 
+&nbsp;&nbsp;&nbsp;&nbsp; _BIO-Complexity_, **2020**(3):1–6, 2020 (Open access). 
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Robert J. Marks II](https://robertmarks.org).
 
@@ -132,17 +132,17 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp; With [Jean-Eudes Dazard](https://case.academia.edu/JED) and [J. Sunil Rao](https://www.jsunilrao.com/).
 
 
-### 3. F tests for the strip-split plot design [[arχiv]](https://arxiv.org/pdf/1507.07466.pdf)
+### 3. F tests for the strip-split plot design [[Journal]](https://biometria.ufla.br/index.php/BBJ/article/view/141/44) [[arχiv]](https://arxiv.org/pdf/1507.07466.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; _Revista Brasileira de Biometria_, **34**(2):279–303, 2016.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Francisco J. P. Zimmermann](https://independent.academia.edu/FranciscoZimmermann) and Luis Alberto López-Pérez.
 
 
-### 2. Percolation for the stable marriage of Poisson and Lebesgue with random appetites [[arχiv]](https://arxiv.org/pdf/0909.5325.pdf)
+### 2. Percolation for the stable marriage of Poisson and Lebesgue with random appetites [[Journal]](https://www.tandfonline.com/doi/abs/10.1080/17442508.2011.651215) [[arχiv]](https://arxiv.org/pdf/0909.5325.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; _Stochastics_, **85**(2):252–261, 2013. 
 
 
-### 1. A note on large deviations for the stable marriage of Poisson and Lebesgue with random appetites [[arχiv]](https://arxiv.org/pdf/0911.1429.pdf)
+### 1. A note on large deviations for the stable marriage of Poisson and Lebesgue with random appetites [[Journal]](https://link.springer.com/article/10.1007/s10959-010-0304-9) [[arχiv]](https://arxiv.org/pdf/0911.1429.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; _Journal of Theoretical Probability_, **25**(1):77–91, 2012.
 
 
