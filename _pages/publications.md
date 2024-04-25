@@ -78,43 +78,43 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp; With [Pablo Rivas](https://www.rivas.ai/), [Laura Montoya](https://www.lauranmontoya.com/), and [Jorge Ortiz](http://jorgeortizphd.info/).
 
 
-### 12. A Formal Framework for Knowledge Acquisition: Going Beyond Machine Learning [[Journal]](https://www.mdpi.com/1099-4300/24/10/1469)  [[PsyArXiv]](https://psyarxiv.com/qt5kw/)
-&nbsp;&nbsp;&nbsp;&nbsp; _Entropy_, 24(10):1469, 2022.
+### 12. A Formal Framework for Knowledge Acquisition: Going Beyond Machine Learning [[Journal]](https://www.mdpi.com/1099-4300/24/10/1469)  
+&nbsp;&nbsp;&nbsp;&nbsp; _Entropy_, 24(10):1469, 2022 (Open access).
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [J. Sunil Rao](https://www.jsunilrao.com/).
 
 
-### 11. Assessing, testing and estimating the amount of fine-tuning by means of active information [[Journal]](https://www.mdpi.com/1099-4300/24/10/1323) [[arχiv]](https://arxiv.org/pdf/2208.13828.pdf)
-&nbsp;&nbsp;&nbsp;&nbsp; _Entropy_, 24(10):1323, 2022 (Editor's choice). 
+### 11. Assessing, testing and estimating the amount of fine-tuning by means of active information [[Journal]](https://www.mdpi.com/1099-4300/24/10/1323) 
+&nbsp;&nbsp;&nbsp;&nbsp; _Entropy_, 24(10):1323, 2022 (Open access). Editor's choice 
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541).
 
 
-### 10. Is Cosmological Tuning Fine or Coarse? [[arχiv]](https://arxiv.org/pdf/2104.05400.pdf)
+### 10. Is Cosmological Tuning Fine or Coarse? [[Journal]](https://iopscience.iop.org/article/10.1088/1475-7516/2021/07/020) [[arχiv]](https://arxiv.org/pdf/2104.05400.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; _Journal of Cosmology and Astroparticle Physics_, JCAP07(2021)020, 2021. 
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [Robert J. Marks II](https://robertmarks.org).
 
 
-### 9. A simple correction for COVID-19 sampling bias [[arχiv]](https://arxiv.org/pdf/2007.07426.pdf)
+### 9. A simple correction for COVID-19 sampling bias [[Journal]](https://www.sciencedirect.com/science/article/pii/S0022519320304112) [[arχiv]](https://arxiv.org/pdf/2007.07426.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; _Journal of Theoretical Biology_, 512:110556, 2021. 
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [J. Sunil Rao](https://www.jsunilrao.com/).
 
 
-### 8. Active Information Requirements for Fixation on the Wright-Fisher Model of Population Genetics [[arχiv]](https://arxiv.org/pdf/2111.06909.pdf)
-&nbsp;&nbsp;&nbsp;&nbsp; _BIO-Complexity_, 2020(4):1–6, 2020. 
+### 8. Active Information Requirements for Fixation on the Wright-Fisher Model of Population Genetics [[Journal]](https://bio-complexity.org/ojs/index.php/main/article/view/BIO-C.2020.4/BIO-C.2020.4)
+&nbsp;&nbsp;&nbsp;&nbsp; _BIO-Complexity_, 2020(4):1–6, 2020 (Open access). 
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Robert J. Marks II](https://robertmarks.org).
 
 
-### 7. Generalized active information: Extensions to unbounded domains [[arχiv]](https://arxiv.org/pdf/2111.06865.pdf)
-&nbsp;&nbsp;&nbsp;&nbsp; _BIO-Complexity_, 2020(3):1–6, 2020. 
+### 7. Generalized active information: Extensions to unbounded domains [[Journal]]([https://arxiv.org/pdf/2111.06865.pdf](https://bio-complexity.org/ojs/index.php/main/article/view/BIO-C.2020.3/BIO-C.2020.3)
+&nbsp;&nbsp;&nbsp;&nbsp; _BIO-Complexity_, 2020(3):1–6, 2020 (Open access). 
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Robert J. Marks II](https://robertmarks.org).
 
 
-### 6. Hypothesis testing with active information [[arχiv]](https://arxiv.org/pdf/2011.04834.pdf)
+### 6. Hypothesis testing with active information [{Journal]](https://www.sciencedirect.com/science/article/abs/pii/S0167715220300456) [[arχiv]](https://arxiv.org/pdf/2011.04834.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; _Statistics & Probability Letters_, **161**:108742, 2020.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With Juan P. Sáenz and [J. Sunil Rao](https://www.jsunilrao.com/).
