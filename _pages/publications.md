@@ -114,7 +114,7 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp; With [Robert J. Marks II](https://robertmarks.org).
 
 
-### 6. Hypothesis testing with active information [{Journal]](https://www.sciencedirect.com/science/article/abs/pii/S0167715220300456) [[arχiv]](https://arxiv.org/pdf/2011.04834.pdf)
+### 6. Hypothesis testing with active information [[Journal]](https://www.sciencedirect.com/science/article/abs/pii/S0167715220300456) [[arχiv]](https://arxiv.org/pdf/2011.04834.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; _Statistics & Probability Letters_, **161**:108742, 2020.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With Juan P. Sáenz and [J. Sunil Rao](https://www.jsunilrao.com/).
