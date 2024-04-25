@@ -120,13 +120,13 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp; With Juan P. Sáenz and [J. Sunil Rao](https://www.jsunilrao.com/).
 
 
-### 5. Mode hunting through active information [[arχiv]](https://arxiv.org/pdf/2011.05794.pdf)
+### 5. Mode hunting through active information [[Journal]](https://onlinelibrary.wiley.com/doi/abs/10.1002/asmb.2430) [[arχiv]](https://arxiv.org/pdf/2011.05794.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; _Applied Stochastic Models in Business & Industry_, **35**(2):376–393, 2019.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With Juan P. Sáenz, [J. Sunil Rao](https://www.jsunilrao.com/), and [Jean-Eudes Dazard](https://case.academia.edu/JED).
 
 
-### 4. Unsupervised Bump Hunting Using Principal Components [[arχiv]](https://arxiv.org/pdf/1409.8630.pdf)
+### 4. Unsupervised Bump Hunting Using Principal Components [[Book chapter]](https://link.springer.com/chapter/10.1007/978-3-319-41573-4_16) [[arχiv]](https://arxiv.org/pdf/1409.8630.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; In S. Ejaz Ahmed, editor, _Big and Complex Data Analysis: Methodologies and Applications_, pp. 325–345. Springer, 2017.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Jean-Eudes Dazard](https://case.academia.edu/JED) and [J. Sunil Rao](https://www.jsunilrao.com/).
