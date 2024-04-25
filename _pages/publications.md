@@ -36,7 +36,7 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and Calvin Mathew.
 
 
-### 19. Back-to-the-future projections for COVID-19 surges [[arχiv]](https://arxiv.org/pdf/2202.08928.pdf) [[Journal]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296964)
+### 19. "Back-to-the-future" projections for COVID-19 surges [[arχiv]](https://arxiv.org/pdf/2202.08928.pdf) [[Journal]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296964)
 &nbsp;&nbsp;&nbsp;&nbsp; _PLOS One_, 19(1):e0296964 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With Tianhao Liu and [J. Sunil Rao](https://www.jsunilrao.com/).
