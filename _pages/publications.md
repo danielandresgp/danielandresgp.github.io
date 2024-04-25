@@ -24,20 +24,20 @@ author_profile: true
 ## Articles
 
 
-### 21. An Information Theoretic Approach to Prevalence Estimation and Missing Data [[arχiv]](https://arxiv.org/pdf/2206.05120.pdf) [[Journal]](https://ieeexplore.ieee.org/abstract/document/10295527)
+### 21. An Information Theoretic Approach to Prevalence Estimation and Missing Data [[Journal]](https://ieeexplore.ieee.org/abstract/document/10295527) [[arχiv]](https://arxiv.org/pdf/2206.05120.pdf) 
 &nbsp;&nbsp;&nbsp;&nbsp; _IEEE Transactions on Information Theory_, 70(5):3567-3582, 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541), Chen Zhao, and [J. Sunil Rao](https://www.jsunilrao.com/).
 
 
-### 20. Is it possible to know cosmological fine-tuning? [[arχiv]](https://arxiv.org/pdf/2401.04190.pdf)
-&nbsp;&nbsp;&nbsp;&nbsp; _The Astrophysical Journal Supplement Series_, 271(2):56, 2024.
+### 20. Is it possible to know cosmological fine-tuning? [[Journal]](https://iopscience.iop.org/article/10.3847/1538-4365/ad2c88) [[arχiv]](https://arxiv.org/pdf/2401.04190.pdf) 
+&nbsp;&nbsp;&nbsp;&nbsp; _The Astrophysical Journal Supplement Series_, 271(2):56, 2024 (Open access).
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and Calvin Mathew.
 
 
-### 19. "Back-to-the-future" projections for COVID-19 surges [[arχiv]](https://arxiv.org/pdf/2202.08928.pdf) [[Journal]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296964)
-&nbsp;&nbsp;&nbsp;&nbsp; _PLOS One_, 19(1):e0296964 2024.
+### 19. "Back-to-the-future" projections for COVID-19 surges [[Journal]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296964) 
+&nbsp;&nbsp;&nbsp;&nbsp; _PLOS One_, 19(1):e0296964 2024 (Open access).
 
 &nbsp;&nbsp;&nbsp;&nbsp; With Tianhao Liu and [J. Sunil Rao](https://www.jsunilrao.com/).
 
@@ -60,13 +60,13 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp; With [Pablo Rivas](https://www.rivas.ai/), [Laura Montoya](https://www.lauranmontoya.com/), and [Jorge Ortiz](http://jorgeortizphd.info/).
 
 
-### 15. Sometimes size does not matter [[Manuscript]](https://github.com/danielandresgp/danielandresgp.github.io/blob/master/files/Size%20does%20not%20matter.pdf) [[Poster]](https://github.com/danielandresgp/danielandresgp.github.io/blob/master/files/Poster.pdf)
+### 15. Sometimes size does not matter [[Journal]](https://link.springer.com/article/10.1007/s10701-022-00650-1) [[Manuscript]](https://github.com/danielandresgp/danielandresgp.github.io/blob/master/files/Size%20does%20not%20matter.pdf) [[Poster]](https://github.com/danielandresgp/danielandresgp.github.io/blob/master/files/Poster.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; _Foundations of Physics_, 53:1, 2023.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [Robert J. Marks II](https://robertmarks.org).
 
 
-### 14. High-Dimensional Mode Hunting Using Pettiest Components Analysis [[arχiv]](https://arxiv.org/pdf/2101.04288.pdf)
+### 14. High-Dimensional Mode Hunting Using Pettiest Components Analysis [[Journal]](https://ieeexplore.ieee.org/document/9847087) [[arχiv]](https://arxiv.org/pdf/2101.04288.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; _IEEE Transactions on Pattern Analysis and Machine Intelligence_, 45(4):4637-4649, 2023. 
 
 &nbsp;&nbsp;&nbsp;&nbsp; With Tianhao Liu, [J. Sunil Rao](https://www.jsunilrao.com/), and [Jean-Eudes Dazard](https://case.academia.edu/JED).
@@ -78,14 +78,14 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp; With [Pablo Rivas](https://www.rivas.ai/), [Laura Montoya](https://www.lauranmontoya.com/), and [Jorge Ortiz](http://jorgeortizphd.info/).
 
 
-### 12. A Formal Framework for Knowledge Acquisition: Going Beyond Machine Learning [[PsyArXiv]](https://psyarxiv.com/qt5kw/)
+### 12. A Formal Framework for Knowledge Acquisition: Going Beyond Machine Learning [[Journal]](https://www.mdpi.com/1099-4300/24/10/1469)  [[PsyArXiv]](https://psyarxiv.com/qt5kw/)
 &nbsp;&nbsp;&nbsp;&nbsp; _Entropy_, 24(10):1469, 2022.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [J. Sunil Rao](https://www.jsunilrao.com/).
 
 
-### 11. Assessing, testing and estimating the amount of fine-tuning by means of active information [[arχiv]](https://arxiv.org/pdf/2208.13828.pdf)
-&nbsp;&nbsp;&nbsp;&nbsp; _Entropy_, 24(10):1323, 2022. 
+### 11. Assessing, testing and estimating the amount of fine-tuning by means of active information [[Journal]](https://www.mdpi.com/1099-4300/24/10/1323) [[arχiv]](https://arxiv.org/pdf/2208.13828.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp; _Entropy_, 24(10):1323, 2022 (Editor's choice). 
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541).
 
