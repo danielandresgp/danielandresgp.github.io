@@ -15,12 +15,7 @@ I live in beautiful South Florida, where I work as Research Assistant Professor 
 My current research revolves around **probability** and **information theory**, with applications to machine learning, physics, statistics, and infectious disesaes, among others. I also have a penchant for the philosophy of science, which motivates a lot of my research. I have worked on the following areas:
 
 1. **Fine-tuning**: Cosmological fine-tuning (FT) states that some constants of nature must pertain to intervals of minuscule probability in
-order to permit the existence of carbon-based life. For each constant of nature $x_0$, the problem is twofold: first, finding its life-permitting interval (LPI) $A = x_0[1−\epsilon, 1+\epsilon]$ (a physics problem); second, assuming
-that x0 is the realization of a random variable X, estimating the probability P0(X ∈ A) of the constant pertaining
-to its LPI. However, the second step remained elusive for years, as estimating the probability of the LPI required
-using a sample of size 1 (the value of the constant in our uni-verse), taken from an unknown distribution P0,
-supported in an unknown sample space S, where the sample is affected by selection bias because it corresponds
-to a universe that permits life.
+order to permit the existence of carbon-based life. The problem is twofold for each constant of nature: first, finding the set of values of the constant that permit life---its so-called life-permitting interval (a physics problem); second, finding the probability that the constant of nature pertains to its LPI (a mathematical problem). However, the second step remained elusive for years, as estimating the probability of the LPI required using a sample of size 1 (the value of the constant in our _uni_-verse), taken from an unknown distribution, supported in an unknown sample space, where the sample is affected by selection bias because it corresponds to a universe that permits life.
 2. **Infectious diseases**: Correcting estimators of prevalence, inspired by Covid-19 mostly.
 3. **Bump hunting**: Finding maxima for supervised and unsupervised. machine learning.
 4. **Fine tuning**: . 
