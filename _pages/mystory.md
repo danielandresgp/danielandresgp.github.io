@@ -25,7 +25,7 @@ but now my eye sees you.
 
 My best analogy to describe what happened is this:
 
-John Doe has read everything about the kiss: the best psychology books about its emotional effects, the best biological and medical literature on its physiological effects, and the best poems, novels, and stories — the romantic ones, the erotic ones, and the worldly ones. There is no greater expert on the kiss than John Doe! When he talks about it, everyone listens because he is the authority. But John Doe has never kissed the woman he loves. Perhaps he has kissed others, maybe many, but not the one he loves.
+John Doe has read everything about the kiss: the best psychology books about its emotional effects, the best biological and medical literature on its physiological effects, and the best poems, novels, and stories — the romantic ones, the erotic ones, and the worldly ones. There is no greater expert on what a kiss is than John Doe! When he talks about it, everyone listens because he is the authority. But John Doe has never kissed the woman he loves. Perhaps he has kissed others, maybe many, but not the one he loves.
 
 After many years, when he finally kisses her for the first time with an endless kiss — just the two of them, without impediments or haste—, and the only words that come to his mind are «Thank you, my God! Thank you, my God! Thank you, my God! Thank you, my God!», then he realizes that he did not know what a kiss was, and that he could never express in words the existential plenitude he experienced.
 
