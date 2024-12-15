@@ -10,7 +10,7 @@ redirect_from:
 
 ## Welcome!
 
-I live in beautiful South Florida, where I work as Research Assistant Professor in the [Division of Biostatistics](https://www.publichealth.med.miami.edu/divisions/biostatistics/) at the University of Miami. 
+I live in beautiful South Florida, where I work as Research Assistant Professor in the [Division of Biostatistics and Bioinformatics](https://www.publichealth.med.miami.edu/divisions/biostatistics/) at the University of Miami. 
 
 My current research is in the mathematical foundations of data science, using tools from **information theory** and **probability**. Some areas in which I have applied my research are:
 
