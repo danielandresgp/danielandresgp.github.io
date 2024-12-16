@@ -1,14 +1,14 @@
 # main links links
 main:
-  - title: "My story"
-    url: /mystory
-    
-  - title: "Publications"
-    url: /publications/
-
+  
   - title: "Research"
     url: /research
     
+  - title: "Publications"
+    url: /publications/
+    
+   - title: "My story"
+    url: /mystory
+
   - title: "CV"
     url: /cv/
-    
