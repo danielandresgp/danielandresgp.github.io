@@ -10,13 +10,11 @@ redirect_from:
 
 ## Welcome!
 
-I live in beautiful South Florida, where I work as Research Assistant Professor in the [Division of Biostatistics and Bioinformatics](https://www.publichealth.med.miami.edu/divisions/biostatistics/) at the University of Miami. 
-
-Besides research, my hobbies are crossfit, reading, and writing.
-
-I am happily married to Lis. She is much more than I could ever deserve! We have a beautiful baby boy called Juan Pablo, our [mustard seed](https://www.biblegateway.com/passage/?search=Mateo+13%3A31-32&version=NIV).
+I live in beautiful South Florida, where I work as Assistant Professor in the [Division of Biostatistics and Bioinformatics](https://www.publichealth.med.miami.edu/divisions/biostatistics/) at the University of Miami. I am happily married to [Lis](https://www.instagram.com/lisettesarrias/). She is much more than I could ever deserve! We have a beautiful baby boy called Juan Pablo, our [mustard seed](https://www.biblegateway.com/passage/?search=Mateo+13%3A31-32&version=NIV).
 
 The most significant aspect of my life is that I love Jesus, but not as much as [He loves me](https://www.biblegateway.com/passage/?search=John%203%3A16&version=NIV)! If you are interested, we can talk about it!
+
+Besides research, my hobbies are spending time with my family, working out, reading, and writing.
 
 
 My current research revolves around **probability** and **information theory**, with applications to machine learning, physics, statistics, and infectious disesaes, among others. I also have a penchant for the philosophy of science, which motivates a lot of my research. Most of my research revolves around local measures of information, like the active information
