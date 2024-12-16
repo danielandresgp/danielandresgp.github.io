@@ -23,6 +23,10 @@ author_profile: true
 
 ## Articles
 
+### 22. Statistical learning does not always entail knowledge
+&nbsp;&nbsp;&nbsp;&nbsp; _Submitted_, 2024.
+&nbsp;&nbsp;&nbsp;&nbsp; With H. Renata Gallegos, [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541), and [J. Sunil Rao](https://www.jsunilrao.com/).
+
 
 ### 21. An Information Theoretic Approach to Prevalence Estimation and Missing Data [[Journal]](https://ieeexplore.ieee.org/abstract/document/10295527) [[arχiv]](https://arxiv.org/pdf/2206.05120.pdf) 
 &nbsp;&nbsp;&nbsp;&nbsp; _IEEE Transactions on Information Theory_, **70**(5):3567-3582, 2024.
