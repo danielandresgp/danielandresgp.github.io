@@ -6,7 +6,10 @@ author_profile: true
 ---
 
 
-My current research revolves around **probability** and **information theory**, with applications to machine learning, physics, statistics, and infectious disesaes, among others. I also have a penchant for the philosophy of science, which motivates a lot of my research. Most of my research revolves around local measures of information, like the active information
+My research revolves around **probability** and **information theory**. I have applied it to cosmology, machine learning, statistics, and infectious disesaes, among others. I also have a penchant for the philosophy of science, which motivates a lot of my research. 
+
+
+Most of my research revolves around local measures of information, like the active information
 \begin{equation}
   I^+ := \log \frac{\mathbf P(\mathsf A)}{\mathbf P_0(\mathsf A)},
 \end{equation}
