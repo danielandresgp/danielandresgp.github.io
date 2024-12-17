@@ -18,6 +18,9 @@ author_profile: true
 
 ## Local measures of information
 
+KL-RTI.pdf](https://github.com/user-attachments/files/18169367/KL-RTI.pdf)
+
+
 <p align="justify">Shannon's information theory is almost exclusively focused on global averaged measures of information (entropy, mutual information, KL divergence, etc.) This approach overlooks the significance of local information measures the self-information of specific events. Thus, since averages are by definition a reduction of information, information theory is constantly losing information. Consider, for instance, the active information (AIN)
 \begin{equation*}
   I^+(\mathsf A) := \log \frac{\mathbf P(\mathsf A)}{\mathbf P_0(\mathsf A)},
@@ -26,8 +29,7 @@ where $\mathbf P$ and $\mathbf P_0$ are probability measures on a measurable spa
    \begin{equation*}
       \mathrm{KL}(\mathbf P \mid \mathbf P_0) := \int \log \left(\frac{\mathbf P(\mathrm d x)}{\mathbf P_0(\mathrm d x)}\right)\mathbf P(\mathrm d x),
    \end{equation*}
-is a nonnegative global average that can only be zero when $\mathbf P = \mathbf P_0$ with probability 1. Most of what follows shows that these differences between $I^+(\mathsf A)$ and $\mathrm{KL}(\mathbf P \mid \mathbf P_0)$ are crucial, and that by ignoring local measures of information progress is hindered in many areas.
-</p>
+is a nonnegative global average that can only be zero when $\mathbf P = \mathbf P_0$ with probability 1. Most of what follows shows that these differences between $I^+(\mathsf A)$ and $\mathrm{KL}(\mathbf P \mid \mathbf P_0)$ matter, and that progress has been hindered in many areas by ignoring local measures of information.</p>
    
 1. **Fine-tuning**: Cosmological fine-tuning (FT) states that some constants of nature must pertain to intervals of minuscule probability in
 order to permit the existence of carbon-based life. The problem is twofold for each constant of nature: First, finding the constant's life permitting interval (LPI)---the set of possible values of the constant that would permit life (a physics problem); second, finding the probability that the constant of nature pertains to its LPI (a mathematical problem). When this probability is small, there is fine-tuning. However, the second step remained elusive for 50 years, as estimating the probability of the LPI required using a sample of size 1 (the value of the constant in our _uni_-verse), taken from an unknown distribution, supported in an unknown sample space, where the sample is affected by selection bias because it corresponds to a universe that permits life. My colleagues and I developed a sound solution to this problem through a Bayesian approach that relies on maximum entropy and optimization (a nice presentation can be watched [here](https://www.youtube.com/watch?v=3_ZrLrrSTTE)). I am now interested in estimating the probabilities of LPIs for more local conditions (as oposed to the universal ones determined by the constants of nature), like gallactic, planetary, and biological ones. 
