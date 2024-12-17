@@ -21,8 +21,8 @@ In mathematical research, probability is the apple of my eye. I really, really, 
 
   
    My interests is now twofold:
-   a. Studying the connection between stable allocations and continuous $\Xi$-Fleming—Viot processes, as well as its  applications to population genetics and epidemics modeling.
-   b. Studying percolation of other models and graphs, as this my favorite topic in all of probability! 
+   1. Studying the connection between stable allocations and continuous $\Xi$-Fleming—Viot processes, as well as its  applications to population genetics and epidemics modeling.
+   2. Studying percolation of other models and graphs, as this my favorite topic in all of probability! 
 
 
 Most of my research revolves around local measures of information, like the active information
