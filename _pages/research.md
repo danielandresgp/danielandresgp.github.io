@@ -23,7 +23,7 @@ My interest is now twofold:
 <ol style="text-align: justify;"> 
 <li>Studying the connection between stable allocations and continuous Fleming—Viot processes, as well as its  applications to population genetics and      epidemics.</li> 
 <li>Studying percolation of other models and graphs, as this my favorite topic in all of probability!</li> 
-<\ol>
+</ol>
 
 
 
