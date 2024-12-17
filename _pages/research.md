@@ -8,10 +8,6 @@ author_profile: true
 
 <p align="justify">My research revolves around <b>probability</b>, <b>information theory</b> and <b>mathematical statistics</b>. I have applied these tools to cosmology, machine learning, origin of life, population genetics, and infectious disesaes I also have a penchant for the philosophy of science, which motivates a lot of my research. </p>
 
-## Probability
-
-<p align="justify">In mathematical research, probability is the apple of my eye. I really like probability and stochastic processes! Some areas in which I have worked in the past are:</p>
-
 ### Stable allocations
    <center>
    <img src="https://github.com/user-attachments/assets/dbfd1f4b-fd22-41da-9fc2-56098e6cc7fa" width="500" height="500">
