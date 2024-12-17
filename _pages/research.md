@@ -18,7 +18,7 @@ In mathematical research, probability is the apple of my eye. I really, really, 
    </center>
    
    Imagine that you have a set of points, or "centers", in the space. Assume that every center wants to colonize a random amount of territory which is as close to it as possible. To acquire territory, all centers grow around them a ball that increases at the same radial speed in such a way that (a) each center colonizes all the territory in the ball around it that was not previously colonized by any other center, and (b) each point stops growing its ball only when it has colonized the amount of territory it wanted to have. This describes in informal terms a stable allocation of territories to the set of centers. When the set of centers is random, the model becomes a stochastic process. This stochastic process generalizes to continuous spaces the famous [Gale—Shapley algorithm](https://www.eecs.harvard.edu/cs286r/courses/fall09/papers/galeshapley.pdf) for which Lloyd Shapley received the Nobel Prize in 2012. My interests is now twofold:
-   1. Studying the connection between stable allocations and continuous Fleming—Viot processes, as well as its  applications to population genetics and epidemics modeling.
+   1. Studying the connection between stable allocations and continuous Fleming—Viot processes, as well as its  applications to population genetics and epidemics.
    2. Studying percolation of other models and graphs, as this my favorite topic in all of probability! 
 
 
