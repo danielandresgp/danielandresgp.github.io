@@ -24,7 +24,7 @@ author_profile: true
 \end{equation*}
 where $\mathbf P$ and $\mathbf P_0$ are probability measures on a measurable space $(\Omega, \mathcal F)$ and $\mathsf A \subset \mathcal F$. In words, $I^+(\mathsf A)$ measures how  much information is added/removed from the event $\mathsf A$ when is measured with $\mathbf P$, instead of the baseline $\mathbf P_0$. In more detail, $I^+(\mathsf A)$ will be positive/negative/zero, when $\mathbf P(\mathsf A)$ is bigger/smaller/equal to $\mathbf P_0$, respectively. By contrast, the Kullback-Leibler divergence, the famous average of the active information
    \begin{equation*}
-      \mathrm{KL}(\mathbf P \mid \mathbf P_0) := \int \log\frac{\mathbf P(\mathrm d x)}{\mathbf P_0(\mathrm d x)}\mathbf P(\mathrm d x),
+      \mathrm{KL}(\mathbf P \mid \mathbf P_0) := \int \log \left(\frac{\mathbf P(\mathrm d x)}{\mathbf P_0(\mathrm d x)}\right)\mathbf P(\mathrm d x),
    \end{equation*}
 is a nonnegative global average that can only be zero when $\mathbf P = \mathbf P_0$ with probability 1. Most of what follows shows that these differences between $I^+(\mathsf A)$ and $\mathrm{KL}(\mathbf P \mid \mathbf P_0)$ are crucial, and that by ignoring local measures of information progress is hindered in many areas.
 </p>
