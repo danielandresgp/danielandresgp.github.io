@@ -18,9 +18,6 @@ author_profile: true
 
 ## Local measures of information
 
-[KL-RTI.pdf](https://github.com/user-attachments/files/18169367/KL-RTI.pdf)
-
-
 <p align="justify">Shannon's information theory is almost exclusively focused on global averaged measures of information (entropy, mutual information, KL divergence, etc.) This approach overlooks the significance of local information measures the self-information of specific events. Thus, since averages are by definition a reduction of information, information theory is constantly losing information. Consider, for instance, the active information (AIN)
 \begin{equation*}
   I^+(\mathsf A) := \log \frac{\mathbf P(\mathsf A)}{\mathbf P_0(\mathsf A)},
