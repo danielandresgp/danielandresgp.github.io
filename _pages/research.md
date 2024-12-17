@@ -22,7 +22,7 @@ author_profile: true
    <p align="justify">My interest is now twofold:</p>
 <ol align="justify"> 
 <li>Studying the connection between stable allocations and <a href="https://projecteuclid.org/journals/electronic-journal-of-probability/volume-15/issue-none/A-New-Model-for-Evolution-in-a-Spatial-Continuum/10.1214/EJP.v15-741.full">continuous Fleming—Viot processes</a>, as well as its  applications to <b>population genetics</b> and      <b>epidemics</b>. The goal here is seeing the random territory of each center as the region where reproduction events (population genetics) or infections and recoveries (epidemics) take place.</li> 
-<li>Percolation is one of the hottest research areas in probability. It is theoretically challenging and several Fields medals have been awarded to great researchers who have contributed to its development. It also has important applications in multiple areas. For instance, it is linked to extinction/survival in population genetics, epidemics, cancer, and opinion formation, among others. I like to study percolation for the sake of percolation but also for what it represents in other applied areas.</li> 
+<li>Percolation is one of the hottest research areas in probability. It is theoretically challenging and several Fields medals have been awarded to great researchers who have contributed to its development. It also has important applications in multiple areas. For instance, it is linked to extinction/survival in population genetics, epidemics, cancer, and opinion formation. I like to study percolation for the sake of percolation but also for its important implications to other areas.</li> 
 </ol>
 
 ### Markov chains
