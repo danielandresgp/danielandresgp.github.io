@@ -12,12 +12,12 @@ My research revolves around **probability** and **information theory**. I have a
 
 In mathematical research, probability is the apple of my eye. I really, really, like probability and stochastic processes! Some areas in which I have worked in the past are:
 
-1. **Stable allocations**: Imagine you have a set of points in the space. Assume that every point wants to colonize a territory of the space with a random volume which is as close to the point as possible. To acquire their territory, all points grow around them a ball that increases at the same radial speed in such a way that (a) each point claims for itself all the territory in the ball around it that has not claimed by any other point, and (b) each point stops growing its ball only when it has claimed for itself a territory it wanted to colonize. This informal presentation describes stable allocations, a stochastic process that generalizes to continuous spaces the famous Gale—Shapley algorithm for which Lloyd Shapley received the Nobel Prize in 2012. See here [a cool simulation I did with chatgpt:
+1. **Stable allocations**: Imagine you have a set of points in the space. Assume that every point wants to colonize a territory of the space with a random volume which is as close to the point as possible. To acquire their territory, all points grow around them a ball that increases at the same radial speed in such a way that (a) each point claims for itself all the territory in the ball around it that has not claimed by any other point, and (b) each point stops growing its ball only when it has claimed for itself a territory it wanted to colonize. This informal presentation describes stable allocations, a stochastic process that generalizes to continuous spaces the famous Gale—Shapley algorithm for which Lloyd Shapley received the Nobel Prize in 2012. See here a cool simulation I did with chatgpt:
    <center>
    <img src="https://github.com/user-attachments/assets/dbfd1f4b-fd22-41da-9fc2-56098e6cc7fa" width="500" height="500">
    </center>
 
-   I have studied percolation and large deviations properties of stable allocations.
+   I have studied [percolation](https://arxiv.org/pdf/0909.5325) and [large deviations](https://arxiv.org/pdf/0911.1429) of stable allocations.
 
    My interests is now twofold: first, studying the connection between stable allocations and continuous $\Xi$-Fleming—Viot processes, and its  applications to population genetics and epidemics modeling; second, studying percolation of other models and graphs, as this my favorite topic in all of probability! 
 
