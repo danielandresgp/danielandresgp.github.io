@@ -12,10 +12,11 @@ My research revolves around **probability** and **information theory**. I have a
 
 In mathematical research, probability is the apple of my eye. I really, really, like probability and stochastic processes! Some areas in which I have worked in the past are:
 
-1. **Stable allocations**: See here a cool simulation I did with chatgpt:
+1. **Stable allocations**: To better understand this model, look first at this simulation that I did with chatgpt:
    <center>
    <img src="https://github.com/user-attachments/assets/dbfd1f4b-fd22-41da-9fc2-56098e6cc7fa" width="500" height="500">
    </center>
+   
    I have studied [percolation](https://arxiv.org/pdf/0909.5325) and [large deviations](https://arxiv.org/pdf/0911.1429) of the so-called stable marriage of Poisson and Lebesgue. Imagine that you have a set of "centers" in the space. Assume that every point wants to colonize a random amount of territory which is as close to the point as possible. To acquire territory, all points grow around them a ball that increases at the same radial speed in such a way that (a) each point claims for itself all the territory in the ball around it that was not previously been claimed by any other point, and (b) each point stops growing its ball only when it has claimed for itself the amount of territory it wanted to colonize. This describes informally stable allocations of the space to the set of points. When the set of points is random, the model becomes a stochastic process that generalizes to continuous spaces the famous Gale—Shapley algorithm for which Lloyd Shapley received the Nobel Prize in 2012. Gale and Shapley's original paper is a joy to readone of the most beautiful mathematical papers I have ever read, so I recommend its  
 
   
