@@ -21,7 +21,7 @@ author_profile: true
    
 My interest is now twofold:
 <ol style="text-align: justify;"> 
-<li>Studying the connection between stable allocations and continuous Fleming—Viot processes, as well as its  applications to population genetics and      epidemics. The goal here is seeing the territory of each center as the region in which reproduction events (population genetics) or infections and recoveries (epidemics) take place</li> 
+<li>Studying the connection between stable allocations and continuous Fleming—Viot processes, as well as its  applications to <b>population genetics</b>b and      <b>epidemics</b>. The goal here is seeing the territory of each center as the region in which reproduction events (population genetics) or infections and recoveries (epidemics) take place</li> 
 <li>Studying percolation of other models and graphs, as this my favorite topic in all of probability!</li> 
 </ol>
 
