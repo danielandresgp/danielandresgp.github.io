@@ -18,7 +18,7 @@ author_profile: true
 
 ## Local measures of information
 
-<p align="justify">Shannon's information theory is almost exclusively focused on global averaged measures of information (entropy, mutual information, KL divergence, etc.) This approach overlooks the significance of local information measures which, unlike global ones, focus on specific data events. This led me to wonder whether we could be losing something by neglecting them. The answer to this question is an univocal <b>yes</b>. Consider, for instance, active information (AIN), a measure that I have used extensively to count how much the information of a local event $\mathsf A$ changes when considering a distribution $\mathbf P$ instead of a baseline distribution $\mathbf P_0$. [
+<p align="justify">Shannon's information theory is almost exclusively focused on global averaged measures of information (entropy, mutual information, KL divergence, etc.) This approach overlooks the significance of local information measures which, unlike global ones, focus on specific data events. This led me to wonder whether we could be losing something by neglecting them. The answer to this question is an unequivocal <i>yes!</i>. Consider, for instance, active information (AIN), a measure that I have used extensively to count how much the information of a local event $\mathsf A$ changes when considering a distribution $\mathbf P$ instead of a baseline distribution $\mathbf P_0$. [
 
 Most of my research revolves around local measures of information, like the active information
 \begin{equation}
