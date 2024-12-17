@@ -26,7 +26,7 @@ where $\mathbf P$ and $\mathbf P_0$ are probability measures on a measurable spa
    \begin{equation*}
       \mathrm{KL}(\mathbf P \mid \mathbf P_0) := \int \log\frac{\mathbf P(\mathrm d x)}{\mathbf P_0(\mathrm d x)}\mathbf P(\mathrm d x),
    \end{equation*}
-is a nonnegative global average that can only be zero when $\mathbf P = \mathbf P_0$ with probability 1. Most of what follows shows that these differences between $I^+(\AA) and $\mathrm{KL}(\mathbf P \mid \mathbf P_0)$ have crucial implications in several areas.
+is a nonnegative global average that can only be zero when $\mathbf P = \mathbf P_0$ with probability 1. Most of what follows shows that these differences between $I^+(\AA)$ and $\mathrm{KL}(\mathbf P \mid \mathbf P_0)$ are crucial and that ignoring local measures of information has hindered progress in many areas.
 </p>
    
 1. **Fine-tuning**: Cosmological fine-tuning (FT) states that some constants of nature must pertain to intervals of minuscule probability in
