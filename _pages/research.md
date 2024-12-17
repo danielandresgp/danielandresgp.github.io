@@ -22,6 +22,9 @@ In mathematical research, probability is the apple of my eye. I really, really, 
    2. Studying percolation of other models and graphs, as this my favorite topic in all of probability! 
 
 
+
+## Information
+
 Most of my research revolves around local measures of information, like the active information
 \begin{equation}
   I^+ := \log \frac{\mathbf P(\mathsf A)}{\mathbf P_0(\mathsf A)},
