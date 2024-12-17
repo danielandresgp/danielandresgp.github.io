@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-<p align="justify">My research revolves around <b>probability</b> and <b>information theory</b>. I have applied these tools to cosmology, machine learning, statistics, and infectious disesaes, among others. I also have a penchant for the philosophy of science, which motivates a lot of my research. </p>
+<p align="justify">My research revolves around <b>probability</b>, <b>information theory</b> and <b>mathematical statistics</b>. I have applied these tools to cosmology, machine learning, origin of life, population genetics, and infectious disesaes I also have a penchant for the philosophy of science, which motivates a lot of my research. </p>
 
 ## Probability
 
@@ -24,6 +24,10 @@ author_profile: true
 <li>Studying the connection between stable allocations and <a href="https://projecteuclid.org/journals/electronic-journal-of-probability/volume-15/issue-none/A-New-Model-for-Evolution-in-a-Spatial-Continuum/10.1214/EJP.v15-741.full">continuous Fleming—Viot processes</a>, as well as its  applications to <b>population genetics</b> and      <b>epidemics</b>. The goal here is seeing the random territory of each center as the region where reproduction events (population genetics) or infections and recoveries (epidemics) take place.</li> 
 <li>Studying percolation of other models and graphs, as this my favorite topic in all of probability!</li> 
 </ol>
+
+### Markov chains
+
+
 
 
 
