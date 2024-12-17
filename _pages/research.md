@@ -10,14 +10,14 @@ My research revolves around **probability** and **information theory**. I have a
 
 ## Probability
 
-In mathematical research, probability is the apple of my eye. I really, really, like probability and stochastic processes! Some areas in which I have worked in the past are:
+In mathematical research, probability is the apple of my eye. I really like probability and stochastic processes! Some areas in which I have worked in the past are:
 
 1. **Stable allocations**: I have studied [percolation](https://arxiv.org/pdf/0909.5325) and [large deviations](https://arxiv.org/pdf/0911.1429) properties of the so-called stable marriage of Poisson and Lebesgue. To better understand this model, look first at the simulation below---I did it with chatgpt!
    <center>
    <img src="https://github.com/user-attachments/assets/dbfd1f4b-fd22-41da-9fc2-56098e6cc7fa" width="500" height="500">
    </center>
    
-   Imagine that you have a set of points, or "centers", in the space. Assume that every center wants to colonize a random amount of territory which is as close to it as possible. To acquire territory, all centers grow around them a ball that increases at the same radial speed in such a way that (a) each center colonizes all the territory in the ball around it that was not previously colonized by any other center, and (b) each point stops growing its ball only when it has colonized the amount of territory it wanted to have. This describes in informal terms a stable allocation of territories to the set of centers. When the set of centers is random, the model becomes a stochastic process. This stochastic process generalizes to continuous spaces the famous [Gale—Shapley algorithm](https://www.eecs.harvard.edu/cs286r/courses/fall09/papers/galeshapley.pdf) for which Lloyd Shapley received the Nobel Prize in 2012. My interests is now twofold:
+   Imagine that you have a set of points, or "centers", in the space. Assume that every center wants to colonize a random amount of territory which is as close to it as possible. To acquire territory, all centers grow around them a ball that increases at the same radial speed in such a way that (a) each center colonizes all the territory in the ball around it that was not previously colonized by any other center, and (b) each center stops growing its ball only when it has colonized the amount of territory it wanted to have. This describes in informal terms a stable allocation of territories to the centers. When the set of centers is random, the model becomes a stochastic process. This stochastic process generalizes to continuous spaces the famous [Gale—Shapley algorithm](https://www.eecs.harvard.edu/cs286r/courses/fall09/papers/galeshapley.pdf) for which Lloyd Shapley received the Nobel Prize in 2012. My interest is now twofold:
    1. Studying the connection between stable allocations and continuous Fleming—Viot processes, as well as its  applications to population genetics and epidemics.
    2. Studying percolation of other models and graphs, as this my favorite topic in all of probability! 
 
