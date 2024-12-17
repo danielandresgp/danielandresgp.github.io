@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-<p align="justify">My research revolves around **probability** and **information theory**. I have applied these tools to cosmology, machine learning, statistics, and infectious disesaes, among others. I also have a penchant for the philosophy of science, which motivates a lot of my research. </p">
+<p align="justify">My research revolves around **probability** and **information theory**. I have applied these tools to cosmology, machine learning, statistics, and infectious disesaes, among others. I also have a penchant for the philosophy of science, which motivates a lot of my research. </p>
 
 ## Probability
 
