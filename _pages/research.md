@@ -6,28 +6,19 @@ author_profile: true
 ---
 
 
-<p align="justify">My research revolves around <b>probability</b>, <b>information theory</b> and <b>mathematical statistics</b>. I have applied these tools to cosmology, machine learning, origin of life, population genetics, and infectious disesaes I also have a penchant for the philosophy of science, which motivates a lot of my research. </p>
+<p align="justify">My research revolves around <b>probability</b>, <b>information theory</b> and <b>mathematical statistics</b>. I have applied these tools to cosmology, machine learning, origin of life, population genetics, and infectious diseases I also have a penchant for the philosophy of science, which motivates a lot of my research. </p>
 
-### Stable allocations
+## Stable allocations
    <center>
    <img src="https://github.com/user-attachments/assets/dbfd1f4b-fd22-41da-9fc2-56098e6cc7fa" width="500" height="500">
    </center>
    
    <p align="justify">I have studied <a href="https://arxiv.org/pdf/0909.5325">percolation</a> and <a href="https://arxiv.org/pdf/0911.1429">large deviations</a> properties of stable allocations to Poisson points. To get an intuition, imagine that you have a set of random points, or "centers", in the space. Assume that every center wants to colonize a random amount of territory which is as close to it as possible. To acquire territory, all centers grow around them a ball that increases its size at the same speed in such a way that (a) each center colonizes all the territory in the ball that was not previously colonized by any other center, and (b) each center stops growing its ball only when it has colonized the amount of territory it wanted to have. This stochastic process generalizes to continuous spaces the famous <a href="https://www.eecs.harvard.edu/cs286r/courses/fall09/papers/galeshapley.pdf">Gale—Shapley algorithm</a> for which Lloyd Shapley received the Nobel Prize in 2012.</p> 
 
-   <p align="justify">My interest is now twofold:</p>
-<ol align="justify"> 
-<li>Studying the connection between stable allocations and <a href="https://projecteuclid.org/journals/electronic-journal-of-probability/volume-15/issue-none/A-New-Model-for-Evolution-in-a-Spatial-Continuum/10.1214/EJP.v15-741.full">continuous Fleming—Viot processes</a>, as well as its  applications to <b>population genetics</b> and      <b>epidemics</b>. The goal here is seeing the random territory of each center as the region where reproduction events (population genetics) or infections and recoveries (epidemics) take place.</li> 
-<li>Percolation is one of the hottest research areas in probability. It is theoretically challenging and several Fields medals have been awarded to great researchers who have contributed to its development. It also has important applications in multiple areas. For instance, it is linked to extinction/survival in population genetics, epidemics, cancer, and opinion formation. I like to study percolation for the sake of percolation but also for its important implications to other areas.</li> 
-</ol>
 
-### Markov chains
+## Local measures of information
 
-
-
-
-
-## Information
+<p align="justify">Shannon's information theory is almost exclusively focused on global averaged measures of information (entropy, mutual information, KL divergence, etc.) This approach overlooks the significance of local information measures which, unlike global ones, focus on specific data events. This led me to wonder whether we could be losing something by neglecting them. The answer to this question is an univocal <b>yes</b>. Consider, for instance, active information (AIN), a measure that I have used extensively to count how much the information of a local event $\mathsf A$ changes when considering a distribution $\mathbf P$ instead of a baseline distribution $\mathbf P_0$. [
 
 Most of my research revolves around local measures of information, like the active information
 \begin{equation}
