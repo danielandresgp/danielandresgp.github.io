@@ -14,7 +14,7 @@ In mathematical research, probability is the apple of my eye. I really, really, 
 
 1. **Stable allocations**: Imagine you have a set of points in the space. Assume that every point wants to colonize a territory of the space with a random volume which is as close to the point as possible. To acquire their territory, all points grow around them a ball that increases at the same radial speed in such a way that (a) each point claims for itself all the territory in the ball around it that has not claimed by any other point, and (b) each point stops growing its ball only when it has claimed for itself a territory it wanted to colonize. This informal presentation describes stable allocations, a stochastic process that generalizes to continuous spaces the famous Gale—Shapley algorithm for which Lloyd Shapley received the Nobel Prize in 2012. See here [a cool simulation I did with chatgpt:
    <center>
-   <img src="https://github.com/user-attachments/assets/dbfd1f4b-fd22-41da-9fc2-56098e6cc7fa" width="300" height="300">
+   <img src="https://github.com/user-attachments/assets/dbfd1f4b-fd22-41da-9fc2-56098e6cc7fa" width="500" height="500">
    </center>
 
    I have studied percolation and large deviations properties of stable allocations.
