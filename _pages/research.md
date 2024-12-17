@@ -20,7 +20,7 @@ author_profile: true
 
 <p align="justify">Shannon's information theory is almost exclusively focused on global averaged measures of information (entropy, mutual information, KL divergence, etc.) This approach overlooks the significance of local information measures the self-information of specific events. Thus, since averages are by definition a reduction of information, information theory is constantly losing information. Consider, for instance, the active information (AIN)
 \begin{equation}
-  I^+ := \log \frac{\mathbf P(\mathsf A)}{\mathbf P_0(\mathsf A)},
+  I^+(\mathsf A) := \log \frac{\mathbf P(\mathsf A)}{\mathbf P_0(\mathsf A)},
 \end{equation}
 where $\mathbf P$ and $\mathbf P_0$ are probability measures on a measurable space $(\Omega, \mathcal F)$ and $\mathsf A \subset \mathcal F$.
    
