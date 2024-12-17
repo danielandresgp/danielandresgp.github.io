@@ -12,7 +12,7 @@ author_profile: true
 
 <p align="justify">In mathematical research, probability is the apple of my eye. I really like probability and stochastic processes! Some areas in which I have worked in the past are:</p>
 
-1. <p align="justify">**Stable allocations**: I have studied [percolation](https://arxiv.org/pdf/0909.5325) and [large deviations](https://arxiv.org/pdf/0911.1429) properties of the so-called stable marriage of Poisson and Lebesgue. To better understand this model, look first at the simulation below---I did it with chatgpt!</p>
+1. <p align="justify"> **Stable allocations**: I have studied [percolation](https://arxiv.org/pdf/0909.5325) and [large deviations](https://arxiv.org/pdf/0911.1429) properties of the so-called stable marriage of Poisson and Lebesgue. To better understand this model, look first at the simulation below---I did it with chatgpt!</p>
    <center>
    <img src="https://github.com/user-attachments/assets/dbfd1f4b-fd22-41da-9fc2-56098e6cc7fa" width="500" height="500">
    </center>
