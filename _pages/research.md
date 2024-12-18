@@ -44,7 +44,7 @@ is a nonnegative global average that can only be zero when $\mathbf P = \mathbf 
       \end{equation*}
       of two probability measures $\mathbf P$ and $\mathbf P_0$ on a two-state space $\Omega = \{\omega_1, \omega_2\}$. The right-hand side considers the same probability measures for the total active information, defined as 
       \begin{equation*}
-         \mathbf I^+ :=  \log\frac{\mathbf P(\omega_1)}{\mathbf P_0(\omega_1)} + \log\frac{\mathbf P(\omega_2)}{\mathbf P_0(\omega_2)}.
+         \mathbf I^+(\mathbf P \mid \mathbf P_0) :=  \log\frac{\mathbf P(\omega_1)}{\mathbf P_0(\omega_1)} + \log\frac{\mathbf P(\omega_2)}{\mathbf P_0(\omega_2)}.
       \end{equation*}
       Observe that the KL divergence is only zero when $p=q$; anywhere else, it is positive. Instead, the total active information can be negative.</font></p> 
 </div>
