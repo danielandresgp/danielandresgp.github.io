@@ -22,7 +22,7 @@ author_profile: true
 
 ## Local measures of information
 
-<p align="justify">Shannon's information theory is almost exclusively focused on global averaged measures of information (entropy, mutual information, KL divergence, etc.) This approach overlooks the significance of local information measures the self-information of specific events. Paradoxically, since averages are by definition a reduction of information, information theory is constantly losing information. Consider, for instance, the active information
+<p align="justify">Shannon's information theory is almost exclusively focused on global averaged measures of information (entropy, mutual information, KL divergence, etc.) This approach overlooks the significance of local information measures the self-information of specific events. Paradoxically, since averages are by definition a reduction of information, information theory is constantly losing information. Consider, for instance, the [active information](https://arxiv.org/pdf/2111.06865)
 \begin{equation}
   I^+(\mathsf A) := \log \frac{\mathbf P(\mathsf A)}{\mathbf P_0(\mathsf A)},
    \label{AIN}
@@ -34,11 +34,11 @@ where $\mathbf P$ and $\mathbf P_0$ are probability measures on a measurable spa
    <img src="https://github.com/user-attachments/assets/012796d6-9a9d-4a3d-ad02-75ac7e0365b1" style="width:40%">
    <img src="https://github.com/user-attachments/assets/7efca092-254d-46a5-8836-cfec05117fe4" style="width:40%">
    </center>    
-   <p style="text-align: center"><font size="2"><b>Figure 2:</b> The left-hand side shows the KL divergence 
+   <p style="text-align: center"><font size="2"><b>Figure 2:</b> On a space $\Omega = \{\omega_1, \omega_2\}$ with two states, the left-hand side depicts the different values of the Kullback-Leibler divergence between two probability measures $\mathbf P$ and $\mathbf P_0$:
    \begin{equation*}
       \mathrm{KL}(\mathbf P \mid \mathbf P_0) = \mathbf P(\omega_1)\log\frac{\mathbf P(\omega_1)}{\mathbf P(\omega_1)} + \mathbf P(\omega_2)\log\frac{\mathbf P(\omega_2)}{\mathbf P(\omega_2)}
       \end{equation*}
-      of two probability measures $\mathbf P$ and $\mathbf P_0$ on a two-state space $\Omega = \{\omega_1, \omega_2\}$. The right-hand side considers the same probability measures for the total active information, defined as 
+      The right-hand side considers the same probability measures for the total active information, defined as 
       \begin{equation*}
          \mathbf I^+(\mathbf P \mid \mathbf P_0) :=  \log\frac{\mathbf P(\omega_1)}{\mathbf P_0(\omega_1)} + \log\frac{\mathbf P(\omega_2)}{\mathbf P_0(\omega_2)}.
       \end{equation*}
