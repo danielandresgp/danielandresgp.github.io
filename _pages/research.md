@@ -31,7 +31,7 @@ where $\mathbf P$ and $\mathbf P_0$ are probability measures on a measurable spa
    \begin{equation*}
       \mathrm{KL}(\mathbf P \mid \mathbf P_0) := \sum_{\omega \in \Omega} \mathbf P(\omega) \log \left(\frac{\mathbf P(\omega)}{\mathbf P_0(\omega)}\right),
    \end{equation*}
-is a nonnegative global average that can only be zero when $\mathbf P = \mathbf P_0$ with probability 1. Most of what follows shows that these differences between $I^+(\mathsf A)$ and $\mathrm{KL}(\mathbf P \mid \mathbf P_0)$ matter, and that progress has been hindered in many areas by ignoring local measures of information.</p>
+is a nonnegative global average that can only be zero when $\mathbf P = \mathbf P_0$ with probability 1. Most of what follows shows that these differences matter, and that progress has been hindered in many areas by ignoring local measures of information.</p>
 
 <div>
    <center>
