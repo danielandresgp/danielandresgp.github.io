@@ -12,8 +12,8 @@ author_profile: true
    <div>
    <center>
    <img src="https://github.com/user-attachments/assets/dbfd1f4b-fd22-41da-9fc2-56098e6cc7fa" width="300" height="300">
+   <p align="justify"><font size="3"> Simulation performed by chatgpt of a stable allocation to a Poisson process of intensity 1 where each center wants to       colonize a territory whose expected volume is 1.</font></p>
    </center>
-   <p align="justify"><font size="3"> Simulation performed by chatgpt of a stable allocation to a Poisson process of intensity 1 where each center wants to colonize a territory whose expected volume is 1.</font></p>
    </div>
    
    <p align="justify">I have studied <a href="https://arxiv.org/pdf/0909.5325">percolation</a> and <a href="https://arxiv.org/pdf/0911.1429">large deviations</a> properties of stable allocations to Poisson points. To get an intuition, imagine that you have a set of random points, or "centers", in the space. Assume that every center wants to colonize a random amount of territory which is as close to it as possible. To acquire territory, all centers grow around them a ball that increases its size at the same speed in such a way that (a) each center colonizes all the territory in the ball that was not previously colonized by any other center, and (b) each center stops growing its ball only when it has colonized the amount of territory it wanted to have. This stochastic process generalizes to continuous spaces the famous <a href="https://www.eecs.harvard.edu/cs286r/courses/fall09/papers/galeshapley.pdf">Gale—Shapley algorithm</a> for which Lloyd Shapley received the Nobel Prize in 2012.</p> 
