@@ -36,13 +36,13 @@ where $\mathbf P$ and $\mathbf P_0$ are probability measures on a measurable spa
    </center>    
    <p style="text-align: center"><font size="2"><b>Figure 2:</b> For a space $\Omega$ with two states, the LHS depicts the different values of the Kullback-Leibler divergence between two probability measures:
    \begin{equation*}
-      \mathrm{KL}(\mathbf P \mid \mathbf P_0) = \mathbf P(\omega_1)\log\frac{\mathbf P(\omega_1)}{\mathbf P(\omega_1)} + \mathbf P(\omega_2)\log\frac{\mathbf P(\omega_2)}{\mathbf P(\omega_2)}
+      \mathrm{KL}(\mathbf P \mid \mathbf P_0) = \mathbf P(\omega_1)\log\frac{\mathbf P(\omega_1)}{\mathbf P(\omega_1)} + \mathbf P(\omega_2)\log\frac{\mathbf P(\omega_2)}{\mathbf P(\omega_2)}.
       \end{equation*}
-      The right-hand side considers the same probability measures for the total active information, defined as 
+      Observe that the KL divergence is only zero when $\mathbf P = \mathbf P_0$; anywhere else, it is positive. The RHS considers the same probability measures for the total active information, defined as 
       \begin{equation*}
          \mathbf I^+(\mathbf P \mid \mathbf P_0) :=  \log\frac{\mathbf P(\omega_1)}{\mathbf P_0(\omega_1)} + \log\frac{\mathbf P(\omega_2)}{\mathbf P_0(\omega_2)}.
       \end{equation*}
-      Observe that the KL divergence is only zero when $\mathbf P = \mathbf P_0$; anywhere else, it is positive. Instead, the total active information can be negative.</font></p> 
+      Notice that the total active information can be negative.</font></p> 
 </div>
 
 
