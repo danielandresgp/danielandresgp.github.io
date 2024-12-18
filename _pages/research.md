@@ -13,7 +13,7 @@ author_profile: true
    <center>
    <img src="https://github.com/user-attachments/assets/dbfd1f4b-fd22-41da-9fc2-56098e6cc7fa" width="300" height="300">
    
-      <p><font size="2.5">A stable allocation to a Poisson process of intensity 1 where each center wants to colonize a territory whose expected volume is 1.
+      <p align="justify"><font size="2.5">A stable allocation to a Poisson process of intensity 1 where each center wants to colonize a territory whose expected volume is 1.
       
       Simulation performed by chatgpt.</font></p>   
    </center>
@@ -29,7 +29,7 @@ author_profile: true
    <img src="https://github.com/user-attachments/assets/012796d6-9a9d-4a3d-ad02-75ac7e0365b1" style="width:40%">
    <img src="https://github.com/user-attachments/assets/7efca092-254d-46a5-8836-cfec05117fe4" style="width:40%">
       
-   <p><font size="2.5">The left-hand side shows the KL divergence of two probability measures $\mathbf P$ and $\mathbf P_0$ on a two-state space $\Omega = \{\omega_1, \omega_2\}$. That is, $\mathrm{KL}(\mathbf P \mid \mathbf P_0) = \mathbf P(\omega_1)\log[\mathbf P(\omega_1)/\mathbf P(\omega_1)] + \mathbf P(\omega_2)\log[\mathbf P(\omega_2)/\mathbf P(\omega_2)]$. The right-hand side considers the same probability measures for the total active information, defined as $\mathbf I^+ :=  \log[\mathbf P(\omega_1)/\mathbf P_0(\omega_1)] + \log[\mathbf P(\omega_2)/\mathbf P_0(\omega_2)]$. Observe that the KL divergence is only zero when $p=q$; anywhere else, it is positive. Instead, the total active information can be negative.</font></p>
+   <p align="justify"><font size="2.5">The left-hand side shows the KL divergence of two probability measures $\mathbf P$ and $\mathbf P_0$ on a two-state space $\Omega = \{\omega_1, \omega_2\}$. That is, $\mathrm{KL}(\mathbf P \mid \mathbf P_0) = \mathbf P(\omega_1)\log[\mathbf P(\omega_1)/\mathbf P(\omega_1)] + \mathbf P(\omega_2)\log[\mathbf P(\omega_2)/\mathbf P(\omega_2)]$. The right-hand side considers the same probability measures for the total active information, defined as $\mathbf I^+ :=  \log[\mathbf P(\omega_1)/\mathbf P_0(\omega_1)] + \log[\mathbf P(\omega_2)/\mathbf P_0(\omega_2)]$. Observe that the KL divergence is only zero when $p=q$; anywhere else, it is positive. Instead, the total active information can be negative.</font></p>
 </center>  
 </div>
 
