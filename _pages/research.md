@@ -21,8 +21,8 @@ author_profile: true
 ## Local measures of information
 <center>
 <div>
-  <img src="https://github.com/user-attachments/assets/7efca092-254d-46a5-8836-cfec05117fe4" style="width:40%">
-  <img src="https://github.com/user-attachments/assets/012796d6-9a9d-4a3d-ad02-75ac7e0365b1" style="width:40%">
+   <img src="https://github.com/user-attachments/assets/012796d6-9a9d-4a3d-ad02-75ac7e0365b1" style="width:40%">
+   <img src="https://github.com/user-attachments/assets/7efca092-254d-46a5-8836-cfec05117fe4" style="width:40%">
 </div>
 </center>
 
@@ -36,7 +36,8 @@ where $\mathbf P$ and $\mathbf P_0$ are probability measures on a measurable spa
    \end{equation*}
 is a nonnegative global average that can only be zero when $\mathbf P = \mathbf P_0$ with probability 1. Most of what follows shows that these differences between $I^+(\mathsf A)$ and $\mathrm{KL}(\mathbf P \mid \mathbf P_0)$ matter, and that progress has been hindered in many areas by ignoring local measures of information.</p>
 
-<p align="justify"> In the image we consider a set $\Omega = \{\omega_1, \omega_2\}$; the baseline law is uniform $\mathbf P_0(\omega_1) = \mathbf P(\omega_2) = 0.5$.    
+<p align="justify">The image in the left-hand side shows the KL divergence of two probability measures $\mathbf P$ and $\mathbf P_0$ on the space $\Omega = \{\omega_1, \omega_2\}$, where the baseline $\mathbf P_0$ is in maximum entropy (i.e., $q := \mathbf P_0(\omega_1) = \mathbf P_0(\omega_2) = 0.5$) and $\mathbf P$ varies (with $p:=\mathbf P(\omega_1)). The right-hand side considers the same probability measures for the total active information $\mathbf I^+ := \int \log[\mathbf P(x)/\mathbf P_0(x)] \mathrm d x$. Observe that the KL divergence is only zero when $p=q$; anywhere, else it is positive. Instead, the total active information can be negative.
+   
 ## Fine-tuning
 
 <p align="justify">Cosmological fine-tuning (FT) states that some constants of nature must pertain to intervals of minuscule probability in
