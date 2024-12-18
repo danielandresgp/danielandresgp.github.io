@@ -16,7 +16,7 @@ author_profile: true
       <center>
          <img src="https://github.com/user-attachments/assets/dbfd1f4b-fd22-41da-9fc2-56098e6cc7fa" width="300" height="300"> 
       </center>
-       <p align="justify"><font size="2">A stable allocation to a Poisson process of intensity 1 where each center wants to colonize a territory whose expected volume is 1. Simulation performed by chatgpt.</font></p> 
+       <p align="justify"><font size="2"><b>Figure 1:</b> A stable allocation to a Poisson process of intensity 1 where each center wants to colonize a territory whose expected volume is 1. Simulation performed by chatgpt.</font></p> 
    </div>
 
 
@@ -38,7 +38,7 @@ is a nonnegative global average that can only be zero when $\mathbf P = \mathbf 
    <img src="https://github.com/user-attachments/assets/012796d6-9a9d-4a3d-ad02-75ac7e0365b1" style="width:40%">
    <img src="https://github.com/user-attachments/assets/7efca092-254d-46a5-8836-cfec05117fe4" style="width:40%">
    </center>    
-   <p align="justify"><font size="2">The left-hand side shows the KL divergence 
+   <p align="justify"><font size="2"><b>Figure 2:</b> The left-hand side shows the KL divergence 
    \begin{equation*}
       \mathrm{KL}(\mathbf P \mid \mathbf P_0) = \mathbf P(\omega_1)\log\frac{\mathbf P(\omega_1)}{\mathbf P(\omega_1)} + \mathbf P(\omega_2)\log\frac{\mathbf P(\omega_2)}{\mathbf P(\omega_2)}
       \end{equation*}
