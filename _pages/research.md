@@ -15,6 +15,8 @@ author_profile: true
    
    <p align="justify">I have studied <a href="https://arxiv.org/pdf/0909.5325">percolation</a> and <a href="https://arxiv.org/pdf/0911.1429">large deviations</a> properties of stable allocations to Poisson points. To get an intuition, imagine that you have a set of random points, or "centers", in the space. Assume that every center wants to colonize a random amount of territory which is as close to it as possible. To acquire territory, all centers grow around them a ball that increases its size at the same speed in such a way that (a) each center colonizes all the territory in the ball that was not previously colonized by any other center, and (b) each center stops growing its ball only when it has colonized the amount of territory it wanted to have. This stochastic process generalizes to continuous spaces the famous <a href="https://www.eecs.harvard.edu/cs286r/courses/fall09/papers/galeshapley.pdf">Gale—Shapley algorithm</a> for which Lloyd Shapley received the Nobel Prize in 2012.</p> 
 
+   <p align="justify"> The image shows a simulation (performed by chatgpt) of a stable allocation to a Poisson process of intensity 1 where each center wants to colonize a territory whose expected volume is 1.</p>
+
 
 ## Local measures of information
 <center>
@@ -30,10 +32,11 @@ author_profile: true
 \end{equation*}
 where $\mathbf P$ and $\mathbf P_0$ are probability measures on a measurable space $(\Omega, \mathcal F)$ and $\mathsf A \subset \mathcal F$. In words, $I^+(\mathsf A)$ measures how  much information is added/removed from the event $\mathsf A$ when is measured with $\mathbf P$, instead of the baseline $\mathbf P_0$. In more detail, $I^+(\mathsf A)$ will be positive/negative/zero, when $\mathbf P(\mathsf A)$ is bigger/smaller/equal to $\mathbf P_0$, respectively. By contrast, the Kullback-Leibler divergence, the famous average of the active information,
    \begin{equation*}
-      \mathrm{KL}(\mathbf P \mid \mathbf P_0) := \int \log \left(\frac{\mathbf P(\mathrm d x)}{\mathbf P_0(\mathrm d x)}\right)\mathbf P(\mathrm d x),
+      \mathrm{KL}(\mathbf P \mid \mathbf P_0) := \int \log \left(\frac{\mathbf P(\mathrm x)}{\mathbf P_0(\mathrm x)}\right)\mathbf P(\mathrm d x),
    \end{equation*}
 is a nonnegative global average that can only be zero when $\mathbf P = \mathbf P_0$ with probability 1. Most of what follows shows that these differences between $I^+(\mathsf A)$ and $\mathrm{KL}(\mathbf P \mid \mathbf P_0)$ matter, and that progress has been hindered in many areas by ignoring local measures of information.</p>
-   
+
+<p align="justify"> In the image we consider a set $\Omega = \{\omega_1, \omega_2\}$; the baseline law is uniform $\mathbf P_0(\omega_1) = \mathbf P(\omega_2) = 0.5$.    
 ## Fine-tuning
 
 <p align="justify">Cosmological fine-tuning (FT) states that some constants of nature must pertain to intervals of minuscule probability in
