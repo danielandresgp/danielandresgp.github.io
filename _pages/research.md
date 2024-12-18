@@ -34,7 +34,7 @@ where $\mathbf P$ and $\mathbf P_0$ are probability measures on a measurable spa
    <img src="https://github.com/user-attachments/assets/012796d6-9a9d-4a3d-ad02-75ac7e0365b1" style="width:40%">
    <img src="https://github.com/user-attachments/assets/7efca092-254d-46a5-8836-cfec05117fe4" style="width:40%">
    </center>    
-   <p style="text-align: justify"><font size="2"><b>Figure 2:</b> For a space $\Omega$ with two states, the LHS depicts the different values of the Kullback-Leibler divergence between two probability measures:
+   <p style="text-align: justify"><font size="2"><b>Figure 2:</b> The LHS depicts the different values of the Kullback-Leibler divergence between two probability measures on a space $\Omega=\{\omega_1, \omega_2\}$ with two states:
    \begin{equation*}
       \mathrm{KL}(\mathbf P \mid \mathbf P_0) = \mathbf P(\omega_1)\log\frac{\mathbf P(\omega_1)}{\mathbf P(\omega_1)} + \mathbf P(\omega_2)\log\frac{\mathbf P(\omega_2)}{\mathbf P(\omega_2)}.
       \end{equation*}
