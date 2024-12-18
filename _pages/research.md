@@ -20,10 +20,10 @@ author_profile: true
 
 <div class="row">
   <div class="column">
-    <img src="https://github.com/user-attachments/assets/7efca092-254d-46a5-8836-cfec05117fe4" alt="Total active information" style="width:100%">
+    <img src="https://github.com/user-attachments/assets/7efca092-254d-46a5-8836-cfec05117fe4" alt="Total active information" style="width:50%">
   </div>
   <div class="column">
-    <img src="https://github.com/user-attachments/assets/012796d6-9a9d-4a3d-ad02-75ac7e0365b1" alt="KL divergence" style="width:100%">
+    <img src="https://github.com/user-attachments/assets/012796d6-9a9d-4a3d-ad02-75ac7e0365b1" alt="KL divergence" style="width:50%">
   </div>
 </div>
 
