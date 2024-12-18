@@ -27,18 +27,14 @@ author_profile: true
   I^+(\mathsf A) := \log \frac{\mathbf P(\mathsf A)}{\mathbf P_0(\mathsf A)},
    \label{AIN}
 \end{equation}
-where $\mathbf P$ and $\mathbf P_0$ are probability measures on a measurable space $(\Omega, \mathcal F)$ and $\mathsf A \subset \mathcal F$. In words, $I^+(\mathsf A)$ measures how  much information is added/removed from the event $\mathsf A$ when it is measured with $\mathbf P$, instead of the baseline $\mathbf P_0$. In more detail, $I^+(\mathsf A)$ will be positive/negative/zero, when $\mathbf P(\mathsf A)$ is bigger/smaller/equal to $\mathbf P_0$, respectively. By contrast, the Kullback-Leibler divergence, the famous average of the active information,
-   \begin{equation*}
-      \mathrm{KL}(\mathbf P \mid \mathbf P_0) := \sum_{\omega \in \Omega} \mathbf P(\omega) \log \left(\frac{\mathbf P(\omega)}{\mathbf P_0(\omega)}\right),
-   \end{equation*}
-is a nonnegative global average that can only be zero when $\mathbf P = \mathbf P_0$ with probability 1. Most of what follows shows that these differences matter, and that progress has been hindered in many areas by ignoring local measures of information.</p>
+where $\mathbf P$ and $\mathbf P_0$ are probability measures on a measurable space $(\Omega, \mathcal F)$ and $\mathsf A \subset \mathcal F$. In words, $I^+(\mathsf A)$ measures how  much information is added/removed from the event $\mathsf A$ when it is measured with $\mathbf P$, instead of the baseline $\mathbf P_0$. In more detail, $I^+(\mathsf A)$ will be positive/negative/zero, when $\mathbf P(\mathsf A)$ is bigger/smaller/equal to $\mathbf P_0$, respectively. By contrast, the Kullback-Leibler divergence $\mathrm{KL}(\mathbf P \mid \mathbf P_0)$ is a nonnegative global average that can only be zero when $\mathbf P = \mathbf P_0$ with probability 1. Most of what follows shows that these differences matter, and that progress has been hindered in many areas by ignoring local measures of information.</p>
 
 <div>
    <center>
    <img src="https://github.com/user-attachments/assets/012796d6-9a9d-4a3d-ad02-75ac7e0365b1" style="width:40%">
    <img src="https://github.com/user-attachments/assets/7efca092-254d-46a5-8836-cfec05117fe4" style="width:40%">
    </center>    
-   <p align="justify"><font size="2"><b>Figure 2:</b> The left-hand side shows the KL divergence 
+   <p style="text-align: center"><font size="2"><b>Figure 2:</b> The left-hand side shows the KL divergence 
    \begin{equation*}
       \mathrm{KL}(\mathbf P \mid \mathbf P_0) = \mathbf P(\omega_1)\log\frac{\mathbf P(\omega_1)}{\mathbf P(\omega_1)} + \mathbf P(\omega_2)\log\frac{\mathbf P(\omega_2)}{\mathbf P(\omega_2)}
       \end{equation*}
