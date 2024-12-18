@@ -38,7 +38,7 @@ where $\mathbf P$ and $\mathbf P_0$ are probability measures on a measurable spa
    \begin{equation*}
       \mathrm{KL}(\mathbf P \mid \mathbf P_0) = \mathbf P(\omega_1)\log\frac{\mathbf P(\omega_1)}{\mathbf P(\omega_1)} + \mathbf P(\omega_2)\log\frac{\mathbf P(\omega_2)}{\mathbf P(\omega_2)}.
       \end{equation*}
-      Observe that the KL divergence is only zero when $\mathbf P = \mathbf P_0$; anywhere else, it is positive. The RHS depicts the different values of the total active information, defined as 
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Observe that the KL divergence is only zero when $\mathbf P = \mathbf P_0$; anywhere else, it is positive. On the same space, the RHS depicts the different values of the total active information, defined as 
       \begin{equation*}
          \mathbf I^+(\mathbf P \mid \mathbf P_0) :=  \log\frac{\mathbf P(\omega_1)}{\mathbf P_0(\omega_1)} + \log\frac{\mathbf P(\omega_2)}{\mathbf P_0(\omega_2)}.
       \end{equation*}
