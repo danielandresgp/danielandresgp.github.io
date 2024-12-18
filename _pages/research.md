@@ -9,29 +9,18 @@ author_profile: true
 <p align="justify">My research revolves around <b>probability</b>, <b>information theory</b>, and <b>mathematical statistics</b>. I have applied these tools to cosmology, machine learning, origin of life, population genetics, and infectious diseases. I also have a penchant for the philosophy of science, which motivates a lot of my research. </p>
 
 ## Stable allocations
-   <div>
-   <center>
-   <img src="https://github.com/user-attachments/assets/dbfd1f4b-fd22-41da-9fc2-56098e6cc7fa" width="300" height="300">
-   
-      <p align="justify"><font size="2.5">A stable allocation to a Poisson process of intensity 1 where each center wants to colonize a territory whose expected volume is 1.
-      
-      Simulation performed by chatgpt.</font></p>   
-   </center>
-   </div>
    
    <p align="justify">I have studied <a href="https://arxiv.org/pdf/0909.5325">percolation</a> and <a href="https://arxiv.org/pdf/0911.1429">large deviations</a> properties of stable allocations to Poisson points. To get an intuition, imagine that you have a set of random points, or "centers", in the space. Assume that every center wants to colonize a random amount of territory which is as close to it as possible. To acquire territory, all centers grow around them a ball that increases its size at the same speed in such a way that (a) each center colonizes all the territory in the ball that was not previously colonized by any other center, and (b) each center stops growing its ball only when it has colonized the amount of territory it wanted to have. This stochastic process generalizes to continuous spaces the famous <a href="https://www.eecs.harvard.edu/cs286r/courses/fall09/papers/galeshapley.pdf">Gale—Shapley algorithm</a> for which Lloyd Shapley received the Nobel Prize in 2012.</p> 
 
+   <div>
+      <center>
+         <img src="https://github.com/user-attachments/assets/dbfd1f4b-fd22-41da-9fc2-56098e6cc7fa" width="300" height="300"> 
+      </center>
+       <p align="justify"><font size="2">A stable allocation to a Poisson process of intensity 1 where each center wants to colonize a territory whose expected volume is 1. Simulation performed by chatgpt.</font></p> 
+   </div>
+
 
 ## Local measures of information
-
-<div>
-   <center>
-   <img src="https://github.com/user-attachments/assets/012796d6-9a9d-4a3d-ad02-75ac7e0365b1" style="width:40%">
-   <img src="https://github.com/user-attachments/assets/7efca092-254d-46a5-8836-cfec05117fe4" style="width:40%">
-      
-   <p align="justify"><font size="2.5">The left-hand side shows the KL divergence of two probability measures $\mathbf P$ and $\mathbf P_0$ on a two-state space $\Omega = \{\omega_1, \omega_2\}$. That is, $$\mathrm{KL}(\mathbf P \mid \mathbf P_0) = \mathbf P(\omega_1)\log[\mathbf P(\omega_1)/\mathbf P(\omega_1)] + \mathbf P(\omega_2)\log[\mathbf P(\omega_2)/\mathbf P(\omega_2)]$$. The right-hand side considers the same probability measures for the total active information, defined as $$\mathbf I^+ :=  \log[\mathbf P(\omega_1)/\mathbf P_0(\omega_1)] + \log[\mathbf P(\omega_2)/\mathbf P_0(\omega_2)]$$. Observe that the KL divergence is only zero when $p=q$; anywhere else, it is positive. Instead, the total active information can be negative.</font></p>
-</center>  
-</div>
 
 <p align="justify">Shannon's information theory is almost exclusively focused on global averaged measures of information (entropy, mutual information, KL divergence, etc.) This approach overlooks the significance of local information measures the self-information of specific events. Paradoxically, since averages are by definition a reduction of information, information theory is constantly losing information. Consider, for instance, the active information (AIN)
 \begin{equation*}
@@ -42,6 +31,22 @@ where $\mathbf P$ and $\mathbf P_0$ are probability measures on a measurable spa
       \mathrm{KL}(\mathbf P \mid \mathbf P_0) := \sum_{\omega \in \Omega} \mathbf P(\omega) \log \left(\frac{\mathbf P(\omega)}{\mathbf P_0(\omega)}\right),
    \end{equation*}
 is a nonnegative global average that can only be zero when $\mathbf P = \mathbf P_0$ with probability 1. Most of what follows shows that these differences between $I^+(\mathsf A)$ and $\mathrm{KL}(\mathbf P \mid \mathbf P_0)$ matter, and that progress has been hindered in many areas by ignoring local measures of information.</p>
+
+<div>
+   <center>
+   <img src="https://github.com/user-attachments/assets/012796d6-9a9d-4a3d-ad02-75ac7e0365b1" style="width:40%">
+   <img src="https://github.com/user-attachments/assets/7efca092-254d-46a5-8836-cfec05117fe4" style="width:40%">
+   </center>    
+   <p align="justify"><font size="2">The left-hand side shows the KL divergence 
+   \begin{equation*}
+      \mathrm{KL}(\mathbf P \mid \mathbf P_0) = \mathbf P(\omega_1)\log[\mathbf P(\omega_1)/\mathbf P(\omega_1)] + \mathbf P(\omega_2)\log[\mathbf P(\omega_2)/\mathbf P(\omega_2)]
+      \end{equation*}
+      of two probability measures $\mathbf P$ and $\mathbf P_0$ on a two-state space $\Omega = \{\omega_1, \omega_2\}$. The right-hand side considers the same probability measures for the total active information, defined as 
+      \begin{equation*}
+         \mathbf I^+ :=  \log[\mathbf P(\omega_1)/\mathbf P_0(\omega_1)] + \log[\mathbf P(\omega_2)/\mathbf P_0(\omega_2)].
+      \end{equation*}
+      Observe that the KL divergence is only zero when $p=q$; anywhere else, it is positive. Instead, the total active information can be negative.</font></p> 
+</div>
 
 
    
