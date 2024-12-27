@@ -45,9 +45,9 @@ $\mathbf I^+(\mathbf P \mid \mathbf P_0) :=  \log[\mathbf P(\omega_1)/\mathbf P_
 <p align="justify">Cosmological fine-tuning (FT) states that some constants of nature must pertain to intervals of minuscule probability in
 order to permit the existence of carbon-based life. The problem is twofold for each constant of nature: First, finding the constant's life permitting interval (LPI)—the set of possible values of the constant that would permit life (a physics problem); second, finding the probability that the constant of nature pertains to its LPI (a mathematical problem). When this probability is small, there is fine-tuning. However, the second step remained elusive for 50 years, as estimating the probability of the LPI required using a sample of size 1 (the value of the constant in our <i>uni</i>-verse), taken from an unknown distribution, supported in an unknown sample space, where the sample is affected by selection bias because it corresponds to a universe that permits life. My colleagues and I developed a sound solution to this problem through a Bayesian approach that relies on maximum entropy and optimization.</p> 
 
-In terms of (1), we say that there is fine-tuning when $I^+(\mathsf A)$ is large, for $\mathsf A$ the LPI of a given constant, $\mathbf P$ is a distribution highly concentrated in $\mathsf A$, and $\mathbf P_0$ is an upper bound of a maximum entropy distribution.
-
 <p align="justify">Moreover, as many question whether the study of fine-tuning is a proper scientific endeavor, we proved the following principle: the fine-tuning of a constant of nature can only be known when the parameter takes nonnegative values and when the size of the LPI is small relative to the observed value of the constant in our universe. This happens for at least two important constants of nature: the critical density of the universe and the gravitational force. However, our method also says that the exact level of tuning of other constants which have been touted as fine-tuned cannot be known; this is the case, for instance, of the Higgs vacuum expectation value and the amplitude of primordial fluctuations (a nice presentation can be watched <a href="https://www.youtube.com/watch?v=3_ZrLrrSTTE">here</a>).</p>
+
+<p align="justify">In terms of (1), we say that there is fine-tuning when $I^+(\mathsf A)$ is large, for $\mathsf A$ the LPI of a given constant, $\mathbf P$ is a distribution highly concentrated in $\mathsf A$, and $\mathbf P_0$ is an upper bound of a maximum entropy distribution.</p>
 
 <div>
       <center>
@@ -60,6 +60,8 @@ In terms of (1), we say that there is fine-tuning when $I^+(\mathsf A)$ is large
 ## COVID-19
 
 <p align="justify">During the COVID-19 pandemic, understanding the true prevalence of the virus was critical, but biased sampling hindered accurate estimations. Specifically, I realized that symptomatic individuals were more likely to seek testing. This bias led to overestimation of prevalence in First-World countries... and the subsequent adoption of horrible lockdown policies! Using the maximum entropy principle, my colleagues and I introduced corrected estimators as readily implementable algorithms directed to practitioners, while providing theoretical guarantees for our corrections. More specifically, we developed corrected estimators in the following cases: when all the symptomatic individuals are tested (as it was the case in most universities and companies in the US during the pandemic) and when not all the symptomatic individuals are tested but are still overrepresented in the sample, considering in the two cases the presence and absence of testing errors.</p>
+
+<p align="justify">In terms of (1), we define the informational bias using $I^(\mathsf A)$, where $\mathsf A$ corresponds to the infected group, $\mathbf P_0(\mathsf A)$ is the actual prevalence of infected individuals, and $\mathbf P(\mathsf A)$ is a given estimator of prevalence. The estimator is unbiased when the statistics $I^(\mathsf A)$ is close to 0, it has positive bias when $I^(\mathsf A) > 0$, and it has negative bias when $I^(\mathsf A) < 0$.</p>
 
 <div>
    <center>
