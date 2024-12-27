@@ -22,7 +22,7 @@ author_profile: true
 
 ## Local measures of information
 
-<p align="justify">Shannon's information theory is almost exclusively focused on global averaged measures of information (entropy, mutual information, KL divergence, etc.) This approach overlooks the significance of local information measures the self-information of specific events. Paradoxically, since averages are by definition a reduction of information, information theory is constantly losing information. Consider, for instance, the <a href="https://arxiv.org/pdf/2111.06865">active information</a>
+<p align="justify">Shannon's information theory is almost exclusively focused on global averaged measures of information (entropy, mutual information, KL divergence, etc.) This approach overlooks the significance of local and unaveraged information measures of specific events. Paradoxically, since averages are by definition a reduction of information, information theory is constantly losing information. Consider, for instance, the <a href="https://arxiv.org/pdf/2111.06865">active information</a>
 \begin{equation}
   I^+(\mathsf A) := \log \frac{\mathbf P(\mathsf A)}{\mathbf P_0(\mathsf A)},
    \label{AIN}
@@ -43,7 +43,19 @@ $\mathbf I^+(\mathbf P \mid \mathbf P_0) :=  \log[\mathbf P(\omega_1)/\mathbf P_
 ## Fine-tuning
 
 <p align="justify">Cosmological fine-tuning (FT) states that some constants of nature must pertain to intervals of minuscule probability in
-order to permit the existence of carbon-based life. The problem is twofold for each constant of nature: First, finding the constant's life permitting interval (LPI)---the set of possible values of the constant that would permit life (a physics problem); second, finding the probability that the constant of nature pertains to its LPI (a mathematical problem). When this probability is small, there is fine-tuning. However, the second step remained elusive for 50 years, as estimating the probability of the LPI required using a sample of size 1 (the value of the constant in our _uni_-verse), taken from an unknown distribution, supported in an unknown sample space, where the sample is affected by selection bias because it corresponds to a universe that permits life. My colleagues and I developed a sound solution to this problem through a Bayesian approach that relies on maximum entropy and optimization (a nice presentation can be watched <a href="https://www.youtube.com/watch?v=3_ZrLrrSTTE">here</a>). I am now interested in estimating the probabilities of LPIs for more local conditions (as oposed to the universal ones determined by the constants of nature), like galactic, planetary, and biological ones.</p>
+order to permit the existence of carbon-based life. The problem is twofold for each constant of nature: First, finding the constant's life permitting interval (LPI)—the set of possible values of the constant that would permit life (a physics problem); second, finding the probability that the constant of nature pertains to its LPI (a mathematical problem). When this probability is small, there is fine-tuning. However, the second step remained elusive for 50 years, as estimating the probability of the LPI required using a sample of size 1 (the value of the constant in our _uni_-verse), taken from an unknown distribution, supported in an unknown sample space, where the sample is affected by selection bias because it corresponds to a universe that permits life. My colleagues and I developed a sound solution to this problem through a Bayesian approach that relies on maximum entropy and optimization.</p> 
+
+<p align="justify">Moreover, as many question whether the study of fine-tuning is a proper scientific endeavor, we proved the following principle: the fine-tuning of a constant of nature can only be known when the parameter takes nonnegative values and when the size of the LPI is small relative to the observed value of the constant in our universe. This happens for at least two important constants of nature: the critical density of the universe and the gravitational force. However, our method also says that the exact level of tuning of other constants which have been touted as fine-tuned cannot be known; this is the case, for instance, of the Higgs vacuum expectation value and the amplitude of primordial fluctuations (a nice presentation can be watched <a href="https://www.youtube.com/watch?v=3_ZrLrrSTTE">here</a>).</p>
+
+<div>
+      <center>
+         <img src="https://github.com/user-attachments/assets/890bda35-ad28-42c4-b5dd-526b74fd8b54" width="500" height="500">
+      </center>   
+      <p style="text-align: center"><font size="2"><b>Figure 3:</b> The reason we cannot know the level of tuning of a constant that can take any real value. The Bayesian approach considers all distributions that belong to a certain family (the normal family in the figure), then it maximizes the probability of the LPI among all members of the family. Thus, if the LPI includes the mean value, the probability of the LPI tends to 1 when the variance approaches 0</font></p>
+   </div>
+
+   ![Fig](https://github.com/user-attachments/assets/890bda35-ad28-42c4-b5dd-526b74fd8b54)
+
 
 ## COVID-19
 
