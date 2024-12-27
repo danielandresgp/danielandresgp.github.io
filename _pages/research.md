@@ -57,12 +57,12 @@ order to permit the existence of carbon-based life. The problem is twofold for e
 
 ## COVID-19
 
-<p align="justify">During the COVID-19 pandemic, understanding the true prevalence of the virus was critical, but biased sampling hindered accurate estimations. Specifically, I realized that symptomatic individuals were more likely to seek testing. This bias led to overestimation of prevalence in first-world countries... and their subsequent adoption of horrible public health policies! Using the maximum entropy principle, my colleagues and I introduced corrected estimators as readily implementable algorithms directed to practitioners, while providing theoretical guarantees for our corrections.</p>
+<p align="justify">During the COVID-19 pandemic, understanding the true prevalence of the virus was critical, but biased sampling hindered accurate estimations. Specifically, I realized that symptomatic individuals were more likely to seek testing. This bias led to overestimation of prevalence in First-World countries... and the subsequent adoption of horrible lockdown policies! Using the maximum entropy principle, my colleagues and I introduced corrected estimators as readily implementable algorithms directed to practitioners, while providing theoretical guarantees for our corrections. More specifically, we developed corrected estimators in the following cases: when all the symptomatic individuals are tested (as it was the case in most universities and companies in the US during the pandemic) and when not all the symptomatic individuals are tested but are still overrepresented.</p>
 
 <div>
    <center>
-   <img src="https://github.com/user-attachments/assets/93dc2395-5cea-45c2-b048-02ec1e88781d" style="width:40%">
-   <img src="https://github.com/user-attachments/assets/40f64213-1be6-40ed-bd99-0be26b85f970" style="width:40%">
+   <img src="https://github.com/user-attachments/assets/93dc2395-5cea-45c2-b048-02ec1e88781d" style="width:50%">
+   <img src="https://github.com/user-attachments/assets/40f64213-1be6-40ed-bd99-0be26b85f970" style="width:50%">
    </center>    
    <p style="text-align: justify"><font size="2"><b>Figure 4:</b> Boxplots of a simulation of prevalence estimators when the true prevalence is 20%, false positive and false negative rates for the asymptomatic group are, respectively, 1% and 20%, and false positive and false negative rates of symptomatic individuals are, respectively, 3% and 2%. The X axis represents increasing proportions of asymptomatic individuals being sampled. The LHS shows boxplots of estimators when all the symptomatic group is sampled (as it was the case in many universities and companies in First World countries). The RHS shows boxplots of estimators when 70% of the symptomatic population was sampled. In the two cases, the corrected estimator of prevalence greatly reduces the naive estimator.</font></p> 
 </div>
