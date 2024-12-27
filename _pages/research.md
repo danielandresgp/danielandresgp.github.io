@@ -16,7 +16,7 @@ author_profile: true
       <center>
          <img src="https://github.com/user-attachments/assets/dbfd1f4b-fd22-41da-9fc2-56098e6cc7fa" width="300" height="300">
       </center>   
-      <p style="text-align: center"><font size="2"><b>Figure 1:</b> A stable allocation to a Poisson process of intensity 1 where each center wants to colonize             a territory whose expected volume is 1.<br> Simulation performed by chatgpt.</font></p>
+      <p style="text-align: center"><font size="2"><b>Figure 1:</b> A stable allocation to a Poisson process of intensity 1 where each center wants to colonize a territory whose expected volume is 1.<br> Simulation performed by chatgpt.</font></p>
    </div>
 
 
