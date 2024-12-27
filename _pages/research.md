@@ -51,7 +51,7 @@ order to permit the existence of carbon-based life. The problem is twofold for e
       <center>
          <img src="https://github.com/user-attachments/assets/890bda35-ad28-42c4-b5dd-526b74fd8b54" width="500" height="500">
       </center>   
-      <p style="text-align: justify"><font size="2"><b>Figure 3:</b> The reason we cannot know the level of tuning of a constant that can take any real value. The Bayesian approach first considers all distributions that belong to a certain family (say, the normal family of distributions), then it maximizes the probability of the LPI among all members of the family. Thus, if the LPI includes the mean value (as in the left-hand side), the probability of the LPI tends to 1 when the variance approaches 0</font></p>
+      <p style="text-align: justify"><font size="2"><b>Figure 3:</b> The reason we cannot know the level of tuning of a constant that can take any real value. The Bayesian approach first considers all distributions that belong to a certain family (say, the normal family of distributions), then it maximizes the probability of the LPI among all members of the family. Thus, if the LPI includes the mean value (as in the left-hand side), the estimated upper bound of the probability of the LPI tends to 1 as the variance approaches 0</font></p>
    </div>
 
 
