@@ -79,8 +79,8 @@ order to permit the existence of carbon-based life. The problem is twofold for e
 
 <div>
    <center>
-   <img src="https://github.com/user-attachments/assets/9d5ad9cd-1a42-43cc-a87a-bdca3ce9c8c2" style="width:35%">
-   <img src="https://github.com/user-attachments/assets/8ace7357-8f00-4c7d-ba58-1fe047708899" style="width:35%">
+   <img src="https://github.com/user-attachments/assets/9d5ad9cd-1a42-43cc-a87a-bdca3ce9c8c2" style="width:30%, margin-right: 10px;"> 
+   <img src="https://github.com/user-attachments/assets/8ace7357-8f00-4c7d-ba58-1fe047708899" style="width:30%">
    </center>    
    <p style="text-align: justify"><font size="2"><b>Figure 4:</b> Using the famous MNIST database of handwritten digits, the left-hand side shows equidistant points of the digit 1 inside the cluster found using principal components, while the right-hand side shows equidistant points for the same digit inside the cluster found using pettiest components.</font></p> 
 </div>
