@@ -27,7 +27,7 @@ author_profile: true
   I^+(\mathsf A) := \log \frac{\mathbf P(\mathsf A)}{\mathbf P_0(\mathsf A)},
    \label{AIN}
 \end{equation}
-where $\mathbf P$ and $\mathbf P_0$ are probability measures on a measurable space $(\Omega, \mathcal F)$ and $\mathsf A \subset \mathcal F$. In words, $I^+(\mathsf A)$ measures how  much information is added/removed from the event $\mathsf A$ when it is measured with $\mathbf P$, instead of the baseline $\mathbf P_0$. In more detail, $I^+(\mathsf A)$ will be positive/negative/zero, when $\mathbf P(\mathsf A)$ is bigger/smaller/equal to $\mathbf P_0$, respectively. By contrast, the Kullback-Leibler divergence $\mathrm{KL}(\mathbf P \mid \mathbf P_0)$ is a nonnegative global average that can only be zero when $\mathbf P = \mathbf P_0$ with probability 1. Most of what follows shows that these differences matter, and that progress has been hindered in many areas by ignoring local measures of information.</p>
+where $\mathbf P$ and $\mathbf P_0$ are probability measures on a measurable space $(\Omega, \mathcal F)$ and $\mathsf A \subset \mathcal F$. In words, $I^+(\mathsf A)$ measures how  much information is added/removed from the event $\mathsf A$ when it is measured with $\mathbf P$, instead of the baseline $\mathbf P_0$. In more detail, $I^+(\mathsf A)$ will be positive/negative/zero, when $\mathbf P(\mathsf A)$ is bigger/smaller/equal to $\mathbf P_0$, respectively. By contrast, the Kullback-Leibler divergence $\mathrm{KL}(\mathbf P \mid \mathbf P_0)$ is a nonnegative global average that can only be zero when $\mathbf P = \mathbf P_0$ with probability 1. In all the research areas below these differences matter, which shows that progress has been hindered in many areas by ignoring local measures of information.</p>
 
 <div>
    <center>
@@ -86,3 +86,15 @@ order to permit the existence of carbon-based life. The problem is twofold for e
 </div>
 
 
+## Learning and knowledge acquisition
+![LvK](https://github.com/user-attachments/assets/7fb8f0fc-789e-4eaf-983d-52ca0a896b9d)
+
+<p align="justify">Philosophers usually define knowledge as "justified true belief." This means that an agent $\mathcal A$ <i>know</i> a proposition $p$ if the following three properties are satisfied:</p>
+1. $\mathcal A$ believes $p$,
+2. $p$ is true,
+3. $\mathcal A$'s belief about $p$ is justified.
+<p align="justify">If only properties 1–2 are satisfied, $\mathcal A$ <i>learns</i> $p$. Clearly, acquiring knowledge requires more than learning.</p>
+
+We have applied \eqref{AIN} to formalize the concepts 1–3 behind learning and knowledge acquisition. To this end, it is assumed that $\Omega$ is a set of parameters of a statistical model; in this context, we take a mixed frequentist and Bayesian approach. On the one hand, it is postulated that one element $\omega_0\in\Omega$ is the true parameter value (a frequentist assumption). On the other hand, uncertainty about $\omega_0$ is formulated as a probability measure on $\Omega$ that varies between persons (a Bayesian assumption). More specifically, $\mathbf P$ and $\mathbf P_0$ represent degrees of beliefs about $\omega_0\in\Omega$, of an agent $\mathcal A$ and an ignorant agent $\mathcal I$, respectively. It is assumed that $\mathcal A$ acquired data $\mathsf D$ that $\mathcal I$ lacks, so that $\mathbf P$ and $\mathbf P_0$ are posterior and prior distributions on $\Omega$ that represent degrees of beliefs of $\mathcal A$ about $\omega_0$, after and before he received data. In particular, if we choose $\mathsf A$ as the set of parameter values for which a given proposition $p$ is true, then the objective of $\mathcal A$ is to use data to learn whether the proposition is true ($\omega_0\in \mathsf A$) or not ($\omega_0 \notin \mathsf A$), as quantified by the active information \eqref{AIN}. In this case, data represents the exogenous information that helps agent $\mathcal A$ modify his beliefs about $\mathsf A$ compared to the ignorant person $\mathcal I$. Knowledge acquisition goes beyond learning since it additionally requires that $\mathcal A$ learns about the proposition for the right reason. This corresponds to increasingly correct beliefs about $\omega_0$, not only increasingly correct beliefs of whether $\omega_0\in\mathsf A$ or not (as for learning). 
+
+Our approach proposes a very sensible solution to the old dispute between Bayesians and frequentists. We consider propositions and states of reality that are objectively true or false, but learning and knowledge are naturally Bayesian. Thus, ontology is partially frequentist, whereas epistemology is Bayesian. Our definitions differentiate between them, and this is an essential aspect of our theory. 
