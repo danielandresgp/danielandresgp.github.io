@@ -22,11 +22,11 @@ author_profile: true
 
 ### Relevant publications
 
-<p style="text-align: justify"><font size="3"><ul> 
-   <li><b>Daniel Andrés Díaz-Pachón</b>. Percolation for the stable marriage of Poisson and Lebesgue with random appetites.                <i>Stochastics</i>, 85(2):252–261, 2013. <a href="https://www.tandfonline.com/doi/abs/10.1080/17442508.2011.651215"> [Journal]</a> <a href="https://arxiv.org/pdf/0909.5325.pdf">[arχiv]</a></li> 
+<ul> 
+   <li><p style="text-align: justify"><font size="3"><b>Daniel Andrés Díaz-Pachón</b>. Percolation for the stable marriage of Poisson and Lebesgue with random appetites.                <i>Stochastics</i>, 85(2):252–261, 2013. <a href="https://www.tandfonline.com/doi/abs/10.1080/17442508.2011.651215"> [Journal]</a> <a href="https://arxiv.org/pdf/0909.5325.pdf">[arχiv]</a></font></p></li> 
    
-   <li><b>Daniel Andrés Díaz-Pachón</b>. A note on large deviations for the stable marriage of Poisson and Lebesgue with random appetites. <i>Journal of Theoretical Probability</i>, 25(1):77–91, 2012. <a href="https://link.springer.com/article/10.1007/s10959-010-0304-9">[Journal]</a> <a href="https://arxiv.org/pdf/0911.1429.pdf">[arχiv]</a></li>
-</ul></font></p>
+   <li><p style="text-align: justify"><font size="3"><b>Daniel Andrés Díaz-Pachón</b>. A note on large deviations for the stable marriage of Poisson and Lebesgue with random appetites. <i>Journal of Theoretical Probability</i>, 25(1):77–91, 2012. <a href="https://link.springer.com/article/10.1007/s10959-010-0304-9">[Journal]</a> <a href="https://arxiv.org/pdf/0911.1429.pdf">[arχiv]</a></font></p></li>
+</ul>
 
 
 ## Local measures of information
@@ -54,7 +54,7 @@ $\mathbf I^+(\mathbf P \mid \mathbf P_0) :=  \log[\mathbf P(\omega_1)/\mathbf P_
 
 <li><b>Daniel Andrés Díaz-Pachón</b> and Ola Hössjer. Assessing, testing, and estimating the amount of fine-tuning by means of active information. <i>Entropy</i>, 24(10):1323, 2022 (<b>Editor’s choice article</b>). <a href="https://www.mdpi.com/1099-4300/24/10/1323">[Journal]</a> (Open source)</li>
 
-<li><b>Daniel Andrés Díaz-Pachón</b> and Robert J. Marks II. Generalized active information: Extensions to unbounded domains. <i>BIO-Complexity</i>, 2020(3):1–6, 2020. <a href="https://bio-complexity.org/ojs/index.php/main/article/view/BIO-C.2020.3/BIO-C.2020.3">[Journal]</a>(Open source)</li>
+<li><b>Daniel Andrés Díaz-Pachón</b> and Robert J. Marks II. Generalized active information: Extensions to unbounded domains. <i>BIO-Complexity</i>, 2020(3):1–6, 2020. <a href="https://bio-complexity.org/ojs/index.php/main/article/view/BIO-C.2020.3/BIO-C.2020.3">[Journal]</a> (Open source)</li>
 
 <li><b>Daniel Andrés Díaz-Pachón</b>, Juan P. Sáenz, and J. Sunil Rao. Hypothesis testing with active information. <i>Statistics & Probability Letters</i>, 161:108742, 2020. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167715220300456">[Journal]</a> <a href="https://arxiv.org/pdf/2011.04834.pdf">[arχiv]</a></li>
 </ul></font></p> 
