@@ -29,7 +29,7 @@ author_profile: true
 
 ## Local measures of information
 
-<p align="justify">Shannon's information theory is almost exclusively focused on global averaged measures of information (entropy, mutual information, KL divergence, etc.) This approach overlooks the significance of local and unaveraged information measures of specific events. Paradoxically, since averages are by definition a reduction of information, information theory is constantly losing information. Consider, for instance, the <a href="https://arxiv.org/pdf/2111.06865">active information</a>
+<p align="justify">Shannon's information theory is almost exclusively focused on global averaged measures of information (entropy, mutual information, KL divergence, etc.) This approach overlooks the significance of local and unaveraged information measures of specific events. Paradoxically, since averages are by definition a reduction of information, information theory is constantly losing information. Consider, for instance, the active information
 \begin{equation}
   I^+(\mathsf A) := \log \frac{\mathbf P(\mathsf A)}{\mathbf P_0(\mathsf A)},
    \label{AIN}
@@ -47,7 +47,7 @@ $\mathbf I^+(\mathbf P \mid \mathbf P_0) :=  \log[\mathbf P(\omega_1)/\mathbf P_
 
 ### Relevant publications
 
-<p style="text-align: justify"><font size="2">Ola Hössjer, **Daniel Andrés Díaz-Pachón**, Chen Zhao, and J. Sunil Rao. An Information Theoretic Approach to Prevalence Estimation and Missing Data. _IEEE Transactions on Information Theory_, 70(5):3567–3582, 2024. <a href="https://ieeexplore.ieee.org/abstract/document/10295527">Journal</a>[[Journal]](https://ieeexplore.ieee.org/abstract/document/10295527) [[arχiv]](https://arxiv.org/pdf/2206.05120.pdf)</font></p>  
+<p style="text-align: justify"><font size="2">Ola Hössjer, <b>Daniel Andrés Díaz-Pachón</b>, Chen Zhao, and J. Sunil Rao. An Information Theoretic Approach to Prevalence Estimation and Missing Data. <i>IEEE Transactions on Information Theory</i>, 70(5):3567–3582, 2024. <a href="https://ieeexplore.ieee.org/abstract/document/10295527">[Journal]</a> <a href="https://arxiv.org/pdf/2206.05120.pdf">[arχiv]</a></font></p>  
 
 **Daniel Andrés Díaz-Pachón** and Ola Hössjer. Assessing, testing, and estimating the amount of fine-tuning by means of active information. _Entropy_, 24(10):1323, 2022 (**Editor’s choice article**). [[Journal]](https://www.mdpi.com/1099-4300/24/10/1323)
 
