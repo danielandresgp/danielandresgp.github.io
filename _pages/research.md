@@ -48,6 +48,7 @@ where $\mathbf P$ and $\mathbf P_0$ are probability measures on a measurable spa
 $\mathbf I^+(\mathbf P \mid \mathbf P_0) :=  \log[\mathbf P(\omega_1)/\mathbf P_0(\omega_1)] + \log[\mathbf P(\omega_2)/\mathbf P_0(\omega_2)]$. Notice that the total active information can be negative.</font></p> 
 </div>
 
+
 ### Relevant publications
 
 <font size="3"><ul> 
