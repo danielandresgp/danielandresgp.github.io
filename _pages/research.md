@@ -84,7 +84,7 @@ order to permit the existence of carbon-based life. The problem is twofold for e
 Fine-Tuning? <i>The Astrophysical Journal Supplement Series</i>, 271(2):56, 2024. <a href="https://iopscience.iop.org/article/10.3847/1538-4365/ad2c88">[Journal]</a> (Open source)</li> 
 
 <li style="text-align: justify"><b>Daniel Andrés Díaz-Pachón</b>, Ola Hössjer, and Robert J. Marks II. Sometimes size does not matter.
-<i>Foundations of Physics</i>. 53,1, 2023. <a href="https://link.springer.com/article/10.1007/s10701-022-00650-1">[Journal]</a> <a href="https://github.com/danielandresgp/danielandresgp.github.io/blob/master/files/Size%20does%20not%20matter.pdf">[Preprint]</a> < a href="https://github.com/danielandresgp/danielandresgp.github.io/blob/master/files/Poster.pdf">[Poster]</a></li>
+<i>Foundations of Physics</i>. 53,1, 2023. <a href="https://link.springer.com/article/10.1007/s10701-022-00650-1">[Journal]</a> <a href="https://github.com/danielandresgp/danielandresgp.github.io/blob/master/files/Size%20does%20not%20matter.pdf">[Preprint]</a> <a href="https://github.com/danielandresgp/danielandresgp.github.io/blob/master/files/Poster.pdf">[Poster]</a></li>
 
 <li style="text-align: justify"><b>Daniel Andrés Díaz-Pachón</b> and Ola Hössjer. Assessing, testing, and estimating the amount of fine-tuning by means of active information. <i>Entropy</i>, 24(10):1323, 2022 (<b>Editor’s choice article</b>). <a href="https://www.mdpi.com/1099-4300/24/10/1323">[Journal]</a> (Open source)</li>
 
