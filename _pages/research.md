@@ -77,6 +77,21 @@ order to permit the existence of carbon-based life. The problem is twofold for e
       <p style="text-align: justify"><font size="2"><b>Figure 3:</b> The reason we cannot know the level of tuning of a constant that can take any real value. The Bayesian approach first considers all distributions that belong to a certain family (say, the normal family of distributions), then it maximizes the probability of the LPI among all members of the family. Thus, if the LPI includes the mean value (as in the left-hand side), the estimated upper bound of the probability of the LPI tends to 1 as the variance approaches 0.</font></p>
    </div>
 
+   ### Relevant publications
+
+<font size="3"><ul> 
+<li style="text-align: justify"><b>Daniel Andrés Díaz-Pachón</b>, Ola Hössjer, and Calvin Mathew. Is It Possible to Know Cosmological
+Fine-Tuning? <i>The Astrophysical Journal Supplement Series</i>, 271(2):56, 2024. <a href="https://iopscience.iop.org/article/10.3847/1538-4365/ad2c88">[Journal]</a> (Open source)</li> 
+
+<li style="text-align: justify"><b>Daniel Andrés Díaz-Pachón</b>, Ola Hössjer, and Robert J. Marks II. Sometimes size does not matter.
+<i>Foundations of Physics</i>. 53,1, 2023. <a href="https://link.springer.com/article/10.1007/s10701-022-00650-1">[Journal]</a> <a href="https://github.com/danielandresgp/danielandresgp.github.io/blob/master/files/Size%20does%20not%20matter.pdf">[Preprint]</a> < a href="https://github.com/danielandresgp/danielandresgp.github.io/blob/master/files/Poster.pdf">[Poster]</a></li>
+
+<li style="text-align: justify"><b>Daniel Andrés Díaz-Pachón</b> and Ola Hössjer. Assessing, testing, and estimating the amount of fine-tuning by means of active information. <i>Entropy</i>, 24(10):1323, 2022 (<b>Editor’s choice article</b>). <a href="https://www.mdpi.com/1099-4300/24/10/1323">[Journal]</a> (Open source)</li>
+
+<li style="text-align: justify"><b>Daniel Andrés Díaz-Pachón</b>, Ola Hössjer, and Robert J. Marks II. Is cosmological tuning fine or
+coarse? <i>Journal of Cosmology and Astroparticle Physics</i>, JCAP07(2021)020, 2021. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2021/07/020">[Journal]</a> <a href="https://arxiv.org/pdf/2104.05400.pdf">[arχiv]</a></li>
+</ul></font> 
+
 
 ## COVID-19
 
