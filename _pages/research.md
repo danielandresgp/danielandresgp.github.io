@@ -20,7 +20,7 @@ author_profile: true
    </div>
 
 
-   ### Relevant publications
+### Relevant publications
 
    1. Daniel Andrés Díaz-Pachón. Percolation for the stable marriage of Poisson and Lebesgue with random appetites. _Stochastics_, 85(2):252–261, 2013 [[Journal]](https://www.tandfonline.com/doi/abs/10.1080/17442508.2011.651215) [[arχiv]](https://arxiv.org/pdf/0909.5325.pdf).
    2. Daniel Andrés Díaz-Pachón. A note on large deviations for the stable marriage of Poisson and Lebesgue with random appetites. _Journal of Theoretical Probability_, 25(1):77–91, 2012. [[Journal]](https://link.springer.com/article/10.1007/s10959-010-0304-9) [[arχiv]](https://arxiv.org/pdf/0911.1429.pdf).
