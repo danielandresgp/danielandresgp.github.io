@@ -19,6 +19,7 @@ author_profile: true
       <p style="text-align: center"><font size="2"><b>Figure 1:</b> A stable allocation to a Poisson process of intensity 1 where each center wants to colonize a territory whose expected volume is 1.<br> Simulation performed by chatgpt.</font></p>
    </div>
 
+
    ### Relevant publications
 
    1. Daniel Andrés Díaz-Pachón. Percolation for the stable marriage of Poisson and Lebesgue with random appetites. _Stochastics_, 85(2):252–261, 2013 [[Journal]](https://www.tandfonline.com/doi/abs/10.1080/17442508.2011.651215) [[arχiv]](https://arxiv.org/pdf/0909.5325.pdf).
