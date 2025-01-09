@@ -48,13 +48,15 @@ $\mathbf I^+(\mathbf P \mid \mathbf P_0) :=  \log[\mathbf P(\omega_1)/\mathbf P_
 
 ### Relevant publications
 
-<p style="text-align: justify"><font size="3">Ola Hössjer, <b>Daniel Andrés Díaz-Pachón</b>, Chen Zhao, and J. Sunil Rao. An Information Theoretic Approach to Prevalence Estimation and Missing Data. <i>IEEE Transactions on Information Theory</i>, 70(5):3567–3582, 2024. <a href="https://ieeexplore.ieee.org/abstract/document/10295527">[Journal]</a> <a href="https://arxiv.org/pdf/2206.05120.pdf">[arχiv]</a></font></p>  
+<p style="text-align: justify"><font size="3"><ul> 
+   <li></li>Ola Hössjer, <b>Daniel Andrés Díaz-Pachón</b>, Chen Zhao, and J. Sunil Rao. An Information Theoretic Approach to Prevalence Estimation and Missing Data. <i>IEEE Transactions on Information Theory</i>, 70(5):3567–3582, 2024. <a href="https://ieeexplore.ieee.org/abstract/document/10295527">[Journal]</a> <a href="https://arxiv.org/pdf/2206.05120.pdf">[arχiv]</a></li> 
 
-**Daniel Andrés Díaz-Pachón** and Ola Hössjer. Assessing, testing, and estimating the amount of fine-tuning by means of active information. _Entropy_, 24(10):1323, 2022 (**Editor’s choice article**). [[Journal]](https://www.mdpi.com/1099-4300/24/10/1323)
+<li><b>Daniel Andrés Díaz-Pachón</b> and Ola Hössjer. Assessing, testing, and estimating the amount of fine-tuning by means of active information. <i>Entropy</i>, 24(10):1323, 2022 (<b>Editor’s choice article</b>). <a href="https://www.mdpi.com/1099-4300/24/10/1323">[Journal]</a> (Open source)</li>
 
-**Daniel Andrés Díaz-Pachón** and Robert J. Marks II. Generalized active information: Extensions to unbounded domains. _BIO-Complexity_, 2020(3):1–6, 2020. [[Journal]](https://bio-complexity.org/ojs/index.php/main/article/view/BIO-C.2020.3/BIO-C.2020.3)
+<li><b>Daniel Andrés Díaz-Pachón</b> and Robert J. Marks II. Generalized active information: Extensions to unbounded domains. <i>BIO-Complexity</i>, 2020(3):1–6, 2020. <a href="https://bio-complexity.org/ojs/index.php/main/article/view/BIO-C.2020.3/BIO-C.2020.3">[Journal]</a>(Open source)</li>
 
-**Daniel Andrés Díaz-Pachón**, Juan P. Sáenz, and J. Sunil Rao. Hypothesis testing with active information. _Statistics & Probability Letters_, 161:108742, 2020. [[Journal]](https://www.sciencedirect.com/science/article/abs/pii/S0167715220300456) [[arχiv]](https://arxiv.org/pdf/2011.04834.pdf)
+<li><b>Daniel Andrés Díaz-Pachón</b>, Juan P. Sáenz, and J. Sunil Rao. Hypothesis testing with active information. <i>Statistics & Probability Letters</i>, 161:108742, 2020. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167715220300456">[Journal]</a> <a href="https://arxiv.org/pdf/2011.04834.pdf">[arχiv]</a></li>
+</ul></font></p> 
 
    
 ## Fine-tuning
