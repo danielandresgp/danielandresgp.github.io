@@ -22,9 +22,9 @@ author_profile: true
 
 ### Relevant publications
 
-<p style="text-align: justify"><font size="3"><b>Daniel Andrés Díaz-Pachón</b>. Percolation for the stable marriage of Poisson and Lebesgue with random appetites. <i>Stochastics</i>, 85(2):252–261, 2013. <a href="https://www.tandfonline.com/doi/abs/10.1080/17442508.2011.651215"> [Journal]</a> <a href="https://arxiv.org/pdf/0909.5325.pdf">[arχiv]</a></font></p>
+<p style="text-align: justify"><font size="3"><b>Daniel Andrés Díaz-Pachón</b>. Percolation for the stable marriage of Poisson and Lebesgue with random appetites. <i>Stochastics</i>, 85(2):252–261, 2013. <a href="https://www.tandfonline.com/doi/abs/10.1080/17442508.2011.651215"> [Journal]</a> <a href="https://arxiv.org/pdf/0909.5325.pdf">[arχiv]</a> 
 <br>
-<p style="text-align: justify"><font size="3"><b>Daniel Andrés Díaz-Pachón</b>. A note on large deviations for the stable marriage of Poisson and Lebesgue with random appetites. <i>Journal of Theoretical Probability</i>, 25(1):77–91, 2012. <a href="https://link.springer.com/article/10.1007/s10959-010-0304-9">[Journal]</a> <a href="https://arxiv.org/pdf/0911.1429.pdf">[arχiv]</a></font></p>
+<b>Daniel Andrés Díaz-Pachón</b>. A note on large deviations for the stable marriage of Poisson and Lebesgue with random appetites. <i>Journal of Theoretical Probability</i>, 25(1):77–91, 2012. <a href="https://link.springer.com/article/10.1007/s10959-010-0304-9">[Journal]</a> <a href="https://arxiv.org/pdf/0911.1429.pdf">[arχiv]</a></font></p>
 
 
 ## Local measures of information
