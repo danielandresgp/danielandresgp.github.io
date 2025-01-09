@@ -23,8 +23,9 @@ author_profile: true
 ### Relevant publications
 
 <p style="text-align: justify"><font size="3"><ul> 
-   <li><b>Daniel Andrés Díaz-Pachón</b>. Percolation for the stable marriage of Poisson and Lebesgue with random appetites. <i>Stochastics</i>, 85(2):252–261, 2013. <a href="https://www.tandfonline.com/doi/abs/10.1080/17442508.2011.651215"> [Journal]</a> <a href="https://arxiv.org/pdf/0909.5325.pdf">[arχiv]</a></li> 
-<li><b>Daniel Andrés Díaz-Pachón</b>. A note on large deviations for the stable marriage of Poisson and Lebesgue with random appetites. <i>Journal of Theoretical Probability</i>, 25(1):77–91, 2012. <a href="https://link.springer.com/article/10.1007/s10959-010-0304-9">[Journal]</a> <a href="https://arxiv.org/pdf/0911.1429.pdf">[arχiv]</a></li>
+   <li><b>Daniel Andrés Díaz-Pachón</b>. Percolation for the stable marriage of Poisson and Lebesgue with random appetites.                <i>Stochastics</i>, 85(2):252–261, 2013. <a href="https://www.tandfonline.com/doi/abs/10.1080/17442508.2011.651215"> [Journal]</a> <a href="https://arxiv.org/pdf/0909.5325.pdf">[arχiv]</a></li> 
+   
+   <li><b>Daniel Andrés Díaz-Pachón</b>. A note on large deviations for the stable marriage of Poisson and Lebesgue with random appetites. <i>Journal of Theoretical Probability</i>, 25(1):77–91, 2012. <a href="https://link.springer.com/article/10.1007/s10959-010-0304-9">[Journal]</a> <a href="https://arxiv.org/pdf/0911.1429.pdf">[arχiv]</a></li>
 </ul></font></p>
 
 
@@ -49,7 +50,7 @@ $\mathbf I^+(\mathbf P \mid \mathbf P_0) :=  \log[\mathbf P(\omega_1)/\mathbf P_
 ### Relevant publications
 
 <p style="text-align: justify"><font size="3"><ul> 
-   <li></li>Ola Hössjer, <b>Daniel Andrés Díaz-Pachón</b>, Chen Zhao, and J. Sunil Rao. An Information Theoretic Approach to Prevalence Estimation and Missing Data. <i>IEEE Transactions on Information Theory</i>, 70(5):3567–3582, 2024. <a href="https://ieeexplore.ieee.org/abstract/document/10295527">[Journal]</a> <a href="https://arxiv.org/pdf/2206.05120.pdf">[arχiv]</a></li> 
+<li>Ola Hössjer, <b>Daniel Andrés Díaz-Pachón</b>, Chen Zhao, and J. Sunil Rao. An Information Theoretic Approach to Prevalence Estimation and Missing Data. <i>IEEE Transactions on Information Theory</i>, 70(5):3567–3582, 2024. <a href="https://ieeexplore.ieee.org/abstract/document/10295527">[Journal]</a> <a href="https://arxiv.org/pdf/2206.05120.pdf">[arχiv]</a></li> 
 
 <li><b>Daniel Andrés Díaz-Pachón</b> and Ola Hössjer. Assessing, testing, and estimating the amount of fine-tuning by means of active information. <i>Entropy</i>, 24(10):1323, 2022 (<b>Editor’s choice article</b>). <a href="https://www.mdpi.com/1099-4300/24/10/1323">[Journal]</a> (Open source)</li>
 
