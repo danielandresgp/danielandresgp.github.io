@@ -168,3 +168,17 @@ Using Principal Components. In S. Ejaz Ahmed, editor, <i>Big and Complex Data An
       </center>   
       <p style="text-align: justify"><font size="2"><b>Figure 5:</b> The set of possible worlds is $\Omega=[0,1]$, the set of worlds where a given proposition $p$ is true is given by $\mathsf A$, the true world is $\omega_0$, and $\mathbf P_0$ is the uniform measure. Thus $\mathbf P_0(\mathsf A) = \textrm{length}(\mathsf A) < 1$. The light blue region in the LHS represents the beliefs of an agent $\mathcal A_1$, whereas the gray region in the RHS represents the beliefs of another agent $\mathcal A_2$. Since the beliefs of the two agents are fully concentrated in $\mathsf A$, $\mathbf P_{\mathcal A_1}(\mathsf A) = \mathbf P_{\mathcal A_2}(\mathsf A) = 1$. Therefore, the two agents fully learned about proposition $p$. However, since in the RHS $\omega_0 \notin \textrm{supp}(\mathbf P_{\mathcal A_2})$, agent $\mathcal A_2$ does not acquire knowledge, whereas agent $\mathcal A_1$ does as his beliefs are more concentrated around $\omega_0$ than those of the ignorant agent with belief $\mathbf P_0$. Nonetheless, full knowledge is not possible for $\mathcal A_1$ as $\mathbf P_{\mathcal A_1}$ is continuous.</font></p>
    </div>
+
+### Relevant publications
+
+<font size="3"><ul> 
+<li style="text-align: justify"><b>Daniel Andrés Díaz-Pachón</b>, H. Renata Gallegos, Ola Hössjer, and J. Sunil Rao. Statistical
+Learning Does Not Always Entail Knowledge. <i>Annals of Applied Probability</i> (Submitted), 2024.
+<a href="https://arxiv.org/pdf/2501.01963">[arχiv]</a>. </li> 
+
+<li style="text-align: justify"><b>Daniel Andrés Díaz-Pachón</b>, Ola Hössjer, and Calvin Mathew. Is It Possible to Know Cosmological
+Fine-Tuning? <i>The Astrophysical Journal Supplement Series</i>, 271(2):56, 2024. <a href="https://iopscience.iop.org/article/10.3847/1538-4365/ad2c88">[Journal]</a> (Open access) </li>
+
+<li style="text-align: justify">Ola Hössjer, <b>Daniel Andrés Díaz-Pachón</b>, and J. Sunil Rao. A Formal Framework for Knowledge
+Acquisition: Going Beyond Machine Learning. <i>Entropy</i>, 24(10):1469, 2022. <a href="https://www.mdpi.com/1099-4300/24/10/1469">[Journal]</a> (Open access)</li>
+</ul></font> 
