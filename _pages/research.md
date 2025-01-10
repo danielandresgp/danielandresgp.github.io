@@ -118,8 +118,7 @@ COVID-19 surges. <i>PLOS One</i>, 19(1):e0296964, 2024. <a href="https://journal
 <li style="text-align: justify">Ola Hössjer, <b>Daniel Andrés Díaz-Pachón</b>, Chen Zhao, and J. Sunil Rao. An Information Theoretic Approach to Prevalence Estimation and Missing Data. <i>IEEE Transactions on Information Theory</i>, 70(5):3567–3582, 2024. <a href="https://ieeexplore.ieee.org/abstract/document/10295527">[Journal]</a> <a href="https://arxiv.org/pdf/2206.05120.pdf">[arχiv]</a></li> 
 
 <li style="text-align: justify">Lili Zhou, <b>Daniel Andrés Díaz-Pachón</b>, Chen Zhao, J. Sunil Rao, and Ola Hössjer. Correcting
-prevalence estimation for biased sampling with testing errors. <i>Statistics in Medicine</i>, 42(26):4713-
-4737, 2023. <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/sim.9885">[Journal]</a> (Open access)</li>
+prevalence estimation for biased sampling with testing errors. <i>Statistics in Medicine</i>, 42(26):4713–4737, 2023. <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/sim.9885">[Journal]</a> (Open access)</li>
 
 <li style="text-align: justify"><b>Daniel Andrés Díaz-Pachón</b> and J. Sunil Rao. A simple correction for Covid-19 sampling bias.
 <i>Journal of Theoretical Biology</i>, 512:110556, 2021 <a href="https://www.sciencedirect.com/science/article/pii/S0022519320304112">[Journal]</a> <a href="https://arxiv.org/pdf/2007.07426.pdf">[arχiv]</a></li>
@@ -143,7 +142,7 @@ prevalence estimation for biased sampling with testing errors. <i>Statistics in 
 
 <font size="3"><ul> 
 <li style="text-align: justify">Tianhao Liu, <b>Daniel Andrés Díaz-Pachón</b>, J. Sunil Rao, and Jean-Eudes Dazard. High-Dimensional
-Mode Hunting Using Pettiest Components Analysis. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i>. 45(4):4637-4649, 2023. <a href="https://ieeexplore.ieee.org/document/9847087">[Journal]</a> <a href="https://arxiv.org/pdf/2101.04288.pdf">[arχiv]</a> </li> 
+Mode Hunting Using Pettiest Components Analysis. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i>. 45(4):4637–4649, 2023. <a href="https://ieeexplore.ieee.org/document/9847087">[Journal]</a> <a href="https://arxiv.org/pdf/2101.04288.pdf">[arχiv]</a> </li> 
 
 <li style="text-align: justify"><b>Daniel Andrés Díaz-Pachón</b>, Juan P. Sáenz, J. Sunil Rao, and Jean-Eudes Dazard. Mode hunting
 through active information. <i>Applied Stochastic Models in Business & Industry</i>, 35(2):376–393, 2019. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/asmb.2430">[Journal]</a> <a href="https://arxiv.org/pdf/2011.05794.pdf">[arχiv]</a> </li>
