@@ -109,6 +109,22 @@ coarse? <i>Journal of Cosmology and Astroparticle Physics</i>, JCAP07(2021)020, 
    <p style="text-align: justify"><font size="2"><b>Figure 4:</b> Boxplots of a simulation of prevalence estimators when the true prevalence is 20%, false positive and false negative rates for the asymptomatic group are, respectively, 1% and 20%, and false positive and false negative rates of symptomatic individuals are, respectively, 3% and 2%. The X axis represents increasing proportions of asymptomatic individuals being sampled. The LHS shows boxplots of estimators when all the symptomatic group is sampled (as it was the case in many universities and companies in First World countries). The RHS shows boxplots of estimators when 70% of the symptomatic population was sampled. In the two cases, the corrected estimator of prevalence greatly reduces the naive estimator.</font></p> 
 </div>
 
+### Relevant publications
+
+<font size="3"><ul> 
+<li style="text-align: justify">J. Sunil Rao, Tianhao Liu, and <b>Daniel Andrés Díaz-Pachón</b>. “Back-to-the-future” projections for
+COVID-19 surges. <i>PLOS One</i>, 19(1):e0296964, 2024. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296964">[Journal]</a> (Open access)<\li>
+
+<li style="text-align: justify">Ola Hössjer, <b>Daniel Andrés Díaz-Pachón</b>, Chen Zhao, and J. Sunil Rao. An Information Theoretic Approach to Prevalence Estimation and Missing Data. <i>IEEE Transactions on Information Theory</i>, 70(5):3567–3582, 2024. <a href="https://ieeexplore.ieee.org/abstract/document/10295527">[Journal]</a> <a href="https://arxiv.org/pdf/2206.05120.pdf">[Preprint]</a></li> 
+
+<li style="text-align: justify">Lili Zhou, <b>Daniel Andrés Díaz-Pachón</b>, Chen Zhao, J. Sunil Rao, and Ola Hössjer. Correcting
+prevalence estimation for biased sampling with testing errors. <i>Statistics in Medicine</i>, 42(26):4713-
+4737, 2023. <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/sim.9885">[Journal]</a> (Open access)</li>
+
+<li style="text-align: justify"><b>Daniel Andrés Díaz-Pachón</b> and J. Sunil Rao. A simple correction for Covid-19 sampling bias.
+<i>Journal of Theoretical Biology</i>, 512:110556, 2021 <a href="https://www.sciencedirect.com/science/article/pii/S0022519320304112">[Journal]</a> <a href="https://arxiv.org/pdf/2007.07426.pdf">[Preprint]</a></li>
+</ul></font> 
+
 
 
 ## Clustering
