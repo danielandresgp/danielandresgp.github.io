@@ -139,6 +139,19 @@ prevalence estimation for biased sampling with testing errors. <i>Statistics in 
    <p style="text-align: justify"><font size="2"><b>Figure 4:</b> Using the famous MNIST database of handwritten digits, the left-hand side shows equidistant points of the digit 1 inside the cluster found using principal components, while the right-hand side shows equidistant points for the same digit inside the cluster found using pettiest components.</font></p> 
 </div>
 
+### Relevant publications
+
+<font size="3"><ul> 
+<li style="text-align: justify">Tianhao Liu, <b>Daniel Andrés Díaz-Pachón</b>, J. Sunil Rao, and Jean-Eudes Dazard. High-Dimensional
+Mode Hunting Using Pettiest Components Analysis. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i>. 45(4):4637-4649, 2023. <a href="https://ieeexplore.ieee.org/document/9847087">[Journal]</a> <a href="https://arxiv.org/pdf/2101.04288.pdf">[arχiv]</a> </li> 
+
+<li style="text-align: justify"><b>Daniel Andrés Díaz-Pachón</b>, Juan P. Sáenz, J. Sunil Rao, and Jean-Eudes Dazard. Mode hunting
+through active information. <i>Applied Stochastic Models in Business & Industry</i>, 35(2):376–393, 2019. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/asmb.2430">[Journal]</a> <a href="https://arxiv.org/pdf/2011.05794.pdf">[arχiv]</a> </li>
+
+<li style="text-align: justify"><b>Daniel Andrés Díaz-Pachón</b>, Jean-Eudes Dazard, and J. Sunil Rao. Unsupervised Bump Hunting
+Using Principal Components. In S. Ejaz Ahmed, editor, <i>Big and Complex Data Analysis: Methodologies and Applications</i>, pp. 325–345. Springer International Publishing, 2017. <a href="https://link.springer.com/chapter/10.1007/978-3-319-41573-4_16">[Book chapter]</a> <a href="https://arxiv.org/pdf/1409.8630.pdf">[arχiv]</a></li>
+</ul></font> 
+
 
 ## Learning and knowledge acquisition
 
