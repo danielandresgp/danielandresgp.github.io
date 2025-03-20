@@ -7,11 +7,8 @@ author_profile: true
 
 ## Working papers
 
-### 5. Information measures of human microbiota diversity
+### 4. Information measures of human microbiota diversity
 &nbsp;&nbsp;&nbsp;&nbsp; With Renata Gallegos.
-
-### 4. Mode hunting for multimodal data
-&nbsp;&nbsp;&nbsp;&nbsp; With Tianhao Liu and [J. Sunil Rao](https://www.jsunilrao.com/).
 
 ### 3. Spatial Ξ-Fleming-Viot processes
 &nbsp;&nbsp;&nbsp;&nbsp; With [Alison Etheridge](https://www.stats.ox.ac.uk/all-people/alison-etheridge/).
@@ -22,6 +19,11 @@ author_profile: true
 
 
 ## Articles
+
+### 23. Lenses of variation
+&nbsp;&nbsp;&nbsp;&nbsp; _ECML PKDD 2025_ (Submitted), 2025.
+
+With Tianhao Liu and [J. Sunil Rao](https://www.jsunilrao.com/).
 
 ### 22. Statistical learning does not always entail knowledge [[arχiv]](https://arxiv.org/pdf/2501.01963)
 &nbsp;&nbsp;&nbsp;&nbsp; _Bayesian Analysis_ (Submitted), 2025.
