@@ -23,7 +23,7 @@ author_profile: true
 ### 23. Lenses of variation
 &nbsp;&nbsp;&nbsp;&nbsp; _ECML PKDD 2025_ (Submitted), 2025.
 
-With Tianhao Liu and [J. Sunil Rao](https://www.jsunilrao.com/).
+&nbsp;&nbsp;&nbsp;&nbsp; With Tianhao Liu and [J. Sunil Rao](https://www.jsunilrao.com/).
 
 ### 22. Statistical learning does not always entail knowledge [[arχiv]](https://arxiv.org/pdf/2501.01963)
 &nbsp;&nbsp;&nbsp;&nbsp; _Bayesian Analysis_ (Submitted), 2025.
