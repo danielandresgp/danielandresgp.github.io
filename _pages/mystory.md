@@ -21,7 +21,7 @@ tags:
 things too wonderful for me which I did not know…<br> 
 I had heard of you by the hearing of the ear,<br> 
 but now my eye sees you.</p>
-<font size="3">
+</font>
 
 <p align="justify">My best analogy to describe what happened is this:</p>
 
