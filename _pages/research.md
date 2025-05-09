@@ -95,7 +95,7 @@ coarse? <i>Journal of Cosmology and Astroparticle Physics</i>, JCAP07(2021)020, 
 </ul></font> 
 
 
-## COVID-19
+## Detection, quantification, and correction of bias
 
 <p align="justify">During the COVID-19 pandemic, understanding the true prevalence of the virus was critical, but biased sampling hindered accurate estimations. Specifically, I realized that symptomatic individuals were more likely to seek testing. This bias led to overestimation of prevalence in First-World countries... and the subsequent adoption of horrible lockdown policies! Using the maximum entropy principle, my colleagues and I introduced corrected estimators as readily implementable algorithms directed to practitioners, while providing theoretical guarantees for our corrections. More specifically, we developed corrected estimators in the following cases: when all the symptomatic individuals are tested (as it was the case in most universities and companies in the US during the pandemic) and when not all the symptomatic individuals are tested but are still overrepresented in the sample, considering in the two cases the presence and absence of testing errors.</p>
 
@@ -141,6 +141,9 @@ prevalence estimation for biased sampling with testing errors. <i>Statistics in 
 ### Relevant publications
 
 <font size="3"><ul> 
+<li style="text-align: justify">Tianhao Liu, <b>Daniel Andrés Díaz-Pachón</b>, and J. Sunil Rao. Lenses of variation. <i>NeurIPS</i> (Submitted), 2025. 
+</li> 
+
 <li style="text-align: justify">Tianhao Liu, <b>Daniel Andrés Díaz-Pachón</b>, J. Sunil Rao, and Jean-Eudes Dazard. High-Dimensional
 Mode Hunting Using Pettiest Components Analysis. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i>. 45(4):4637–4649, 2023. <a href="https://ieeexplore.ieee.org/document/9847087">[Journal]</a> <a href="https://arxiv.org/pdf/2101.04288.pdf">[arχiv]</a> </li> 
 
@@ -173,7 +176,7 @@ Using Principal Components. In S. Ejaz Ahmed, editor, <i>Big and Complex Data An
 
 <font size="3"><ul> 
 <li style="text-align: justify"><b>Daniel Andrés Díaz-Pachón</b>, H. Renata Gallegos, Ola Hössjer, and J. Sunil Rao. Statistical
-Learning Does Not Always Entail Knowledge. <i>Annals of Applied Probability</i> (Submitted), 2024.
+Learning Does Not Always Entail Knowledge. <i>Bayesian Anlysis</i> (Second review), 2025.
 <a href="https://arxiv.org/pdf/2501.01963">[arχiv]</a>. </li> 
 
 <li style="text-align: justify"><b>Daniel Andrés Díaz-Pachón</b>, Ola Hössjer, and Calvin Mathew. Is It Possible to Know Cosmological
