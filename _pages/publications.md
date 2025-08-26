@@ -26,7 +26,7 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp; With Tianhao Liu and [J. Sunil Rao](https://www.jsunilrao.com/).
 
 ### 22. Statistical learning does not always entail knowledge [[arχiv]](https://arxiv.org/pdf/2501.01963)
-&nbsp;&nbsp;&nbsp;&nbsp; _Bayesian Analysis_ (Second review), 2025.
+&nbsp;&nbsp;&nbsp;&nbsp; _Bayesian Analysis_ (accepted), 2025.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With H. Renata Gallegos, [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541), and [J. Sunil Rao](https://www.jsunilrao.com/).
 
