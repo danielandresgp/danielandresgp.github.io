@@ -176,7 +176,7 @@ Using Principal Components. In S. Ejaz Ahmed, editor, <i>Big and Complex Data An
 
 <font size="3"><ul> 
 <li style="text-align: justify"><b>Daniel Andrés Díaz-Pachón</b>, H. Renata Gallegos, Ola Hössjer, and J. Sunil Rao. Statistical
-Learning Does Not Always Entail Knowledge. <i>Bayesian Anlysis</i> (Accepted), 2025.
+Learning Does Not Always Entail Knowledge. <i>Bayesian Analysis</i> (Accepted), 2025.
 <a href="https://arxiv.org/pdf/2501.01963">[arχiv]</a>. </li> 
 
 <li style="text-align: justify"><b>Daniel Andrés Díaz-Pachón</b>, Ola Hössjer, and Calvin Mathew. Is It Possible to Know Cosmological
