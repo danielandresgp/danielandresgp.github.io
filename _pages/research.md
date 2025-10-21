@@ -141,7 +141,7 @@ prevalence estimation for biased sampling with testing errors. <i>Statistics in 
 ### Relevant publications
 
 <font size="3"><ul> 
-<li style="text-align: justify">Tianhao Liu, <b>Daniel Andrés Díaz-Pachón</b>, and J. Sunil Rao. Lenses of variation. <i>NeurIPS</i> (Submitted), 2025. 
+<li style="text-align: justify">Tianhao Liu, <b>Daniel Andrés Díaz-Pachón</b>, and J. Sunil Rao. Lenses of variation. <i>(Under review)</i>, 2025. 
 </li> 
 
 <li style="text-align: justify">Tianhao Liu, <b>Daniel Andrés Díaz-Pachón</b>, J. Sunil Rao, and Jean-Eudes Dazard. High-Dimensional
