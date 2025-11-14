@@ -7,6 +7,15 @@ author_profile: true
 
 ## Working papers
 
+### 7. Global information
+&nbsp;&nbsp;&nbsp;&nbsp; With Li Guan, Xueru Ma, and Qiming Wu.
+
+### 6. Knowledge acquisition and consensus formation in populations
+&nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [J. Sunil Rao](https://www.jsunilrao.com/).
+
+### 5. Lenses of variation
+&nbsp;&nbsp;&nbsp;&nbsp; With Tianhao Liu and [J. Sunil Rao](https://www.jsunilrao.com/).
+
 ### 4. Information measures of human microbiota diversity
 &nbsp;&nbsp;&nbsp;&nbsp; With Renata Gallegos.
 
@@ -20,10 +29,6 @@ author_profile: true
 
 ## Articles
 
-### 23. Lenses of variation
-&nbsp;&nbsp;&nbsp;&nbsp; _NeurIPS_ (Submitted), 2025.
-
-&nbsp;&nbsp;&nbsp;&nbsp; With Tianhao Liu and [J. Sunil Rao](https://www.jsunilrao.com/).
 
 ### 22. Statistical learning does not always entail knowledge [[arχiv]](https://arxiv.org/pdf/2501.01963)
 &nbsp;&nbsp;&nbsp;&nbsp; _Bayesian Analysis_ (accepted), 2025.
