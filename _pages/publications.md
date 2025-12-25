@@ -13,7 +13,7 @@ author_profile: true
 ### 4. Conserved active information in search
 &nbsp;&nbsp;&nbsp;&nbsp; With Li Guan, Xueru Ma, and Qiming Wu.
 
-### 3. Spatial Ξ-Fleming-Viot processes
+### 3. Spatial Ξ-Fleming–Viot processes
 &nbsp;&nbsp;&nbsp;&nbsp; With [Alison Etheridge](https://www.stats.ox.ac.uk/all-people/alison-etheridge/).
 
 ### 2. Poisson multi-matchings
