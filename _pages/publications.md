@@ -7,17 +7,8 @@ author_profile: true
 
 ## Working papers
 
-### 7. Global information
+### 4. Conserved active information in search
 &nbsp;&nbsp;&nbsp;&nbsp; With Li Guan, Xueru Ma, and Qiming Wu.
-
-### 6. Knowledge acquisition and consensus formation in populations
-&nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [J. Sunil Rao](https://www.jsunilrao.com/).
-
-### 5. Lenses of variation
-&nbsp;&nbsp;&nbsp;&nbsp; With Tianhao Liu and [J. Sunil Rao](https://www.jsunilrao.com/).
-
-### 4. Information measures of human microbiota diversity
-&nbsp;&nbsp;&nbsp;&nbsp; With Renata Gallegos.
 
 ### 3. Spatial Ξ-Fleming-Viot processes
 &nbsp;&nbsp;&nbsp;&nbsp; With [Alison Etheridge](https://www.stats.ox.ac.uk/all-people/alison-etheridge/).
@@ -28,6 +19,24 @@ author_profile: true
 
 
 ## Articles
+
+
+
+
+### 25. Lenses of variation
+&nbsp;&nbsp;&nbsp;&nbsp; _IEEE Transactions on Pattern Analysis and Machine Intelligence_ (Under review), 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp; With [Tianhao Liu](https://scholar.google.com/citations?user=ROWz8FQAAAAJ&hl=en) and [J. Sunil Rao](https://www.jsunilrao.com/).
+
+### 24. Conserved active information
+&nbsp;&nbsp;&nbsp;&nbsp; _IEEE Transactions on Evolutionary Computing_ (Under review), 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp; With Yanchen Chen
+
+### 23. Mathematical Modeling of Knowledge acquisition and consensus formation in populations
+&nbsp;&nbsp;&nbsp;&nbsp; _Journal of Theoretical Probability_ (Under review), 2025
+
+&nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [J. Sunil Rao](https://www.jsunilrao.com/).
 
 
 ### 22. Statistical learning does not always entail knowledge [[arχiv]](https://arxiv.org/pdf/2501.01963)
@@ -51,7 +60,7 @@ author_profile: true
 ### 19. "Back-to-the-future" projections for COVID-19 surges [[Journal]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296964) 
 &nbsp;&nbsp;&nbsp;&nbsp; _PLOS One_, **19**(1):e0296964 2024 (Open access).
 
-&nbsp;&nbsp;&nbsp;&nbsp; With Tianhao Liu and [J. Sunil Rao](https://www.jsunilrao.com/).
+&nbsp;&nbsp;&nbsp;&nbsp; With [Tianhao Liu](https://scholar.google.com/citations?user=ROWz8FQAAAAJ&hl=en) and [J. Sunil Rao](https://www.jsunilrao.com/).
 
 
 ### 18. Algorithmic information forcastability [[arχiv]](https://arxiv.org/abs/2304.10752)
@@ -81,7 +90,7 @@ author_profile: true
 ### 14. High-Dimensional Mode Hunting Using Pettiest Components Analysis [[Journal]](https://ieeexplore.ieee.org/document/9847087) [[arχiv]](https://arxiv.org/pdf/2101.04288.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; _IEEE Transactions on Pattern Analysis and Machine Intelligence_, **45**(4):4637-4649, 2023. 
 
-&nbsp;&nbsp;&nbsp;&nbsp; With Tianhao Liu, [J. Sunil Rao](https://www.jsunilrao.com/), and [Jean-Eudes Dazard](https://case.academia.edu/JED).
+&nbsp;&nbsp;&nbsp;&nbsp; With [Tianhao Liu](https://scholar.google.com/citations?user=ROWz8FQAAAAJ&hl=en), [J. Sunil Rao](https://www.jsunilrao.com/), and [Jean-Eudes Dazard](https://case.academia.edu/JED).
 
 
 ### 13. Planning a Center for Standards and Ethics in Artificial Intelligence. [[pdf]](https://www.rivas.ai/pdfs/rivas2022planning.pdf)
