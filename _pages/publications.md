@@ -84,7 +84,7 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp; With [Pablo Rivas](https://www.rivas.ai/), [Laura Montoya](https://www.lauranmontoya.com/), and [Jorge Ortiz](http://jorgeortizphd.info/).
 
 
-### 15. Sometimes size does not matter [[Journal]](https://link.springer.com/article/10.1007/s10701-022-00650-1) [[Manuscript]](https://danielandresgp.github.io/files/Size%20does%20not%20matter.pdf) [[Poster]](https://danielandresgp.github.io/files/Poster.pdf)
+### 15. Sometimes size does not matter [[Journal]](https://link.springer.com/article/10.1007/s10701-022-00650-1) [[Preprint]](https://danielandresgp.github.io/files/Size%20does%20not%20matter.pdf) [[Poster]](https://danielandresgp.github.io/files/Poster.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; _Foundations of Physics_, **53**:1, 2023.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [Robert J. Marks II](https://robertmarks.org).
