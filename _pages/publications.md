@@ -31,7 +31,7 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Tianhao Liu](https://scholar.google.com/citations?user=ROWz8FQAAAAJ&hl=en) and [J. Sunil Rao](https://www.jsunilrao.com/).
 
-### 24. Conserved active information [[Preprint]](files/ConservedActiveInformation.pdf)
+### 24. Conserved active information [[Preprint]](https://danielandresgp.github.io/files/ConservedActiveInformation.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; _IEEE Transactions on Evolutionary Computing_ (Under review), 2025.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With Yanchen Chen
