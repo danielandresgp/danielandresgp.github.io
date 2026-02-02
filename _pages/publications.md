@@ -26,20 +26,26 @@ author_profile: true
 
 
 
-### 25. Lenses of variation
-&nbsp;&nbsp;&nbsp;&nbsp; _IEEE Transactions on Pattern Analysis and Machine Intelligence_ (Under review), 2025.
+### 26. Lenses of variation
+&nbsp;&nbsp;&nbsp;&nbsp; _IEEE Transactions on Pattern Analysis and Machine Intelligence_ (Under review), 2026.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Tianhao Liu](https://scholar.google.com/citations?user=ROWz8FQAAAAJ&hl=en) and [J. Sunil Rao](https://www.jsunilrao.com/).
 
-### 24. Conserved active information [[Preprint]](https://danielandresgp.github.io/files/ConservedActiveInformation.pdf)
-&nbsp;&nbsp;&nbsp;&nbsp; _IEEE Transactions on Evolutionary Computing_ (Under review), 2025.
+### 25. Conserved active information [[Preprint]](https://danielandresgp.github.io/files/ConservedActiveInformation.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp; _IEEE Transactions on Evolutionary Computing_ (Under review), 2026.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With Yanchen Chen
 
-### 23. Mathematical modeling of knowledge acquisition and consensus formation in populations [[Preprint]](https://danielandresgp.github.io/files/CollectiveLKA.pdf)
-&nbsp;&nbsp;&nbsp;&nbsp; _Methodology and Computing in Applied Probability_ (Under review), 2025
+### 24. Mathematical modeling of knowledge acquisition and consensus formation in populations [[Preprint]](https://danielandresgp.github.io/files/CollectiveLKA.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp; _Methodology and Computing in Applied Probability_ (Under review), 2026
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [J. Sunil Rao](https://www.jsunilrao.com/).
+
+### 23. High-dose influenza vaccine augments serological and cellular immunity of older people with HIV.
+&nbsp;&nbsp;&nbsp;&nbsp; _JCI Insight_ (accepted), 2026.
+
+&nbsp;&nbsp;&nbsp;&nbsp; With Jonah Kupritz, Sheldon Davis, [TianHao Liu](https://scholar.google.com/citations?user=ROWz8FQAAAAJ&hl=en), [Prabhsimran Singh](), [Allan Rodriguez](https://med.miami.edu/faculty/allan-rodriguez-md), [Scott Boyd](https://profiles.stanford.edu/scott-boyd), [Rajendra Pahwa](https://med.miami.edu/faculty/rajendra-n-pahwa-md), [Suresh Pallikkuth](https://med.miami.edu/faculty/suresh-pallikkuth-phd), and [Savita Pahwa](https://med.miami.edu/faculty/savita-pahwa-md).
+.
 
 
 ### 22. Statistical learning does not always entail knowledge [[arχiv]](https://arxiv.org/pdf/2501.01963)
