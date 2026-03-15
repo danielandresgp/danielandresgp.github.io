@@ -37,7 +37,7 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp; With Yanchen Chen
 
 ### 24. Mathematical modeling of knowledge acquisition and consensus formation in populations [[Preprint]](https://danielandresgp.github.io/files/CollectiveLKA.pdf)
-&nbsp;&nbsp;&nbsp;&nbsp; _Methodology and Computing in Applied Probability_ (Under review), 2026
+&nbsp;&nbsp;&nbsp;&nbsp; _Electronic Journal of Statistics_ (Under review), 2026
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [J. Sunil Rao](https://www.jsunilrao.com/).
 
