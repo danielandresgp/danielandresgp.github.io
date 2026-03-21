@@ -40,7 +40,7 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [J. Sunil Rao](https://www.jsunilrao.com/).
 
-### 23. High-dose influenza vaccine augments serological and cellular immunity of older people with HIV.
+### 23. High-dose influenza vaccine augments serological and cellular immunity of older people with HIV [[Journal]](https://insight.jci.org/articles/view/199232/pdf)
 &nbsp;&nbsp;&nbsp;&nbsp; _JCI Insight_ (accepted), 2026.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With Jonah Kupritz, Sheldon Davis, [TianHao Liu](https://scholar.google.com/citations?user=ROWz8FQAAAAJ&hl=en), [Prabhsimran Singh](), [Allan Rodriguez](https://med.miami.edu/faculty/allan-rodriguez-md), [Scott Boyd](https://profiles.stanford.edu/scott-boyd), [Rajendra Pahwa](https://med.miami.edu/faculty/rajendra-n-pahwa-md), [Suresh Pallikkuth](https://med.miami.edu/faculty/suresh-pallikkuth-phd), and [Savita Pahwa](https://med.miami.edu/faculty/savita-pahwa-md).
