@@ -14,7 +14,6 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp; With Li Guan, Xueru Ma, and Qiming Wu.
 
 ### 3. Spatial Ξ-Fleming–Viot processes
-&nbsp;&nbsp;&nbsp;&nbsp; With [Alison Etheridge](https://www.stats.ox.ac.uk/all-people/alison-etheridge/).
 
 ### 2. Poisson multi-matchings
 
@@ -26,7 +25,7 @@ author_profile: true
 
 
 
-### 26. Lenses of variation
+### 26. PRIM-cipal components analysis
 &nbsp;&nbsp;&nbsp;&nbsp; _IEEE Transactions on Pattern Analysis and Machine Intelligence_ (Under review), 2026.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Tianhao Liu](https://scholar.google.com/citations?user=ROWz8FQAAAAJ&hl=en) and [J. Sunil Rao](https://www.jsunilrao.com/).
