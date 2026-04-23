@@ -52,6 +52,8 @@ $\mathbf I^+(\mathbf P \mid \mathbf P_0) :=  \log[\mathbf P(\omega_1)/\mathbf P_
 ### Relevant publications
 
 <font size="3"><ul> 
+<li style="text-align: justify">Yanchen Chen and <b>Daniel Andrés Díaz-Pachón</b>. Conserved active information. <i>Under review</i>, 2026. <a href="https://arxiv.org/pdf/2206.05120.pdf">[arχiv]</a></li> 
+
 <li style="text-align: justify">Ola Hössjer, <b>Daniel Andrés Díaz-Pachón</b>, Chen Zhao, and J. Sunil Rao. An Information Theoretic Approach to Prevalence Estimation and Missing Data. <i>IEEE Transactions on Information Theory</i>, 70(5):3567–3582, 2024. <a href="https://ieeexplore.ieee.org/abstract/document/10295527">[Journal]</a> <a href="https://arxiv.org/pdf/2206.05120.pdf">[arχiv]</a></li> 
 
 <li style="text-align: justify"><b>Daniel Andrés Díaz-Pachón</b> and Ola Hössjer. Assessing, testing, and estimating the amount of fine-tuning by means of active information. <i>Entropy</i>, 24(10):1323, 2022 (<b>Editor’s choice article</b>). <a href="https://www.mdpi.com/1099-4300/24/10/1323">[Journal]</a> (Open source)</li>
