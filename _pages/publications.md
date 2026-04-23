@@ -1,4 +1,4 @@
----
+da---
 layout: archive
 title: "Publications"
 permalink: /publications/
@@ -25,12 +25,12 @@ author_profile: true
 
 
 
-### 26. PRIM-cipal components analysis
+### 26. PRIM-cipal components analysis [[arχiv]](https://arxiv.org/pdf/2604.15538)
 &nbsp;&nbsp;&nbsp;&nbsp; _IEEE Transactions on Information Theory_ (Under review), 2026.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Tianhao Liu](https://scholar.google.com/citations?user=ROWz8FQAAAAJ&hl=en) and [J. Sunil Rao](https://www.jsunilrao.com/).
 
-### 25. Conserved active information [[Preprint]](https://danielandresgp.github.io/files/ConservedActiveInformation.pdf)
+### 25. Conserved active information [[arχiv]](https://arxiv.org/pdf/2512.21834)
 &nbsp;&nbsp;&nbsp;&nbsp; _Physical Review E_ (Under review), 2026.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With Yanchen Chen
