@@ -11,6 +11,6 @@ This is a course taught yearly for first-year doctoral students. We follow Roman
 
 [Solutions to Chapter 0](https://danielandresgp.github.io/files/Ch0Vershynin.pdf)
 
-[Solutions to Chapter 1](https://danielandresgp.github.io/files/Ch0Vershynin.pdf)
+[Solutions to Chapter 1](https://danielandresgp.github.io/files/Ch1Vershynin.pdf)
 
 
