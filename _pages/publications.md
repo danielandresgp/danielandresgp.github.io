@@ -41,7 +41,7 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [J. Sunil Rao](https://www.jsunilrao.com/).
 
 
-### 23. Statistical learning does not always entail knowledge [[arχiv]](https://arxiv.org/pdf/2501.01963)
+### 23. Statistical learning does not always entail knowledge [[Journal]](https://projecteuclid.org/journalArticle/Download?urlId=10.1214%2F25-BA1553) [[arχiv]](https://arxiv.org/pdf/2501.01963)
 &nbsp;&nbsp;&nbsp;&nbsp; _Bayesian Analysis_ (accepted), 2025.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With H. Renata Gallegos, [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541), and [J. Sunil Rao](https://www.jsunilrao.com/).
