@@ -52,7 +52,7 @@ $\mathbf I^+(\mathbf P \mid \mathbf P_0) :=  \log[\mathbf P(\omega_1)/\mathbf P_
 ### Relevant publications
 
 <font size="3"><ul> 
-<li style="text-align: justify">Yanchen Chen and <b>Daniel Andrés Díaz-Pachón</b>. Conserved active information. <i>Under review</i>, 2026. <a href="https://arxiv.org/pdf/2206.05120.pdf">[arχiv]</a></li> 
+<li style="text-align: justify">Yanchen Chen and <b>Daniel Andrés Díaz-Pachón</b>. Conserved active information. <i>Under review</i>, 2026. <a href="https://arxiv.org/pdf/2512.21834">[arχiv]</a></li> 
 
 <li style="text-align: justify">Ola Hössjer, <b>Daniel Andrés Díaz-Pachón</b>, Chen Zhao, and J. Sunil Rao. An Information Theoretic Approach to Prevalence Estimation and Missing Data. <i>IEEE Transactions on Information Theory</i>, 70(5):3567–3582, 2024. <a href="https://ieeexplore.ieee.org/abstract/document/10295527">[Journal]</a> <a href="https://arxiv.org/pdf/2206.05120.pdf">[arχiv]</a></li> 
 
