@@ -1,4 +1,4 @@
-da---
+---
 layout: archive
 title: "Publications"
 permalink: /publications/
