@@ -7,7 +7,7 @@ venue: "University of Miami, Division of Biostatistics"
 location: "Miami, FL, USA"
 ---
 
-This is a course taught yearly for first-year doctoral students. We follow Roman Vershynin's wonderful [High-dimensional probability](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-2.pdf)
+This is a course taught yearly for first-year doctoral students. We follow Roman Vershynin's wonderful [_High-dimensional probability_](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-2.pdf)
 
 [Solutions to Chapter 0](https://danielandresgp.github.iofiles/Ch0Vershynin.pdf)
 
