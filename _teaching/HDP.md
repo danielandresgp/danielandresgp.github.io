@@ -10,6 +10,7 @@ location: "Miami, FL, USA"
 This is a course taught yearly for first-year doctoral students. We follow Roman Vershynin's wonderful [High-dimensional probability](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-2.pdf)
 
 [Solutions to Chapter 0](https://danielandresgp.github.iofiles/Ch0Vershynin.pdf)
+
 [Solutions to Chapter 1](https://danielandresgp.github.iofiles/Ch0Vershynin.pdf)
 
 
