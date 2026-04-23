@@ -26,12 +26,12 @@ author_profile: true
 
 
 ### 26. PRIM-cipal components analysis
-&nbsp;&nbsp;&nbsp;&nbsp; _IEEE Transactions on Pattern Analysis and Machine Intelligence_ (Under review), 2026.
+&nbsp;&nbsp;&nbsp;&nbsp; _IEEE Transactions on Information Theory_ (Under review), 2026.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Tianhao Liu](https://scholar.google.com/citations?user=ROWz8FQAAAAJ&hl=en) and [J. Sunil Rao](https://www.jsunilrao.com/).
 
 ### 25. Conserved active information [[Preprint]](https://danielandresgp.github.io/files/ConservedActiveInformation.pdf)
-&nbsp;&nbsp;&nbsp;&nbsp; _IEEE Transactions on Evolutionary Computing_ (Under review), 2026.
+&nbsp;&nbsp;&nbsp;&nbsp; _Physical Review E_ (Under review), 2026.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With Yanchen Chen
 
@@ -40,16 +40,17 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [J. Sunil Rao](https://www.jsunilrao.com/).
 
-### 23. High-dose influenza vaccine augments serological and cellular immunity of older people with HIV [[Journal]](https://insight.jci.org/articles/view/199232/pdf)
-&nbsp;&nbsp;&nbsp;&nbsp; _JCI Insight_ (accepted), 2026.
 
-&nbsp;&nbsp;&nbsp;&nbsp; With Jonah Kupritz, Sheldon Davis, [TianHao Liu](https://scholar.google.com/citations?user=ROWz8FQAAAAJ&hl=en), [Prabhsimran Singh](), [Allan Rodriguez](https://med.miami.edu/faculty/allan-rodriguez-md), [Scott Boyd](https://profiles.stanford.edu/scott-boyd), [Rajendra Pahwa](https://med.miami.edu/faculty/rajendra-n-pahwa-md), [Suresh Pallikkuth](https://med.miami.edu/faculty/suresh-pallikkuth-phd), and [Savita Pahwa](https://med.miami.edu/faculty/savita-pahwa-md).
-
-
-### 22. Statistical learning does not always entail knowledge [[arχiv]](https://arxiv.org/pdf/2501.01963)
+### 23. Statistical learning does not always entail knowledge [[arχiv]](https://arxiv.org/pdf/2501.01963)
 &nbsp;&nbsp;&nbsp;&nbsp; _Bayesian Analysis_ (accepted), 2025.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With H. Renata Gallegos, [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541), and [J. Sunil Rao](https://www.jsunilrao.com/).
+
+
+### 22. High-dose influenza vaccine augments serological and cellular immunity of older people with HIV [[Journal]](https://insight.jci.org/articles/view/199232/pdf)
+&nbsp;&nbsp;&nbsp;&nbsp; _JCI Insight_ **11**(8):e199232, 2026.
+
+&nbsp;&nbsp;&nbsp;&nbsp; With Jonah Kupritz, Sheldon Davis, [TianHao Liu](https://scholar.google.com/citations?user=ROWz8FQAAAAJ&hl=en), [Prabhsimran Singh](), [Allan Rodriguez](https://med.miami.edu/faculty/allan-rodriguez-md), [Scott Boyd](https://profiles.stanford.edu/scott-boyd), [Rajendra Pahwa](https://med.miami.edu/faculty/rajendra-n-pahwa-md), [Suresh Pallikkuth](https://med.miami.edu/faculty/suresh-pallikkuth-phd), and [Savita Pahwa](https://med.miami.edu/faculty/savita-pahwa-md).
 
 
 ### 21. An Information Theoretic Approach to Prevalence Estimation and Missing Data [[Journal]](https://ieeexplore.ieee.org/abstract/document/10295527) [[arχiv]](https://arxiv.org/pdf/2206.05120.pdf) 
