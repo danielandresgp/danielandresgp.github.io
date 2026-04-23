@@ -128,7 +128,7 @@ prevalence estimation for biased sampling with testing errors. <i>Statistics in 
 
 
 
-## Clustering
+## Bump-hunting
 
 <p align="justify">Since my days as a postdoc, I started working on machine learning problems related to bump-hunting. Even though a unified definition of a cluster (or bump) is elusive, we can still use \eqref{AIN} to detect a cluster. Indeed, it is clear that if $\Omega$ is bounded, it will not contain clusters when the data is uniformly distributed. For $\mathbf P$ and $\mathbf P_0$ the empirical and uniform distributions over $\Omega$, this is equivalent to saying that there is a cluster in $\mathsf A \subset \Omega$ if the active information $I^+(\mathsf A) > 0$, or in $\mathsf A^c$ if $I^+(\mathsf A) < 0$ (importantly, by contrast, the Kullback-Leibler divergence can only detect the existence of a cluster in $\Omega$ but not its location). Accordingly, in my first approach I have developed algorithms, with their respective statistical guarantees, using $I^+(\mathsf A)$ as a test statistic for cluster detection in different regions of $\Omega$. My second approach uses spectral algorithms for the detection of clusters, but I do it with a twist: I realized that as the leading eigenvectors correspond to larger variances, data must be more clustered in the dimensions corresponding to the eigenvectors with the smallest eigenvalues, that we call <i>pettiest components</i>.</p>
 
@@ -143,7 +143,7 @@ prevalence estimation for biased sampling with testing errors. <i>Statistics in 
 ### Relevant publications
 
 <font size="3"><ul> 
-<li style="text-align: justify">Tianhao Liu, <b>Daniel Andrés Díaz-Pachón</b>, and J. Sunil Rao. Lenses of variation. <i>(Under review)</i>, 2025. 
+<li style="text-align: justify">Tianhao Liu, <b>Daniel Andrés Díaz-Pachón</b>, and J. Sunil Rao. PRIM-cipal components analysis. <i>Under review</i>, 2025. <a href="https://ieeexplore.ieee.org/document/9847087">[arχiv]</a>
 </li> 
 
 <li style="text-align: justify">Tianhao Liu, <b>Daniel Andrés Díaz-Pachón</b>, J. Sunil Rao, and Jean-Eudes Dazard. High-Dimensional
