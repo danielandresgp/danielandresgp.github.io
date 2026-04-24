@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/HDP
 venue: "University of Miami, Division of Biostatistics"
-date: 2025
+date: 2025-08-01
 location: "Miami, FL, USA"
 ---
 
