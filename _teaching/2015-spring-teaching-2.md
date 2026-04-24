@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Probability theory"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Graduate course"
+permalink: /teaching/ProbabilityTheory
+venue: "University of Miami, Division of Biostatistics and Bioinformatics"
+date: 2026-01-01
+location: "Miami, FL, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+A measure-theoretic approach to probability.
 
 Heading 1
 ======
