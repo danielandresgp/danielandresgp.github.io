@@ -143,7 +143,7 @@ prevalence estimation for biased sampling with testing errors. <i>Statistics in 
 ### Relevant publications
 
 <font size="3"><ul> 
-<li style="text-align: justify">Tianhao Liu, <b>Daniel Andrés Díaz-Pachón</b>, and J. Sunil Rao. PRIM-cipal components analysis. <i>Under review</i>, 2025. <a href="https://arxiv.org/pdf/2604.15538">[arχiv]</a>
+<li style="text-align: justify">Tianhao Liu, <b>Daniel Andrés Díaz-Pachón</b>, and J. Sunil Rao. PRIM-cipal components analysis. <i>Under review</i>, 2026. <a href="https://danielandresgp.github.io/files/CollectiveLKA.pdf">[Preprint]</a>
 </li> 
 
 <li style="text-align: justify">Tianhao Liu, <b>Daniel Andrés Díaz-Pachón</b>, J. Sunil Rao, and Jean-Eudes Dazard. High-Dimensional
@@ -177,6 +177,9 @@ Using Principal Components. In S. Ejaz Ahmed, editor, <i>Big and Complex Data An
 ### Relevant publications
 
 <font size="3"><ul> 
+<li style="text-align: justify">Ola Hössjer, <b>Daniel Andrés Díaz-Pachón</b>, and J. Sunil Rao. Mathematical Modelling of Knowledge Acquisition and Consensus Formation in Populations. <i>Under review</i>, 2026.
+<a href="https://arxiv.org/pdf/2501.01963">[arχiv]</a>. </li>
+
 <li style="text-align: justify"><b>Daniel Andrés Díaz-Pachón</b>, H. Renata Gallegos, Ola Hössjer, and J. Sunil Rao. Statistical
 Learning Does Not Always Entail Knowledge. <i>Bayesian Analysis</i> (Accepted), 2025.
 <a href="https://arxiv.org/pdf/2501.01963">[arχiv]</a>. </li> 
