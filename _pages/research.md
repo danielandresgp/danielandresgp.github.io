@@ -177,7 +177,7 @@ Using Principal Components. In S. Ejaz Ahmed, editor, <i>Big and Complex Data An
 ### Relevant publications
 
 <font size="3"><ul> 
-<li style="text-align: justify">Ola Hössjer, <b>Daniel Andrés Díaz-Pachón</b>, and J. Sunil Rao. Mathematical Modelling of Knowledge Acquisition and Consensus Formation in Populations. <i>(Electronic Journal of Statistics</i> (second review), 2026.
+<li style="text-align: justify">Ola Hössjer, <b>Daniel Andrés Díaz-Pachón</b>, and J. Sunil Rao. Mathematical Modelling of Knowledge Acquisition and Consensus Formation in Populations. <i>Electronic Journal of Statistics</i> (second review), 2026.
 <a href="https://danielandresgp.github.io/files/CollectiveLKA.pdf">[Preprint]</a>. </li>
 
 <li style="text-align: justify"><b>Daniel Andrés Díaz-Pachón</b>, H. Renata Gallegos, Ola Hössjer, and J. Sunil Rao. Statistical
