@@ -182,7 +182,7 @@ Using Principal Components. In S. Ejaz Ahmed, editor, <i>Big and Complex Data An
 
 <li style="text-align: justify"><b>Daniel Andrés Díaz-Pachón</b>, H. Renata Gallegos, Ola Hössjer, and J. Sunil Rao. Statistical
 Learning Does Not Always Entail Knowledge. <i>Bayesian Analysis</i> (Accepted), 2025.
-<a href="https://arxiv.org/pdf/2501.01963">[arχiv]</a>. </li> 
+<a href="https://projecteuclid.org/journalArticle/Download?urlId=10.1214%2F25-BA1553">[Journal]</a> <a href="https://arxiv.org/pdf/2501.01963">[arχiv]</a>. </li> 
 
 <li style="text-align: justify"><b>Daniel Andrés Díaz-Pachón</b>, Ola Hössjer, and Calvin Mathew. Is It Possible to Know Cosmological
 Fine-Tuning? <i>The Astrophysical Journal Supplement Series</i>, 271(2):56, 2024. <a href="https://iopscience.iop.org/article/10.3847/1538-4365/ad2c88">[Journal]</a> (Open access) </li>
