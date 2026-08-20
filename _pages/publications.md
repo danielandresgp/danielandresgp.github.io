@@ -7,11 +7,8 @@ author_profile: true
 
 ## Working papers
 
-### 5. Coalescents: A review
+### 4. Coalescents: A review
 &nbsp;&nbsp;&nbsp;&nbsp; With Michele Ceccarelli and Luigi Ferraro
-
-### 4. Conserved active information in search
-&nbsp;&nbsp;&nbsp;&nbsp; With Li Guan, Xueru Ma, and Qiming Wu.
 
 ### 3. Spatial Ξ-Fleming–Viot processes
 
@@ -31,12 +28,12 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp; With [Tianhao Liu](https://scholar.google.com/citations?user=ROWz8FQAAAAJ&hl=en) and [J. Sunil Rao](https://www.jsunilrao.com/).
 
 ### 25. Conserved active information [[arχiv]](https://arxiv.org/pdf/2512.21834)
-&nbsp;&nbsp;&nbsp;&nbsp; _Physical Review E_ (Under review), 2026.
+&nbsp;&nbsp;&nbsp;&nbsp; _npj Complexity_ (Under review), 2026.
 
 &nbsp;&nbsp;&nbsp;&nbsp; With Yanchen Chen
 
 ### 24. Mathematical modeling of knowledge acquisition and consensus formation in populations [[Preprint]](https://danielandresgp.github.io/files/CollectiveLKA.pdf)
-&nbsp;&nbsp;&nbsp;&nbsp; _Electronic Journal of Statistics_ (Under review), 2026
+&nbsp;&nbsp;&nbsp;&nbsp; _Electronic Journal of Statistics_ (Second review), 2026
 
 &nbsp;&nbsp;&nbsp;&nbsp; With [Ola Hössjer](https://www.su.se/english/profiles/ohssj-1.182541) and [J. Sunil Rao](https://www.jsunilrao.com/).
 
